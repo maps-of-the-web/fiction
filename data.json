@@ -73,7 +73,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n28",
+      "id":"show-cheers",
       "label":"Cheers",
       "size": 1,
       "type": "tv-show"
@@ -2241,26 +2241,26 @@
       "label":"Crossover"
     },
     {
-      "source": "n28",
+      "source": "show-cheers",
       "target": "show-st_elsewhere",
       "id": "e27",
       "label":"Crossover",
       "Episode":"St. Elsewhere 3x24"
     },
     {
-      "source": "n28",
+      "source": "show-cheers",
       "target": "n39",
       "id": "e41",
       "label":"Spin-Off"
     },
     {
-      "source": "n28",
+      "source": "show-cheers",
       "target": "n47",
       "id": "e56",
       "label":"Spin-Off"
     },
     {
-      "source": "n28",
+      "source": "show-cheers",
       "target": "n58",
       "id": "e280",
       "label":"Crossover"
@@ -2900,7 +2900,7 @@
     },
     {
       "source": "n29",
-      "target": "n28",
+      "target": "show-cheers",
       "id": "e28",
       "label":"Main Character"
     },
@@ -2913,7 +2913,7 @@
     },
     {
       "source": "n30",
-      "target": "n28",
+      "target": "show-cheers",
       "id": "e29",
       "label":"Main Character"
     },
@@ -2933,7 +2933,7 @@
     },
     {
       "source": "n31",
-      "target": "n28",
+      "target": "show-cheers",
       "id": "e30",
       "label":"Main Character"
     },
@@ -2946,25 +2946,25 @@
     },
     {
       "source": "n32",
-      "target": "n28",
+      "target": "show-cheers",
       "id": "e34",
       "label":"Main Character"
     },
     {
       "source": "n33",
-      "target": "n28",
+      "target": "show-cheers",
       "id": "e35",
       "label":"Main Character"
     },
     {
       "source": "n34",
-      "target": "n28",
+      "target": "show-cheers",
       "id": "e36",
       "label":"Main Character"
     },
     {
       "source": "n35",
-      "target": "n28",
+      "target": "show-cheers",
       "id": "e37",
       "label":"Main Character"
     },
@@ -2996,13 +2996,13 @@
     },
     {
       "source": "n36",
-      "target": "n28",
+      "target": "show-cheers",
       "id": "e38",
       "label":"Main Character"
     },
     {
       "source": "n37",
-      "target": "n28",
+      "target": "show-cheers",
       "id": "e39",
       "label":"Main Character"
     },
@@ -3015,7 +3015,7 @@
     },
     {
       "source": "n38",
-      "target": "n28",
+      "target": "show-cheers",
       "id": "e40",
       "label":"Main Character"
     },
