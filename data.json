@@ -571,7 +571,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n268",
+      "id":"show-profiler",
       "label":"Profiler",
       "size": 1,
       "type": "tv-show"
@@ -2659,7 +2659,7 @@
     },
     {
       "source": "show-pretender",
-      "target": "n268",
+      "target": "show-profiler",
       "id": "e325",
       "label":"Crossover"
     },
