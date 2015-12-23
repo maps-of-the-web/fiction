@@ -667,7 +667,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n306",
+      "id":"show-chicago_hope",
       "label":"Chicago Hope",
       "size": 1,
       "type": "tv-show"
@@ -2724,7 +2724,7 @@
       "label":"Crossover"
     },
     {
-      "source": "n306",
+      "source": "show-chicago_hope",
       "target": "show-homicide_life_on_the_street",
       "id": "e423",
       "label":"Crossover"
@@ -4671,7 +4671,7 @@
     },
     {
       "source": "n307",
-      "target": "n306",
+      "target": "show-chicago_hope",
       "id": "e424",
       "label":"Main Character"
     },
