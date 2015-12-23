@@ -61,6 +61,136 @@
       "type": "tv-show"
     },
     {
+      "id":"character-st_elsewhere-donald_westphall",
+      "label":"Dr. Donald Westphall",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-ben_samuels",
+      "label":"Dr. Ben Samuels",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-hugh_beale",
+      "label":"Dr. Hugh Beale",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-victor_ehrlich",
+      "label":"Dr. Victor Ehrlich",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-peter_white",
+      "label":"Dr. Peter White",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-wayne_fiscus",
+      "label":"Dr. Wayne Fiscus",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-jack_morrison",
+      "label":"Dr. Jack Morrison",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-helen_rosenthal",
+      "label":"Nurse Helen Rosenthal",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-vijay_kochar",
+      "label":"Dr. Vijay Kochar",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-annie_cavanero",
+      "label":"Dr. Annie Cavanero",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-phillip_chandler",
+      "label":"Dr. Phillip Chandler",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-mark_craig",
+      "label":"Dr. Mark Craig",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-daniel_auschlander",
+      "label":"Dr. Daniel Auschlander",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-shirley_daniels",
+      "label":"Nurse Shirley Daniels",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-robert_caldwell",
+      "label":"Dr. Robert Caldwell",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-luther_hawkins",
+      "label":"Luther Hawkins",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-wendy_armstrong",
+      "label":"Dr. Wendy Armstrong",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-joan_halloran",
+      "label":"Joan Halloran",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-elliot_axelrod",
+      "label":"Dr. Elliot Axelrod",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-ellen_craig",
+      "label":"Ellen Craig",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-seth_griffin",
+      "label":"Dr. Seth Griffin",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-carol_novino",
+      "label":"Dr. Carol Novino",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-john_gideon",
+      "label":"Dr. John Gideon",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-jacquelin_wade",
+      "label":"Dr. Jacqueline Wade",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-paulette_kiem",
+      "label":"Dr. Paulette Kiem",
+      "type": "character"
+    },
+    {
+      "id":"character-st_elsewhere-lucy_papandreo",
+      "label":"Nurse Lucy Papandreo",
+      "type": "character"
+    },
+    {
       "id":"show-cheers",
       "label":"Cheers",
       "type": "tv-show"
@@ -584,136 +714,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n2",
-      "label":"Dr. Donald Westphall",
-      "type": "character"
-    },
-    {
-      "id":"n3",
-      "label":"Dr. Ben Samuels",
-      "type": "character"
-    },
-    {
-      "id":"n4",
-      "label":"Dr. Hugh Beale",
-      "type": "character"
-    },
-    {
-      "id":"n5",
-      "label":"Dr. Victor Ehrlich",
-      "type": "character"
-    },
-    {
-      "id":"n6",
-      "label":"Dr. Peter White",
-      "type": "character"
-    },
-    {
-      "id":"n7",
-      "label":"Dr. Wayne Fiscus",
-      "type": "character"
-    },
-    {
-      "id":"n8",
-      "label":"Dr. Jack Morrison",
-      "type": "character"
-    },
-    {
-      "id":"n9",
-      "label":"Nurse Helen Rosenthal",
-      "type": "character"
-    },
-    {
-      "id":"n10",
-      "label":"Dr. Vijay Kochar",
-      "type": "character"
-    },
-    {
-      "id":"n11",
-      "label":"Dr. Annie Cavanero",
-      "type": "character"
-    },
-    {
-      "id":"n12",
-      "label":"Dr. Phillip Chandler",
-      "type": "character"
-    },
-    {
-      "id":"n13",
-      "label":"Dr. Mark Craig",
-      "type": "character"
-    },
-    {
-      "id":"n14",
-      "label":"Dr. Daniel Auschlander",
-      "type": "character"
-    },
-    {
-      "id":"n15",
-      "label":"Nurse Shirley Daniels",
-      "type": "character"
-    },
-    {
-      "id":"n16",
-      "label":"Dr. Robert Caldwell",
-      "type": "character"
-    },
-    {
-      "id":"n17",
-      "label":"Luther Hawkins",
-      "type": "character"
-    },
-    {
-      "id":"n18",
-      "label":"Dr. Wendy Armstrong",
-      "type": "character"
-    },
-    {
-      "id":"n19",
-      "label":"Joan Halloran",
-      "type": "character"
-    },
-    {
-      "id":"n20",
-      "label":"Dr. Elliot Axelrod",
-      "type": "character"
-    },
-    {
-      "id":"n21",
-      "label":"Ellen Craig",
-      "type": "character"
-    },
-    {
-      "id":"n22",
-      "label":"Dr. Seth Griffin",
-      "type": "character"
-    },
-    {
-      "id":"n23",
-      "label":"Dr. Carol Novino",
-      "type": "character"
-    },
-    {
-      "id":"n24",
-      "label":"Dr. John Gideon",
-      "type": "character"
-    },
-    {
-      "id":"n25",
-      "label":"Dr. Jacqueline Wade",
-      "type": "character"
-    },
-    {
-      "id":"n26",
-      "label":"Dr. Paulette Kiem",
-      "type": "character"
-    },
-    {
-      "id":"n27",
-      "label":"Nurse Lucy Papandreo",
-      "type": "character"
     },
     {
       "id":"n29",
@@ -2377,163 +2377,163 @@
       "label":"Crossover"
     },
     {
-      "source": "n2",
+      "source": "character-st_elsewhere-donald_westphall",
       "target": "show-st_elsewhere",
       "id": "e1",
       "label":"Main Character"
     },
     {
-      "source": "n3",
+      "source": "character-st_elsewhere-ben_samuels",
       "target": "show-st_elsewhere",
       "id": "e2",
       "label":"Main Character"
     },
     {
-      "source": "n4",
+      "source": "character-st_elsewhere-hugh_beale",
       "target": "show-st_elsewhere",
       "id": "e3",
       "label":"Main Character"
     },
     {
-      "source": "n5",
+      "source": "character-st_elsewhere-victor_ehrlich",
       "target": "show-st_elsewhere",
       "id": "e4",
       "label":"Main Character"
     },
     {
-      "source": "n5",
+      "source": "character-st_elsewhere-victor_ehrlich",
       "target": "movie-homicide",
       "id": "e419",
       "label":"Cameo"
     },
     {
-      "source": "n6",
+      "source": "character-st_elsewhere-peter_white",
       "target": "show-st_elsewhere",
       "id": "e5",
       "label":"Main Character"
     },
     {
-      "source": "n7",
+      "source": "character-st_elsewhere-wayne_fiscus",
       "target": "show-st_elsewhere",
       "id": "e6",
       "label":"Main Character"
     },
     {
-      "source": "n8",
+      "source": "character-st_elsewhere-jack_morrison",
       "target": "show-st_elsewhere",
       "id": "e7",
       "label":"Main Character"
     },
     {
-      "source": "n9",
+      "source": "character-st_elsewhere-helen_rosenthal",
       "target": "show-st_elsewhere",
       "id": "e8",
       "label":"Main Character"
     },
     {
-      "source": "n10",
+      "source": "character-st_elsewhere-vijay_kochar",
       "target": "show-st_elsewhere",
       "id": "e9",
       "label":"Main Character"
     },
     {
-      "source": "n11",
+      "source": "character-st_elsewhere-annie_cavanero",
       "target": "show-st_elsewhere",
       "id": "e10",
       "label":"Main Character"
     },
     {
-      "source": "n12",
+      "source": "character-st_elsewhere-phillip_chandler",
       "target": "show-st_elsewhere",
       "id": "e11",
       "label":"Main Character"
     },
     {
-      "source": "n13",
+      "source": "character-st_elsewhere-mark_craig",
       "target": "show-st_elsewhere",
       "id": "e12",
       "label":"Main Character"
     },
     {
-      "source": "n14",
+      "source": "character-st_elsewhere-daniel_auschlander",
       "target": "show-st_elsewhere",
       "id": "e13",
       "label":"Main Character"
     },
     {
-      "source": "n15",
+      "source": "character-st_elsewhere-shirley_daniels",
       "target": "show-st_elsewhere",
       "id": "e14",
       "label":"Main Character"
     },
     {
-      "source": "n16",
+      "source": "character-st_elsewhere-robert_caldwell",
       "target": "show-st_elsewhere",
       "id": "e15",
       "label":"Main Character"
     },
     {
-      "source": "n17",
+      "source": "character-st_elsewhere-luther_hawkins",
       "target": "show-st_elsewhere",
       "id": "e16",
       "label":"Main Character"
     },
     {
-      "source": "n18",
+      "source": "character-st_elsewhere-wendy_armstrong",
       "target": "show-st_elsewhere",
       "id": "e17",
       "label":"Main Character"
     },
     {
-      "source": "n19",
+      "source": "character-st_elsewhere-joan_halloran",
       "target": "show-st_elsewhere",
       "id": "e18",
       "label":"Main Character"
     },
     {
-      "source": "n20",
+      "source": "character-st_elsewhere-elliot_axelrod",
       "target": "show-st_elsewhere",
       "id": "e19",
       "label":"Main Character"
     },
     {
-      "source": "n21",
+      "source": "character-st_elsewhere-ellen_craig",
       "target": "show-st_elsewhere",
       "id": "e20",
       "label":"Main Character"
     },
     {
-      "source": "n22",
+      "source": "character-st_elsewhere-seth_griffin",
       "target": "show-st_elsewhere",
       "id": "e21",
       "label":"Main Character"
     },
     {
-      "source": "n23",
+      "source": "character-st_elsewhere-carol_novino",
       "target": "show-st_elsewhere",
       "id": "e22",
       "label":"Main Character"
     },
     {
-      "source": "n24",
+      "source": "character-st_elsewhere-john_gideon",
       "target": "show-st_elsewhere",
       "id": "e23",
       "label":"Main Character"
     },
     {
-      "source": "n25",
+      "source": "character-st_elsewhere-jacquelin_wade",
       "target": "show-st_elsewhere",
       "id": "e24",
       "label":"Main Character"
     },
     {
-      "source": "n26",
+      "source": "character-st_elsewhere-paulette_kiem",
       "target": "show-st_elsewhere",
       "id": "e25",
       "label":"Main Character"
     },
     {
-      "source": "n27",
+      "source": "character-st_elsewhere-lucy_papandreo",
       "target": "show-st_elsewhere",
       "id": "e26",
       "label":"Main Character"
