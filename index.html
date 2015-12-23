@@ -18,7 +18,8 @@
 		<script src="scripts/sigma.parsers.json.min.js"></script>
 		<script src="scripts/sigma.layout.forceAtlas2.min.js"></script>
 		<script>
-			sigma.settings.drawLabels = false;
+			//sigma.settings.drawLabels = false;
+			sigma.settings.labelThreshold = 16;
 			sigma.settings.scalingMode = "outside";
 			sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/data.json', {
 				container: 'sigma-container'
