@@ -355,7 +355,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n232",
+      "id":"show-dick_van_dyke_show",
       "label":"Dick Van Dyke Show",
       "size": 1,
       "type": "tv-show"
@@ -2502,7 +2502,7 @@
       "label":"Crossover"
     },
     {
-      "source": "n232",
+      "source": "show-dick_van_dyke_show",
       "target": "show-mad_about_you",
       "id": "e298",
       "label":"Crossover"
