@@ -265,7 +265,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n165",
+      "id":"show-bunkd",
       "label":"Bunk'd",
       "size": 1,
       "type": "tv-show"
@@ -2303,7 +2303,7 @@
     },
     {
       "source": "show-jessie",
-      "target": "n165",
+      "target": "show-bunkd",
       "id": "e169",
       "label":"Spin-Off"
     },
