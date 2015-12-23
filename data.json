@@ -463,7 +463,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n250",
+      "id":"show-owen_marshall_counselor_at_law",
       "label":"Owen Marshall: Counselor at Law",
       "size": 1,
       "type": "tv-show"
@@ -2593,7 +2593,7 @@
     },
     {
       "source": "show-marcus_welby_md",
-      "target": "n250",
+      "target": "show-owen_marshall_counselor_at_law",
       "id": "e314",
       "label":"Crossover"
     },
