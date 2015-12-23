@@ -493,7 +493,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n255",
+      "id":"show-medical_investigation",
       "label":"Medical Investigation",
       "size": 1,
       "type": "tv-show"
@@ -2611,7 +2611,7 @@
     },
     {
       "source": "show-third_watch",
-      "target": "n255",
+      "target": "show-medical_investigation",
       "id": "e317",
       "label":"Crossover"
     },
