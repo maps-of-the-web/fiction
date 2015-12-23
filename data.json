@@ -331,7 +331,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n228",
+      "id":"show-friends",
       "label":"Friends",
       "size": 1,
       "type": "tv-show"
@@ -2465,26 +2465,26 @@
       "Episode":"8x24"
     },
     {
-      "source": "n228",
+      "source": "show-friends",
       "target": "show-caroline_in_the_city",
       "id": "e294",
       "label":"Crossover"
     },
     {
-      "source": "n228",
+      "source": "show-friends",
       "target": "n233",
       "id": "e299",
       "label":"Crossover"
     },
     {
-      "source": "n228",
+      "source": "show-friends",
       "target": "n358",
       "id": "e1638",
       "label":"Crossover",
       "Episode":"2x14"
     },
     {
-      "source": "n228",
+      "source": "show-friends",
       "target": "n365",
       "id": "e1639",
       "label":"Spin-Off"
@@ -2497,7 +2497,7 @@
     },
     {
       "source": "n230",
-      "target": "n228",
+      "target": "show-friends",
       "id": "e296",
       "label":"Crossover"
     },
@@ -3252,7 +3252,7 @@
     },
     {
       "source": "n79",
-      "target": "n228",
+      "target": "show-friends",
       "id": "e1620",
       "label":"Guest",
       "Episode":"2x6"
@@ -5278,19 +5278,19 @@
     },
     {
       "source": "n351",
-      "target": "n228",
+      "target": "show-friends",
       "id": "e1621",
       "label":"Main Character"
     },
     {
       "source": "n352",
-      "target": "n228",
+      "target": "show-friends",
       "id": "e1622",
       "label":"Main Character"
     },
     {
       "source": "n353",
-      "target": "n228",
+      "target": "show-friends",
       "id": "e1623",
       "label":"Main Character"
     },
@@ -5303,7 +5303,7 @@
     },
     {
       "source": "n354",
-      "target": "n228",
+      "target": "show-friends",
       "id": "e1624",
       "label":"Main Character"
     },
@@ -5322,13 +5322,13 @@
     },
     {
       "source": "n355",
-      "target": "n228",
+      "target": "show-friends",
       "id": "e1625",
       "label":"Main Character"
     },
     {
       "source": "n356",
-      "target": "n228",
+      "target": "show-friends",
       "id": "e1626",
       "label":"Main Character"
     },
