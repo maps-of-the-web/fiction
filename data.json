@@ -61,7 +61,7 @@
       "type": "movie"
     },
     {
-      "id":"n303",
+      "id":"movie-homicide",
       "label":"Homicide: The Movie",
       "size": 1,
       "type": "movie"
@@ -2713,7 +2713,7 @@
     },
     {
       "source": "n301",
-      "target": "n303",
+      "target": "movie-homicide",
       "id": "e418",
       "label":"Spin-Off"
     },
@@ -2755,7 +2755,7 @@
     },
     {
       "source": "n5",
-      "target": "n303",
+      "target": "movie-homicide",
       "id": "e419",
       "label":"Cameo"
     },
@@ -4689,7 +4689,7 @@
     },
     {
       "source": "n308",
-      "target": "n303",
+      "target": "movie-homicide",
       "id": "e433",
       "label":"Main Character"
     },
