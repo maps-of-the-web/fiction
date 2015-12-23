@@ -205,7 +205,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n154",
+      "id":"show-good_luck_charlie",
       "label":"Good Luck Charlie",
       "size": 1,
       "type": "tv-show"
@@ -2398,7 +2398,7 @@
       "label":"Crossover"
     },
     {
-      "source": "n154",
+      "source": "show-good_luck_charlie",
       "target": "n231",
       "id": "e297",
       "label":"Crossover"
