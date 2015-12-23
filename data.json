@@ -91,7 +91,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n58",
+      "id":"show-wings",
       "label":"Wings",
       "size": 1,
       "type": "tv-show"
@@ -2261,7 +2261,7 @@
     },
     {
       "source": "show-cheers",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e280",
       "label":"Crossover"
     },
@@ -2919,7 +2919,7 @@
     },
     {
       "source": "n30",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e88",
       "label":"Guest",
       "Episode":"2x2"
@@ -2939,7 +2939,7 @@
     },
     {
       "source": "n31",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e89",
       "label":"Guest",
       "Episode":"2x2"
@@ -2982,7 +2982,7 @@
     },
     {
       "source": "n35",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e67",
       "label":"Guest",
       "Episode":"3x16"
@@ -3008,7 +3008,7 @@
     },
     {
       "source": "n37",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e87",
       "label":"Guest",
       "Episode":"3x16"
@@ -3021,7 +3021,7 @@
     },
     {
       "source": "n38",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e90",
       "label":"Guest",
       "Episode":"4x17"
@@ -3192,55 +3192,55 @@
     },
     {
       "source": "n69",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e78",
       "label":"Main Character"
     },
     {
       "source": "n70",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e79",
       "label":"Main Character"
     },
     {
       "source": "n71",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e80",
       "label":"Main Character"
     },
     {
       "source": "n72",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e81",
       "label":"Main Character"
     },
     {
       "source": "n73",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e82",
       "label":"Main Character"
     },
     {
       "source": "n74",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e83",
       "label":"Main Character"
     },
     {
       "source": "n75",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e84",
       "label":"Main Character"
     },
     {
       "source": "n76",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e85",
       "label":"Main Character"
     },
     {
       "source": "n77",
-      "target": "n58",
+      "target": "show-wings",
       "id": "e86",
       "label":"Main Character"
     },
