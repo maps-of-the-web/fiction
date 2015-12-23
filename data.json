@@ -241,7 +241,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n160",
+      "id":"show-lab_rats",
       "label":"Lab Rats",
       "size": 1,
       "type": "tv-show"
@@ -2404,7 +2404,7 @@
       "label":"Crossover"
     },
     {
-      "source": "n160",
+      "source": "show-lab_rats",
       "target": "n163",
       "id": "e311",
       "label":"Crossover"
