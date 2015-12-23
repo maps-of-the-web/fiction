@@ -397,7 +397,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n239",
+      "id":"show-hangin_with_mr_cooper",
       "label":"Hangin' with Mr. Cooper",
       "size": 1,
       "type": "tv-show"
@@ -2527,7 +2527,7 @@
     },
     {
       "source": "show-full_house",
-      "target": "n239",
+      "target": "show-hangin_with_mr_cooper",
       "id": "e303",
       "label":"Crossover"
     },
