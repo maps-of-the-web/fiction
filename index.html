@@ -20,7 +20,7 @@
 		<script>
 			sigma.settings.drawLabels = false;
 			sigma.settings.scalingMode = "outside";
-			sigma.parsers.json('data.json', {
+			sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/data.json', {
 				container: 'sigma-container'
 			}, function(s) {
 				s.graph.nodes().forEach(function(node, i, a) {
