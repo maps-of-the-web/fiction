@@ -421,7 +421,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n243",
+      "id":"show-cosby",
       "label":"Cosby",
       "size": 1,
       "type": "tv-show"
@@ -2551,7 +2551,7 @@
     },
     {
       "source": "show-everybody_loves_raymond",
-      "target": "n243",
+      "target": "show-cosby",
       "id": "e306",
       "label":"Crossover"
     },
@@ -2563,7 +2563,7 @@
     },
     {
       "source": "show-king_of_queens",
-      "target": "n243",
+      "target": "show-cosby",
       "id": "e307",
       "label":"Crossover"
     },
@@ -2574,7 +2574,7 @@
       "label":"Crossover"
     },
     {
-      "source": "n243",
+      "source": "show-cosby",
       "target": "n244",
       "id": "e310",
       "label":"Crossover"
