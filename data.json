@@ -157,7 +157,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n145",
+      "id":"show-clueless",
       "label":"Clueless",
       "size": 1,
       "type": "tv-show"
@@ -2327,7 +2327,7 @@
     },
     {
       "source": "show-sabrina_the_teenage_witch",
-      "target": "n145",
+      "target": "show-clueless",
       "id": "e277",
       "label":"Crossover"
     },
@@ -2411,7 +2411,7 @@
     },
     {
       "source": "n215",
-      "target": "n145",
+      "target": "show-clueless",
       "id": "e260",
       "label":"Crossover"
     },
@@ -3706,7 +3706,7 @@
     },
     {
       "source": "n121",
-      "target": "n145",
+      "target": "show-clueless",
       "id": "e165",
       "label":"Guest",
       "Episode":"1x17"
