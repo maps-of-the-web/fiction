@@ -97,7 +97,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n59",
+      "id":"show-john_larroquette",
       "label":"The John Larroquette Show",
       "size": 1,
       "type": "tv-show"
@@ -2267,7 +2267,7 @@
     },
     {
       "source": "show-fraiser",
-      "target": "n59",
+      "target": "show-john_larroquette",
       "id": "e278",
       "label":"Crossover"
     },
@@ -2989,7 +2989,7 @@
     },
     {
       "source": "n35",
-      "target": "n59",
+      "target": "show-john_larroquette",
       "id": "e68",
       "label":"Guest",
       "Episode":"3x1"
@@ -3138,55 +3138,55 @@
     },
     {
       "source": "n60",
-      "target": "n59",
+      "target": "show-john_larroquette",
       "id": "e69",
       "label":"Main Character"
     },
     {
       "source": "n61",
-      "target": "n59",
+      "target": "show-john_larroquette",
       "id": "e70",
       "label":"Main Character"
     },
     {
       "source": "n62",
-      "target": "n59",
+      "target": "show-john_larroquette",
       "id": "e71",
       "label":"Main Character"
     },
     {
       "source": "n63",
-      "target": "n59",
+      "target": "show-john_larroquette",
       "id": "e72",
       "label":"Main Character"
     },
     {
       "source": "n64",
-      "target": "n59",
+      "target": "show-john_larroquette",
       "id": "e73",
       "label":"Main Character"
     },
     {
       "source": "n65",
-      "target": "n59",
+      "target": "show-john_larroquette",
       "id": "e74",
       "label":"Main Character"
     },
     {
       "source": "n66",
-      "target": "n59",
+      "target": "show-john_larroquette",
       "id": "e75",
       "label":"Main Character"
     },
     {
       "source": "n67",
-      "target": "n59",
+      "target": "show-john_larroquette",
       "id": "e76",
       "label":"Main Character"
     },
     {
       "source": "n68",
-      "target": "n59",
+      "target": "show-john_larroquette",
       "id": "e77",
       "label":"Main Character"
     },
