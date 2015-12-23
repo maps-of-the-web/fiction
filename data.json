@@ -295,7 +295,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n217",
+      "id":"show-hughleys",
       "label":"The Hughleys",
       "size": 1,
       "type": "tv-show"
@@ -2422,14 +2422,14 @@
       "label":"Spin-Off"
     },
     {
-      "source": "n217",
+      "source": "show-hughleys",
       "target": "show-parkers",
       "id": "e262",
       "label":"Crossover"
     },
     {
       "source": "n218",
-      "target": "n217",
+      "target": "show-hughleys",
       "id": "e287",
       "label":"Crossover"
     },
@@ -4364,7 +4364,7 @@
     },
     {
       "source": "n219",
-      "target": "n217",
+      "target": "show-hughleys",
       "id": "e264",
       "label":"Guest",
       "Episode":"2x1"
