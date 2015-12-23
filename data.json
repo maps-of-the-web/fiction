@@ -613,7 +613,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n275",
+      "id":"show-law_and_order_special_victims_unit",
       "label":"Law & Order: Special Victims Unit",
       "size": 1,
       "type": "tv-show"
@@ -2683,13 +2683,13 @@
     },
     {
       "source": "show-chicago_fire",
-      "target": "n275",
+      "target": "show-law_and_order_special_victims_unit",
       "id": "e329",
       "label":"Crossover"
     },
     {
       "source": "show-chicago_pd",
-      "target": "n275",
+      "target": "show-law_and_order_special_victims_unit",
       "id": "e330",
       "label":"Crossover"
     },
@@ -4677,7 +4677,7 @@
     },
     {
       "source": "n308",
-      "target": "n275",
+      "target": "show-law_and_order_special_victims_unit",
       "id": "e427",
       "label":"Main Character"
     },
