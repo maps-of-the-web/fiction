@@ -325,7 +325,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n226",
+      "id":"show-bob_newhart_show",
       "label":"The Bob Newhart Show",
       "size": 1,
       "type": "tv-show"
@@ -2452,13 +2452,13 @@
       "label":"Crossover"
     },
     {
-      "source": "n226",
+      "source": "show-bob_newhart_show",
       "target": "show-st_elsewhere",
       "id": "e279",
       "label":"Crossover"
     },
     {
-      "source": "n226",
+      "source": "show-bob_newhart_show",
       "target": "show-newhart",
       "id": "e275",
       "label":"Dream",
@@ -4437,7 +4437,7 @@
     },
     {
       "source": "n227",
-      "target": "n226",
+      "target": "show-bob_newhart_show",
       "id": "e273",
       "label":"Regular Character"
     },
