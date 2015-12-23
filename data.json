@@ -199,7 +199,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n153",
+      "id":"show-im_in_the_band",
       "label":"I'm In The Band",
       "size": 1,
       "type": "tv-show"
@@ -2375,7 +2375,7 @@
     },
     {
       "source": "show-suite_life_of_zach_and_cody",
-      "target": "n153",
+      "target": "show-im_in_the_band",
       "id": "e282",
       "label":"Crossover"
     },
@@ -3993,7 +3993,7 @@
     },
     {
       "source": "n179",
-      "target": "n153",
+      "target": "show-im_in_the_band",
       "id": "e210",
       "label":"Guest",
       "Episode":"2x1"
@@ -4033,7 +4033,7 @@
     },
     {
       "source": "n180",
-      "target": "n153",
+      "target": "show-im_in_the_band",
       "id": "e209",
       "label":"Guest",
       "Episode":"2x1"
@@ -4126,7 +4126,7 @@
     },
     {
       "source": "n183",
-      "target": "n153",
+      "target": "show-im_in_the_band",
       "id": "e208",
       "label":"Guest",
       "Episode":"2x1"
@@ -4334,31 +4334,31 @@
     },
     {
       "source": "n210",
-      "target": "n153",
+      "target": "show-im_in_the_band",
       "id": "e254",
       "label":"Main Character"
     },
     {
       "source": "n211",
-      "target": "n153",
+      "target": "show-im_in_the_band",
       "id": "e255",
       "label":"Main Character"
     },
     {
       "source": "n212",
-      "target": "n153",
+      "target": "show-im_in_the_band",
       "id": "e256",
       "label":"Main Character"
     },
     {
       "source": "n213",
-      "target": "n153",
+      "target": "show-im_in_the_band",
       "id": "e257",
       "label":"Main Character"
     },
     {
       "source": "n214",
-      "target": "n153",
+      "target": "show-im_in_the_band",
       "id": "e258",
       "label":"Main Character"
     },
