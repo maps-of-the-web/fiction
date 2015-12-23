@@ -169,7 +169,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n147",
+      "id":"show-cory_in_the_house",
       "label":"Cory in the House",
       "size": 1,
       "type": "tv-show"
@@ -2333,7 +2333,7 @@
     },
     {
       "source": "show-thats_so_raven",
-      "target": "n147",
+      "target": "show-cory_in_the_house",
       "id": "e167",
       "label":"Spin-Off"
     },
@@ -2350,7 +2350,7 @@
       "label":"Crossover"
     },
     {
-      "source": "n147",
+      "source": "show-cory_in_the_house",
       "target": "n150",
       "id": "e284",
       "label":"Crossover"
@@ -3866,7 +3866,7 @@
     },
     {
       "source": "n169",
-      "target": "n147",
+      "target": "show-cory_in_the_house",
       "id": "e177",
       "label":"Guest",
       "Episode":"1x16"
@@ -3892,7 +3892,7 @@
     },
     {
       "source": "n171",
-      "target": "n147",
+      "target": "show-cory_in_the_house",
       "id": "e179",
       "label":"Main Character"
     },
@@ -3916,25 +3916,25 @@
     },
     {
       "source": "n174",
-      "target": "n147",
+      "target": "show-cory_in_the_house",
       "id": "e180",
       "label":"Main Character"
     },
     {
       "source": "n175",
-      "target": "n147",
+      "target": "show-cory_in_the_house",
       "id": "e181",
       "label":"Main Character"
     },
     {
       "source": "n176",
-      "target": "n147",
+      "target": "show-cory_in_the_house",
       "id": "e182",
       "label":"Main Character"
     },
     {
       "source": "n177",
-      "target": "n147",
+      "target": "show-cory_in_the_house",
       "id": "e183",
       "label":"Main Character"
     },
@@ -3947,7 +3947,7 @@
     },
     {
       "source": "n178",
-      "target": "n147",
+      "target": "show-cory_in_the_house",
       "id": "e184",
       "label":"Main Character"
     },
