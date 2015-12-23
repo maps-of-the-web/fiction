@@ -2083,7 +2083,7 @@
       "type": "character"
     },
     {
-      "id":"n365",
+      "id":"show-joey",
       "label":"Joey",
       "size": 1,
       "type": "tv-show"
@@ -2485,7 +2485,7 @@
     },
     {
       "source": "show-friends",
-      "target": "n365",
+      "target": "show-joey",
       "id": "e1639",
       "label":"Spin-Off"
     },
@@ -5309,7 +5309,7 @@
     },
     {
       "source": "n354",
-      "target": "n365",
+      "target": "show-joey",
       "id": "e1641",
       "label":"Main Character"
     },
@@ -5390,31 +5390,31 @@
     },
     {
       "source": "n366",
-      "target": "n365",
+      "target": "show-joey",
       "id": "e1642",
       "label":"Main Character"
     },
     {
       "source": "n367",
-      "target": "n365",
+      "target": "show-joey",
       "id": "e1643",
       "label":"Main Character"
     },
     {
       "source": "n368",
-      "target": "n365",
+      "target": "show-joey",
       "id": "e1644",
       "label":"Main Character"
     },
     {
       "source": "n369",
-      "target": "n365",
+      "target": "show-joey",
       "id": "e1645",
       "label":"Main Character"
     },
     {
       "source": "n370",
-      "target": "n365",
+      "target": "show-joey",
       "id": "e1646",
       "label":"Main Character"
     }
