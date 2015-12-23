@@ -505,7 +505,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n257",
+      "id":"show-freddie",
       "label":"Freddie",
       "size": 1,
       "type": "tv-show"
@@ -2617,7 +2617,7 @@
     },
     {
       "source": "show-george_lopez",
-      "target": "n257",
+      "target": "show-freddie",
       "id": "e318",
       "label":"Crossover"
     },
