@@ -193,7 +193,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n151",
+      "id":"show-wizards_of_waverly_place",
       "label":"Wizards of Waverly Place",
       "size": 1,
       "type": "tv-show"
@@ -2386,13 +2386,13 @@
       "label":"Crossover"
     },
     {
-      "source": "n151",
+      "source": "show-wizards_of_waverly_place",
       "target": "show-suite_life_on_deck",
       "id": "e247",
       "label":"Crossover"
     },
     {
-      "source": "n151",
+      "source": "show-wizards_of_waverly_place",
       "target": "show-hannah_montana",
       "id": "e249",
       "label":"Crossover"
@@ -3986,7 +3986,7 @@
     },
     {
       "source": "n179",
-      "target": "n151",
+      "target": "show-wizards_of_waverly_place",
       "id": "e201",
       "label":"Guest",
       "Episode":"2x25"
@@ -4026,7 +4026,7 @@
     },
     {
       "source": "n180",
-      "target": "n151",
+      "target": "show-wizards_of_waverly_place",
       "id": "e202",
       "label":"Guest",
       "Episode":"2x25"
@@ -4059,7 +4059,7 @@
     },
     {
       "source": "n181",
-      "target": "n151",
+      "target": "show-wizards_of_waverly_place",
       "id": "e203",
       "label":"Guest",
       "Episode":"2x25"
@@ -4119,7 +4119,7 @@
     },
     {
       "source": "n183",
-      "target": "n151",
+      "target": "show-wizards_of_waverly_place",
       "id": "e204",
       "label":"Guest",
       "Episode":"2x25"
@@ -4158,7 +4158,7 @@
     },
     {
       "source": "n185",
-      "target": "n151",
+      "target": "show-wizards_of_waverly_place",
       "id": "e205",
       "label":"Guest",
       "Episode":"2x25"
@@ -4284,7 +4284,7 @@
     },
     {
       "source": "n200",
-      "target": "n151",
+      "target": "show-wizards_of_waverly_place",
       "id": "e238",
       "label":"Main Character"
     },
@@ -4297,7 +4297,7 @@
     },
     {
       "source": "n201",
-      "target": "n151",
+      "target": "show-wizards_of_waverly_place",
       "id": "e239",
       "label":"Main Character"
     },
@@ -4310,25 +4310,25 @@
     },
     {
       "source": "n202",
-      "target": "n151",
+      "target": "show-wizards_of_waverly_place",
       "id": "e240",
       "label":"Main Character"
     },
     {
       "source": "n203",
-      "target": "n151",
+      "target": "show-wizards_of_waverly_place",
       "id": "e241",
       "label":"Main Character"
     },
     {
       "source": "n204",
-      "target": "n151",
+      "target": "show-wizards_of_waverly_place",
       "id": "e242",
       "label":"Main Character"
     },
     {
       "source": "n205",
-      "target": "n151",
+      "target": "show-wizards_of_waverly_place",
       "id": "e243",
       "label":"Main Character"
     },
