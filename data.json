@@ -37,7 +37,7 @@
       "type": "movie"
     },
     {
-      "id":"n297",
+      "id":"movie-true_romance",
       "label":"True Romance",
       "size": 1,
       "type": "movie"
@@ -2152,7 +2152,7 @@
     },
     {
       "source": "movie-django_unchained",
-      "target": "n297",
+      "target": "movie-true_romance",
       "id": "e401",
       "label":"Word of God"
     },
@@ -2176,7 +2176,7 @@
     },
     {
       "source": "movie-reservoir_dogs",
-      "target": "n297",
+      "target": "movie-true_romance",
       "id": "e405",
       "label":"Word of God"
     },
@@ -2199,19 +2199,19 @@
       "label":"Word of God"
     },
     {
-      "source": "n297",
+      "source": "movie-true_romance",
       "target": "n298",
       "id": "e409",
       "label":"Word of God"
     },
     {
-      "source": "n297",
+      "source": "movie-true_romance",
       "target": "n299",
       "id": "e410",
       "label":"Word of God"
     },
     {
-      "source": "n297",
+      "source": "movie-true_romance",
       "target": "n300",
       "id": "e411",
       "label":"Word of God"
