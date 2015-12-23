@@ -13,7 +13,7 @@
       "type": "movie"
     },
     {
-      "id":"n284",
+      "id":"movie-back_to_the_future_3",
       "label":"Back to the Future Part III",
       "size": 1,
       "type": "movie"
@@ -2128,12 +2128,12 @@
     },
     {
       "source": "movie-back_to_the_future_2",
-      "target": "n284",
+      "target": "movie-back_to_the_future_3",
       "id": "e363",
       "label":"Sequel"
     },
     {
-      "source": "n284",
+      "source": "movie-back_to_the_future_3",
       "target": "n285",
       "id": "e364",
       "label":"Crossover"
@@ -4455,7 +4455,7 @@
     },
     {
       "source": "n286",
-      "target": "n284",
+      "target": "movie-back_to_the_future_3",
       "id": "e367",
       "label":"Main Character"
     },
@@ -4497,7 +4497,7 @@
     },
     {
       "source": "n287",
-      "target": "n284",
+      "target": "movie-back_to_the_future_3",
       "id": "e374",
       "label":"Main Character"
     },
@@ -4521,7 +4521,7 @@
     },
     {
       "source": "n288",
-      "target": "n284",
+      "target": "movie-back_to_the_future_3",
       "id": "e378",
       "label":"Main Character"
     },
@@ -4563,7 +4563,7 @@
     },
     {
       "source": "n289",
-      "target": "n284",
+      "target": "movie-back_to_the_future_3",
       "id": "e385",
       "label":"Main Character"
     },
@@ -4599,7 +4599,7 @@
     },
     {
       "source": "n290",
-      "target": "n284",
+      "target": "movie-back_to_the_future_3",
       "id": "e392",
       "label":"Main Character"
     },
