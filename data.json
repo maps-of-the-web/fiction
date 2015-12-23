@@ -637,7 +637,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n279",
+      "id":"show-all_my_children",
       "label":"All My Children",
       "size": 1,
       "type": "tv-show"
@@ -2701,7 +2701,7 @@
     },
     {
       "source": "show-one_life_to_live",
-      "target": "n279",
+      "target": "show-all_my_children",
       "id": "e332",
       "label":"Crossover"
     },
