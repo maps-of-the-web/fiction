@@ -373,7 +373,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n235",
+      "id":"show-about_a_boy",
       "label":"About a Boy",
       "size": 1,
       "type": "tv-show"
@@ -2509,7 +2509,7 @@
     },
     {
       "source": "show-parenthood",
-      "target": "n235",
+      "target": "show-about_a_boy",
       "id": "e300",
       "label":"Crossover"
     },
