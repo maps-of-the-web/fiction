@@ -607,7 +607,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n274",
+      "id":"show-chicago_pd",
       "label":"Chicago P.D.",
       "size": 1,
       "type": "tv-show"
@@ -2677,7 +2677,7 @@
     },
     {
       "source": "show-chicago_fire",
-      "target": "n274",
+      "target": "show-chicago_pd",
       "id": "e328",
       "label":"Crossover"
     },
@@ -2688,7 +2688,7 @@
       "label":"Crossover"
     },
     {
-      "source": "n274",
+      "source": "show-chicago_pd",
       "target": "n275",
       "id": "e330",
       "label":"Crossover"
