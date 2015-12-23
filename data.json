@@ -691,7 +691,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n312",
+      "id":"show-beat",
       "label":"The Beat",
       "size": 1,
       "type": "tv-show"
@@ -4722,7 +4722,7 @@
     },
     {
       "source": "n308",
-      "target": "n312",
+      "target": "show-beat",
       "id": "e431",
       "label":"Guest",
       "Episode":"1x2"
