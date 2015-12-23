@@ -151,7 +151,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n144",
+      "id":"show-teen_angel",
       "label":"Teen Angel",
       "size": 1,
       "type": "tv-show"
@@ -2321,7 +2321,7 @@
     },
     {
       "source": "show-sabrina_the_teenage_witch",
-      "target": "n144",
+      "target": "show-teen_angel",
       "id": "e291",
       "label":"Crossover"
     },
@@ -3699,7 +3699,7 @@
     },
     {
       "source": "n121",
-      "target": "n144",
+      "target": "show-teen_angel",
       "id": "e163",
       "label":"Guest",
       "Episode":"1x7"
@@ -3733,7 +3733,7 @@
     },
     {
       "source": "n122",
-      "target": "n144",
+      "target": "show-teen_angel",
       "id": "e162",
       "label":"Guest",
       "Episode":"1x7"
