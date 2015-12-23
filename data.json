@@ -679,7 +679,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n310",
+      "id":"show-arrested_development",
       "label":"Arrested Development",
       "size": 1,
       "type": "tv-show"
@@ -4708,7 +4708,7 @@
     },
     {
       "source": "n308",
-      "target": "n310",
+      "target": "show-arrested_development",
       "id": "e429",
       "label":"Guest",
       "Episode":"3x12"
