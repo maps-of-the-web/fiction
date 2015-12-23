@@ -385,7 +385,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n237",
+      "id":"show-full_house",
       "label":"Full House",
       "size": 1,
       "type": "tv-show"
@@ -2515,7 +2515,7 @@
     },
     {
       "source": "show-family_matters",
-      "target": "n237",
+      "target": "show-full_house",
       "id": "e301",
       "label":"Crossover"
     },
@@ -2526,7 +2526,7 @@
       "label":"Crossover"
     },
     {
-      "source": "n237",
+      "source": "show-full_house",
       "target": "n239",
       "id": "e303",
       "label":"Crossover"
