@@ -7,7 +7,7 @@
       "type": "movie"
     },
     {
-      "id":"n283",
+      "id":"movie-back_to_the_future_2",
       "label":"Back to the Future Part II",
       "size": 1,
       "type": "movie"
@@ -2122,12 +2122,12 @@
   "edges": [
     {
       "source": "movie-back_to_the_future",
-      "target": "n283",
+      "target": "movie-back_to_the_future_2",
       "id": "e362",
       "label":"Sequel"
     },
     {
-      "source": "n283",
+      "source": "movie-back_to_the_future_2",
       "target": "n284",
       "id": "e363",
       "label":"Sequel"
@@ -4449,7 +4449,7 @@
     },
     {
       "source": "n286",
-      "target": "n283",
+      "target": "movie-back_to_the_future_2",
       "id": "e366",
       "label":"Main Character"
     },
@@ -4491,7 +4491,7 @@
     },
     {
       "source": "n287",
-      "target": "n283",
+      "target": "movie-back_to_the_future_2",
       "id": "e373",
       "label":"Main Character"
     },
@@ -4515,7 +4515,7 @@
     },
     {
       "source": "n288",
-      "target": "n283",
+      "target": "movie-back_to_the_future_2",
       "id": "e377",
       "label":"Main Character"
     },
@@ -4557,7 +4557,7 @@
     },
     {
       "source": "n289",
-      "target": "n283",
+      "target": "movie-back_to_the_future_2",
       "id": "e384",
       "label":"Main Character"
     },
@@ -4593,7 +4593,7 @@
     },
     {
       "source": "n290",
-      "target": "n283",
+      "target": "movie-back_to_the_future_2",
       "id": "e391",
       "label":"Main Character"
     },
@@ -4611,7 +4611,7 @@
     },
     {
       "source": "n291",
-      "target": "n283",
+      "target": "movie-back_to_the_future_2",
       "id": "e394",
       "label":"Main Character"
     },
@@ -4623,7 +4623,7 @@
     },
     {
       "source": "n292",
-      "target": "n283",
+      "target": "movie-back_to_the_future_2",
       "id": "e396",
       "label":"Main Character"
     },
