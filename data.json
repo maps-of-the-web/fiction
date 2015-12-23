@@ -685,7 +685,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n311",
+      "id":"show-law_and_order_trial_by_jury",
       "label":"Law & Order: Trial by Jury",
       "size": 1,
       "type": "tv-show"
@@ -4715,7 +4715,7 @@
     },
     {
       "source": "n308",
-      "target": "n311",
+      "target": "show-law_and_order_trial_by_jury",
       "id": "e430",
       "label":"Guest",
       "Episode":"1x8"
