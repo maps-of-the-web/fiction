@@ -535,7 +535,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n262",
+      "id":"show-early_edition",
       "label":"Early Edition",
       "size": 1,
       "type": "tv-show"
@@ -2635,7 +2635,7 @@
     },
     {
       "source": "show-martial_law",
-      "target": "n262",
+      "target": "show-early_edition",
       "id": "e321",
       "label":"Crossover"
     },
