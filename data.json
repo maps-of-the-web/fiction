@@ -391,7 +391,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n238",
+      "id":"show-step_by_step",
       "label":"Step by Step",
       "size": 1,
       "type": "tv-show"
@@ -2521,7 +2521,7 @@
     },
     {
       "source": "show-family_matters",
-      "target": "n238",
+      "target": "show-step_by_step",
       "id": "e302",
       "label":"Crossover"
     },
@@ -2532,7 +2532,7 @@
       "label":"Crossover"
     },
     {
-      "source": "n238",
+      "source": "show-step_by_step",
       "target": "show-boy_meets_world",
       "id": "e437",
       "label":"Crossover"
@@ -4750,7 +4750,7 @@
     },
     {
       "source": "n314",
-      "target": "n238",
+      "target": "show-step_by_step",
       "id": "e436",
       "label":"Main Character"
     },
@@ -4798,7 +4798,7 @@
     },
     {
       "source": "n315",
-      "target": "n238",
+      "target": "show-step_by_step",
       "id": "e438",
       "label":"Main Character"
     },
@@ -4852,7 +4852,7 @@
     },
     {
       "source": "n316",
-      "target": "n238",
+      "target": "show-step_by_step",
       "id": "e439",
       "label":"Main Character"
     },
@@ -4900,7 +4900,7 @@
     },
     {
       "source": "n317",
-      "target": "n238",
+      "target": "show-step_by_step",
       "id": "e440",
       "label":"Main Character"
     },
@@ -4948,7 +4948,7 @@
     },
     {
       "source": "n318",
-      "target": "n238",
+      "target": "show-step_by_step",
       "id": "e441",
       "label":"Main Character"
     },
@@ -4996,7 +4996,7 @@
     },
     {
       "source": "n319",
-      "target": "n238",
+      "target": "show-step_by_step",
       "id": "e442",
       "label":"Main Character"
     },
@@ -5050,7 +5050,7 @@
     },
     {
       "source": "n320",
-      "target": "n238",
+      "target": "show-step_by_step",
       "id": "e443",
       "label":"Main Character"
     },
@@ -5104,7 +5104,7 @@
     },
     {
       "source": "n321",
-      "target": "n238",
+      "target": "show-step_by_step",
       "id": "e444",
       "label":"Main Character"
     },
@@ -5158,7 +5158,7 @@
     },
     {
       "source": "n322",
-      "target": "n238",
+      "target": "show-step_by_step",
       "id": "e445",
       "label":"Main Character"
     },
