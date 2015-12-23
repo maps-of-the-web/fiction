@@ -673,7 +673,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n309",
+      "id":"show-wire",
       "label":"The Wire",
       "size": 1,
       "type": "tv-show"
@@ -4701,7 +4701,7 @@
     },
     {
       "source": "n308",
-      "target": "n309",
+      "target": "show-wire",
       "id": "e428",
       "label":"Guest",
       "Episode":"5x7"
