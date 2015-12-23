@@ -319,7 +319,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n225",
+      "id":"show-newhart",
       "label":"Newhart",
       "size": 1,
       "type": "tv-show"
@@ -2446,7 +2446,7 @@
       "label":"Crossover"
     },
     {
-      "source": "n225",
+      "source": "show-newhart",
       "target": "show-coach",
       "id": "e289",
       "label":"Crossover"
@@ -2459,7 +2459,7 @@
     },
     {
       "source": "n226",
-      "target": "n225",
+      "target": "show-newhart",
       "id": "e275",
       "label":"Dream",
       "Episode":"8x24"
@@ -4398,7 +4398,7 @@
     },
     {
       "source": "n222",
-      "target": "n225",
+      "target": "show-newhart",
       "id": "e267",
       "label":"Regular Character"
     },
@@ -4411,7 +4411,7 @@
     },
     {
       "source": "n223",
-      "target": "n225",
+      "target": "show-newhart",
       "id": "e268",
       "label":"Regular Character"
     },
@@ -4424,7 +4424,7 @@
     },
     {
       "source": "n224",
-      "target": "n225",
+      "target": "show-newhart",
       "id": "e269",
       "label":"Regular Character"
     },
