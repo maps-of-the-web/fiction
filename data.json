@@ -445,7 +445,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n247",
+      "id":"show-ben_casey",
       "label":"Ben Casey",
       "size": 1,
       "type": "tv-show"
@@ -2586,7 +2586,7 @@
       "label":"Crossover"
     },
     {
-      "source": "n247",
+      "source": "show-ben_casey",
       "target": "n248",
       "id": "e313",
       "label":"Crossover"
