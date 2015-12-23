@@ -253,7 +253,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n163",
+      "id":"show-mighty_med",
       "label":"Mighty Med",
       "size": 1,
       "type": "tv-show"
@@ -2405,7 +2405,7 @@
     },
     {
       "source": "show-lab_rats",
-      "target": "n163",
+      "target": "show-mighty_med",
       "id": "e311",
       "label":"Crossover"
     },
