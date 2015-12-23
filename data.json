@@ -547,7 +547,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n264",
+      "id":"show-ally_mcbeal",
       "label":"Ally McBeal",
       "size": 1,
       "type": "tv-show"
@@ -2641,7 +2641,7 @@
     },
     {
       "source": "show-practice",
-      "target": "n264",
+      "target": "show-ally_mcbeal",
       "id": "e322",
       "label":"Crossover"
     },
