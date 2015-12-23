@@ -145,7 +145,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n143",
+      "id":"show-you_wish",
       "label":"You Wish",
       "size": 1,
       "type": "tv-show"
@@ -2315,7 +2315,7 @@
     },
     {
       "source": "show-sabrina_the_teenage_witch",
-      "target": "n143",
+      "target": "show-you_wish",
       "id": "e290",
       "label":"Crossover"
     },
@@ -3692,7 +3692,7 @@
     },
     {
       "source": "n121",
-      "target": "n143",
+      "target": "show-you_wish",
       "id": "e166",
       "label":"Guest",
       "Episode":"1x7"
@@ -3726,7 +3726,7 @@
     },
     {
       "source": "n122",
-      "target": "n143",
+      "target": "show-you_wish",
       "id": "e161",
       "label":"Guest",
       "Episode":"1x7"
