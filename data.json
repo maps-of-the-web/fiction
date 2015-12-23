@@ -661,7 +661,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n304",
+      "id":"show-law_and_order",
       "label":"Law & Order",
       "size": 1,
       "type": "tv-show"
@@ -2718,7 +2718,7 @@
       "label":"Spin-Off"
     },
     {
-      "source": "n304",
+      "source": "show-law_and_order",
       "target": "show-homicide_life_on_the_street",
       "id": "e420",
       "label":"Crossover"
@@ -4659,7 +4659,7 @@
     },
     {
       "source": "n305",
-      "target": "n304",
+      "target": "show-law_and_order",
       "id": "e421",
       "label":"Main Character"
     },
@@ -4695,7 +4695,7 @@
     },
     {
       "source": "n308",
-      "target": "n304",
+      "target": "show-law_and_order",
       "id": "e432",
       "label":"Minor Character"
     },
