@@ -289,7 +289,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n216",
+      "id":"show-parkers",
       "label":"The Parkers",
       "size": 1,
       "type": "tv-show"
@@ -2417,13 +2417,13 @@
     },
     {
       "source": "show-moesha",
-      "target": "n216",
+      "target": "show-parkers",
       "id": "e261",
       "label":"Spin-Off"
     },
     {
       "source": "n217",
-      "target": "n216",
+      "target": "show-parkers",
       "id": "e262",
       "label":"Crossover"
     },
