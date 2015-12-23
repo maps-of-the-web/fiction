@@ -499,7 +499,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n256",
+      "id":"show-george_lopez",
       "label":"George Lopez",
       "size": 1,
       "type": "tv-show"
@@ -2616,7 +2616,7 @@
       "label":"Crossover"
     },
     {
-      "source": "n256",
+      "source": "show-george_lopez",
       "target": "n257",
       "id": "e318",
       "label":"Crossover"
