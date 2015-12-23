@@ -3,7 +3,8 @@
     {
       "id":"movie-back_to_the_future",
       "label":"Back to the Future",
-      "type": "movie"
+      "type": "movie",
+      "size": 1
     },
     {
       "id":"movie-back_to_the_future_2",
