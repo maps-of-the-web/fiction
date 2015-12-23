@@ -559,7 +559,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n266",
+      "id":"show-gideons_crossing",
       "label":"Gideon's Crossing",
       "size": 1,
       "type": "tv-show"
@@ -2653,7 +2653,7 @@
     },
     {
       "source": "show-practice",
-      "target": "n266",
+      "target": "show-gideons_crossing",
       "id": "e324",
       "label":"Crossover"
     },
