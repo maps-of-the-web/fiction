@@ -343,7 +343,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n230",
+      "id":"show-mad_about_you",
       "label":"Mad About You",
       "size": 1,
       "type": "tv-show"
@@ -2491,19 +2491,19 @@
     },
     {
       "source": "show-seinfeld",
-      "target": "n230",
+      "target": "show-mad_about_you",
       "id": "e295",
       "label":"Crossover"
     },
     {
-      "source": "n230",
+      "source": "show-mad_about_you",
       "target": "show-friends",
       "id": "e296",
       "label":"Crossover"
     },
     {
       "source": "n232",
-      "target": "n230",
+      "target": "show-mad_about_you",
       "id": "e298",
       "label":"Crossover"
     },
