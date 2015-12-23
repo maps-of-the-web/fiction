@@ -475,7 +475,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n252",
+      "id":"show-bold_ones_the_new_doctors",
       "label":"The Bold Ones: The New Doctors",
       "size": 1,
       "type": "tv-show"
@@ -2599,7 +2599,7 @@
     },
     {
       "source": "show-ironside",
-      "target": "n252",
+      "target": "show-bold_ones_the_new_doctors",
       "id": "e315",
       "label":"Crossover"
     },
