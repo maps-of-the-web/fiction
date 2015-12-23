@@ -19,7 +19,7 @@
       "type": "movie"
     },
     {
-      "id":"n285",
+      "id":"movie-a_million_ways_to_die_in_the_west",
       "label":"A Million Ways to Die in the West",
       "size": 1,
       "type": "movie"
@@ -2134,13 +2134,13 @@
     },
     {
       "source": "movie-back_to_the_future_3",
-      "target": "n285",
+      "target": "movie-a_million_ways_to_die_in_the_west",
       "id": "e364",
       "label":"Crossover"
     },
     {
       "source": "n295",
-      "target": "n285",
+      "target": "movie-a_million_ways_to_die_in_the_west",
       "id": "e399",
       "label":"Crossover"
     },
@@ -4503,7 +4503,7 @@
     },
     {
       "source": "n287",
-      "target": "n285",
+      "target": "movie-a_million_ways_to_die_in_the_west",
       "id": "e375",
       "label":"Cameo"
     },
