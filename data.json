@@ -349,7 +349,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n231",
+      "id":"show-shake_it_up",
       "label":"Shake It Up",
       "size": 1,
       "type": "tv-show"
@@ -2399,7 +2399,7 @@
     },
     {
       "source": "show-good_luck_charlie",
-      "target": "n231",
+      "target": "show-shake_it_up",
       "id": "e297",
       "label":"Crossover"
     },
