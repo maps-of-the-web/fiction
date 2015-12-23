@@ -553,7 +553,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n265",
+      "id":"show-boston_public",
       "label":"Boston Public",
       "size": 1,
       "type": "tv-show"
@@ -2647,7 +2647,7 @@
     },
     {
       "source": "show-practice",
-      "target": "n265",
+      "target": "show-boston_public",
       "id": "e323",
       "label":"Crossover"
     },
