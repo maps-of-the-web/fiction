@@ -697,7 +697,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n313",
+      "id":"show-x_files",
       "label":"The X-Files",
       "size": 1,
       "type": "tv-show"
@@ -4729,7 +4729,7 @@
     },
     {
       "source": "n308",
-      "target": "n313",
+      "target": "show-x_files",
       "id": "e434",
       "label":"Guest",
       "Episode":"5x3"
