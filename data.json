@@ -337,7 +337,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n229",
+      "id":"show-seinfeld",
       "label":"Seinfeld",
       "size": 1,
       "type": "tv-show"
@@ -2490,7 +2490,7 @@
       "label":"Spin-Off"
     },
     {
-      "source": "n229",
+      "source": "show-seinfeld",
       "target": "n230",
       "id": "e295",
       "label":"Crossover"
