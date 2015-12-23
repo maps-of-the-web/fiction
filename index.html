@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Maps of the Web - Fiction</title>
+		<style type="text/css">
+			#sigma-container {
+				position: absolute;
+				top: 0px;
+				bottom: 0px;
+				width: 100%;
+				margin: auto;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="sigma-container"></div>
+		<script src="sigma.min.js"></script>
+		<script src="sigma.parsers.json.min.js"></script>
+		<script src="sigma.layout.forceAtlas2.min.js"></script>
+		<script>
+			sigma.settings.drawLabels = false;
+			sigma.settings.scalingMode = "outside";
+			sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/data.json', {
+				container: 'sigma-container'
+			}, function(s) {
+				// Display the nodes on a circle:
+				// We do this so we can have randomly placed nodes,
+				//   that are then organized.
+				s.graph.nodes().forEach(function(node, i, a) {
+					node.x = Math.cos(Math.PI * 2 * i / a.length);
+					node.y = Math.sin(Math.PI * 2 * i / a.length);
+				});
+
+				// Give color to nodes of a certain type.
+				s.graph.nodes().forEach(function(node) {
+					switch (node.type) {
+						case "character":
+							node.color = "#0000FF";
+							break;
+						case "tv-show":
+							node.color = "#FF0000";
+							break;
+						case "movie":
+							node.color = "#00FF00";
+							break;
+						default:
+							break;
+					}
+				});
+
+				s.startForceAtlas2({
+					outboundAttractionDistribution: true,
+					adjustSizes: true,
+					barnesHutOptimize: false
+				});
+
+				setTimeout(function() {
+					s.stopForceAtlas2();
+				}, 30 * 1000);
+			});
+		</script>
+	</body>
+</html>
