@@ -127,7 +127,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n112",
+      "id":"show-liv_and_maddie",
       "label":"Liv and Maddie",
       "size": 1,
       "type": "tv-show"
@@ -2291,12 +2291,12 @@
     },
     {
       "source": "show-best_friends_whenever",
-      "target": "n112",
+      "target": "show-liv_and_maddie",
       "id": "e288",
       "label":"Crossover"
     },
     {
-      "source": "n112",
+      "source": "show-liv_and_maddie",
       "target": "n119",
       "id": "e292",
       "label":"Crossover"
@@ -3579,7 +3579,7 @@
     },
     {
       "source": "n106",
-      "target": "n112",
+      "target": "show-liv_and_maddie",
       "id": "e128",
       "label":"Guest",
       "Episode":"3x4"
@@ -3592,7 +3592,7 @@
     },
     {
       "source": "n107",
-      "target": "n112",
+      "target": "show-liv_and_maddie",
       "id": "e129",
       "label":"Guest",
       "Episode":"3x4"
@@ -3623,19 +3623,19 @@
     },
     {
       "source": "n113",
-      "target": "n112",
+      "target": "show-liv_and_maddie",
       "id": "e130",
       "label":"Main Character"
     },
     {
       "source": "n114",
-      "target": "n112",
+      "target": "show-liv_and_maddie",
       "id": "e131",
       "label":"Main Character"
     },
     {
       "source": "n115",
-      "target": "n112",
+      "target": "show-liv_and_maddie",
       "id": "e132",
       "label":"Main Character"
     },
@@ -3648,7 +3648,7 @@
     },
     {
       "source": "n116",
-      "target": "n112",
+      "target": "show-liv_and_maddie",
       "id": "e133",
       "label":"Main Character"
     },
@@ -3661,13 +3661,13 @@
     },
     {
       "source": "n117",
-      "target": "n112",
+      "target": "show-liv_and_maddie",
       "id": "e134",
       "label":"Main Character"
     },
     {
       "source": "n118",
-      "target": "n112",
+      "target": "show-liv_and_maddie",
       "id": "e135",
       "label":"Main Character"
     },
