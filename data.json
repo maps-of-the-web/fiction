@@ -595,7 +595,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n272",
+      "id":"show-hawaii_five_0",
       "label":"Hawaii Five-0",
       "size": 1,
       "type": "tv-show"
@@ -2671,7 +2671,7 @@
     },
     {
       "source": "show-ncis_los_angeles",
-      "target": "n272",
+      "target": "show-hawaii_five_0",
       "id": "e327",
       "label":"Crossover"
     },
