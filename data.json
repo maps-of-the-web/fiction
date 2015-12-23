@@ -2041,7 +2041,7 @@
       "type": "character"
     },
     {
-      "id":"n358",
+      "id":"show-hope_and_gloria",
       "label":"Hope & Gloria",
       "size": 1,
       "type": "tv-show"
@@ -2478,7 +2478,7 @@
     },
     {
       "source": "show-friends",
-      "target": "n358",
+      "target": "show-hope_and_gloria",
       "id": "e1638",
       "label":"Crossover",
       "Episode":"2x14"
@@ -5296,7 +5296,7 @@
     },
     {
       "source": "n353",
-      "target": "n358",
+      "target": "show-hope_and_gloria",
       "id": "e1631",
       "label":"Guest",
       "Episode":"2x14"
@@ -5354,37 +5354,37 @@
     },
     {
       "source": "n359",
-      "target": "n358",
+      "target": "show-hope_and_gloria",
       "id": "e1632",
       "label":"Main Character"
     },
     {
       "source": "n360",
-      "target": "n358",
+      "target": "show-hope_and_gloria",
       "id": "e1633",
       "label":"Main Character"
     },
     {
       "source": "n361",
-      "target": "n358",
+      "target": "show-hope_and_gloria",
       "id": "e1634",
       "label":"Main Character"
     },
     {
       "source": "n362",
-      "target": "n358",
+      "target": "show-hope_and_gloria",
       "id": "e1635",
       "label":"Main Character"
     },
     {
       "source": "n363",
-      "target": "n358",
+      "target": "show-hope_and_gloria",
       "id": "e1636",
       "label":"Main Character"
     },
     {
       "source": "n364",
-      "target": "n358",
+      "target": "show-hope_and_gloria",
       "id": "e1637",
       "label":"Main Character"
     },
