@@ -6,6 +6,51 @@
       "type": "movie"
     },
     {
+      "id":"character-back_to_the_future-marty_mcfly",
+      "label":"Marty McFly",
+      "type": "character"
+    },
+    {
+      "id":"character-back_to_the_future-emmett_brown",
+      "label":"Dr. Emmett \"Doc\" Brown",
+      "type": "character"
+    },
+    {
+      "id":"n288",
+      "label":"Lorraine Baines-McFly",
+      "type": "character"
+    },
+    {
+      "id":"character-back_to_the_future-lorraine_baines_mcfly",
+      "label":"George McFly",
+      "type": "character"
+    },
+    {
+      "id":"character-back_to_the_future-biff_tannen",
+      "label":"Biff Tannen",
+      "type": "character"
+    },
+    {
+      "id":"character-back_to_the_future-jennifer_parker",
+      "label":"Jennifer Parker",
+      "type": "character"
+    },
+    {
+      "id":"character-back_to_the_future-stanford_strickland",
+      "label":"Stanford 'Gerald' S. Strickland",
+      "type": "character"
+    },
+    {
+      "id":"character-back_to_the_future-dave_mcfly",
+      "label":"Dave McFly",
+      "type": "character"
+    },
+    {
+      "id":"character-back_to_the_future-linda_mcfly",
+      "label":"Linda McFly",
+      "type": "character"
+    },
+    {
       "id":"movie-back_to_the_future_2",
       "label":"Back to the Future Part II",
       "type": "movie"
@@ -1458,51 +1503,6 @@
     {
       "id":"n227",
       "label":"Elliot Carlin",
-      "type": "character"
-    },
-    {
-      "id":"n286",
-      "label":"Marty McFly",
-      "type": "character"
-    },
-    {
-      "id":"n287",
-      "label":"Dr. Emmett \"Doc\" Brown",
-      "type": "character"
-    },
-    {
-      "id":"n288",
-      "label":"Lorraine Baines-McFly",
-      "type": "character"
-    },
-    {
-      "id":"n289",
-      "label":"George McFly",
-      "type": "character"
-    },
-    {
-      "id":"n290",
-      "label":"Biff Tannen",
-      "type": "character"
-    },
-    {
-      "id":"n291",
-      "label":"Jennifer Parker",
-      "type": "character"
-    },
-    {
-      "id":"n292",
-      "label":"Mr. Strickland",
-      "type": "character"
-    },
-    {
-      "id":"n293",
-      "label":"Dave McFly",
-      "type": "character"
-    },
-    {
-      "id":"n294",
-      "label":"Linda McFly",
       "type": "character"
     },
     {
@@ -4089,67 +4089,67 @@
       "label":"Regular Character"
     },
     {
-      "source": "n286",
+      "source": "character-back_to_the_future-marty_mcfly",
       "target": "movie-back_to_the_future",
       "id": "e365",
       "label":"Main Character"
     },
     {
-      "source": "n286",
+      "source": "character-back_to_the_future-marty_mcfly",
       "target": "movie-back_to_the_future_2",
       "id": "e366",
       "label":"Main Character"
     },
     {
-      "source": "n286",
+      "source": "character-back_to_the_future-marty_mcfly",
       "target": "movie-back_to_the_future_3",
       "id": "e367",
       "label":"Main Character"
     },
     {
-      "source": "n286",
-      "target": "n287",
+      "source": "character-back_to_the_future-marty_mcfly",
+      "target": "character-back_to_the_future-emmett_brown",
       "id": "e368",
       "label":"Friend"
     },
     {
-      "source": "n286",
-      "target": "n291",
+      "source": "character-back_to_the_future-marty_mcfly",
+      "target": "character-back_to_the_future-jennifer_parker",
       "id": "e369",
       "label":"Significant Other"
     },
     {
-      "source": "n286",
-      "target": "n293",
+      "source": "character-back_to_the_future-marty_mcfly",
+      "target": "character-back_to_the_future-dave_mcfly",
       "id": "e370",
       "label":"Sibling"
     },
     {
-      "source": "n286",
-      "target": "n294",
+      "source": "character-back_to_the_future-marty_mcfly",
+      "target": "character-back_to_the_future-linda_mcfly",
       "id": "e371",
       "label":"Sibling"
     },
     {
-      "source": "n287",
+      "source": "character-back_to_the_future-emmett_brown",
       "target": "movie-back_to_the_future",
       "id": "e372",
       "label":"Main Character"
     },
     {
-      "source": "n287",
+      "source": "character-back_to_the_future-emmett_brown",
       "target": "movie-back_to_the_future_2",
       "id": "e373",
       "label":"Main Character"
     },
     {
-      "source": "n287",
+      "source": "character-back_to_the_future-emmett_brown",
       "target": "movie-back_to_the_future_3",
       "id": "e374",
       "label":"Main Character"
     },
     {
-      "source": "n287",
+      "source": "character-back_to_the_future-emmett_brown",
       "target": "movie-a_million_ways_to_die_in_the_west",
       "id": "e375",
       "label":"Cameo"
@@ -4174,114 +4174,114 @@
     },
     {
       "source": "n288",
-      "target": "n286",
+      "target": "character-back_to_the_future-marty_mcfly",
       "id": "e379",
       "label":"Son"
     },
     {
       "source": "n288",
-      "target": "n289",
+      "target": "character-back_to_the_future-lorraine_baines_mcfly",
       "id": "e380",
       "label":"Married"
     },
     {
       "source": "n288",
-      "target": "n293",
+      "target": "character-back_to_the_future-dave_mcfly",
       "id": "e381",
       "label":"Son"
     },
     {
       "source": "n288",
-      "target": "n294",
+      "target": "character-back_to_the_future-linda_mcfly",
       "id": "e382",
       "label":"Daughter"
     },
     {
-      "source": "n289",
+      "source": "character-back_to_the_future-lorraine_baines_mcfly",
       "target": "movie-back_to_the_future",
       "id": "e383",
       "label":"Main Character"
     },
     {
-      "source": "n289",
+      "source": "character-back_to_the_future-lorraine_baines_mcfly",
       "target": "movie-back_to_the_future_2",
       "id": "e384",
       "label":"Main Character"
     },
     {
-      "source": "n289",
+      "source": "character-back_to_the_future-lorraine_baines_mcfly",
       "target": "movie-back_to_the_future_3",
       "id": "e385",
       "label":"Main Character"
     },
     {
-      "source": "n289",
-      "target": "n286",
+      "source": "character-back_to_the_future-lorraine_baines_mcfly",
+      "target": "character-back_to_the_future-marty_mcfly",
       "id": "e386",
       "label":"Son"
     },
     {
-      "source": "n289",
-      "target": "n293",
+      "source": "character-back_to_the_future-lorraine_baines_mcfly",
+      "target": "character-back_to_the_future-dave_mcfly",
       "id": "e387",
       "label":"Son"
     },
     {
-      "source": "n289",
-      "target": "n294",
+      "source": "character-back_to_the_future-lorraine_baines_mcfly",
+      "target": "character-back_to_the_future-linda_mcfly",
       "id": "e388",
       "label":"Daughter"
     },
     {
-      "source": "n290",
+      "source": "character-back_to_the_future-biff_tannen",
       "target": "movie-back_to_the_future",
       "id": "e390",
       "label":"Main Character"
     },
     {
-      "source": "n290",
+      "source": "character-back_to_the_future-biff_tannen",
       "target": "movie-back_to_the_future_2",
       "id": "e391",
       "label":"Main Character"
     },
     {
-      "source": "n290",
+      "source": "character-back_to_the_future-biff_tannen",
       "target": "movie-back_to_the_future_3",
       "id": "e392",
       "label":"Main Character"
     },
     {
-      "source": "n291",
+      "source": "character-back_to_the_future-jennifer_parker",
       "target": "movie-back_to_the_future",
       "id": "e393",
       "label":"Main Character"
     },
     {
-      "source": "n291",
+      "source": "character-back_to_the_future-jennifer_parker",
       "target": "movie-back_to_the_future_2",
       "id": "e394",
       "label":"Main Character"
     },
     {
-      "source": "n292",
+      "source": "character-back_to_the_future-stanford_strickland",
       "target": "movie-back_to_the_future",
       "id": "e395",
       "label":"Main Character"
     },
     {
-      "source": "n292",
+      "source": "character-back_to_the_future-stanford_strickland",
       "target": "movie-back_to_the_future_2",
       "id": "e396",
       "label":"Main Character"
     },
     {
-      "source": "n293",
+      "source": "character-back_to_the_future-dave_mcfly",
       "target": "movie-back_to_the_future",
       "id": "e397",
       "label":"Main Character"
     },
     {
-      "source": "n294",
+      "source": "character-back_to_the_future-linda_mcfly",
       "target": "movie-back_to_the_future",
       "id": "e398",
       "label":"Main Character"
