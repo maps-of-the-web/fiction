@@ -433,7 +433,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n245",
+      "id":"show-dr_kildare",
       "label":"Dr. Kildare",
       "size": 1,
       "type": "tv-show"
@@ -2580,7 +2580,7 @@
       "label":"Crossover"
     },
     {
-      "source": "n245",
+      "source": "show-dr_kildare",
       "target": "n246",
       "id": "e312",
       "label":"Crossover"
