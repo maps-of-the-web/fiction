@@ -9,7 +9,8 @@
     {
       "id":"movie-back_to_the_future_2",
       "label":"Back to the Future Part II",
-      "type": "movie"
+      "type": "movie",
+      "size": 1
     },
     {
       "id":"movie-back_to_the_future_3",
