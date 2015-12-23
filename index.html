@@ -23,16 +23,14 @@
 			sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/data.json', {
 				container: 'sigma-container'
 			}, function(s) {
-				// Display the nodes on a circle:
-				// We do this so we can have randomly placed nodes,
-				//   that are then organized.
 				s.graph.nodes().forEach(function(node, i, a) {
+					// Display the nodes on a circle:
+					// We do this so we can have randomly placed nodes,
+					//   that are then organized.
 					node.x = Math.cos(Math.PI * 2 * i / a.length);
 					node.y = Math.sin(Math.PI * 2 * i / a.length);
-				});
 
-				// Give color to nodes of a certain type.
-				s.graph.nodes().forEach(function(node) {
+					// Give color to nodes of a certain type.
 					switch (node.type) {
 						case "character":
 							node.color = "#0000FF";
