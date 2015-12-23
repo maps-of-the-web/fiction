@@ -649,7 +649,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n281",
+      "id":"show-as_the_world_turns",
       "label":"As the World Turns",
       "size": 1,
       "type": "tv-show"
@@ -2707,7 +2707,7 @@
     },
     {
       "source": "show-another_world",
-      "target": "n281",
+      "target": "show-as_the_world_turns",
       "id": "e333",
       "label":"Crossover"
     },
