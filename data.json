@@ -529,7 +529,7 @@
       "type": "tv-show"
     },
     {
-      "id":"n261",
+      "id":"show-walker_texas_ranger",
       "label":"Walker, Texas Ranger",
       "size": 1,
       "type": "tv-show"
@@ -2629,7 +2629,7 @@
     },
     {
       "source": "show-martial_law",
-      "target": "n261",
+      "target": "show-walker_texas_ranger",
       "id": "e320",
       "label":"Crossover"
     },
