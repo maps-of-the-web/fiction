@@ -331,6 +331,56 @@
       "type": "tv-show"
     },
     {
+      "id":"character-frasier-niles_crane",
+      "label":"Niles Crane",
+      "type": "character"
+    },
+    {
+      "id":"character-frasier-martin_crane",
+      "label":"Martin Crane",
+      "type": "character"
+    },
+    {
+      "id":"character-frasier-daphne_moon",
+      "label":"Daphne Moon",
+      "type": "character"
+    },
+    {
+      "id":"character-frasier-roz_doyle",
+      "label":"Roz Doyle",
+      "type": "character"
+    },
+    {
+      "id":"character-frasier-eddie",
+      "label":"Eddie",
+      "type": "character"
+    },
+    {
+      "id":"character-frasier-bob_briscoe",
+      "label":"Bob Briscoe",
+      "type": "character"
+    },
+    {
+      "id":"character-frasier-noel_shempsky",
+      "label":"Noel Shempsky",
+      "type": "character"
+    },
+    {
+      "id":"character-frasier-gil_chesterton",
+      "label":"Gil Chesterton",
+      "type": "character"
+    },
+    {
+      "id":"character-frasier-kenny_daly",
+      "label":"Kenny Daly",
+      "type": "character"
+    },
+    {
+      "id":"character-frasier-bebe_glazer",
+      "label":"Bebe Glazer",
+      "type": "character"
+    },
+    {
       "id":"show-wings",
       "label":"Wings",
       "type": "tv-show"
@@ -839,56 +889,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n48",
-      "label":"Niles Crane",
-      "type": "character"
-    },
-    {
-      "id":"n49",
-      "label":"Martin Crane",
-      "type": "character"
-    },
-    {
-      "id":"n50",
-      "label":"Daphne Moon",
-      "type": "character"
-    },
-    {
-      "id":"n51",
-      "label":"Roz Doyle",
-      "type": "character"
-    },
-    {
-      "id":"n52",
-      "label":"Eddie",
-      "type": "character"
-    },
-    {
-      "id":"n53",
-      "label":"Bob Briscoe",
-      "type": "character"
-    },
-    {
-      "id":"n54",
-      "label":"Noel Shempsky",
-      "type": "character"
-    },
-    {
-      "id":"n55",
-      "label":"Gil Chesterton",
-      "type": "character"
-    },
-    {
-      "id":"n56",
-      "label":"Kenny Daly",
-      "type": "character"
-    },
-    {
-      "id":"n57",
-      "label":"Bebe Glazer",
-      "type": "character"
     },
     {
       "id":"n60",
@@ -2710,75 +2710,75 @@
       "label":"Main Character"
     },
     {
-      "source": "n48",
+      "source": "character-frasier-niles_crane",
       "target": "show-fraiser",
       "id": "e57",
       "label":"Main Character"
     },
     {
-      "source": "n48",
+      "source": "character-frasier-niles_crane",
       "target": "show-caroline_in_the_city",
       "id": "e92",
       "label":"Guest",
       "Episode":"1x4"
     },
     {
-      "source": "n49",
+      "source": "character-frasier-martin_crane",
       "target": "show-fraiser",
       "id": "e58",
       "label":"Main Character"
     },
     {
-      "source": "n50",
+      "source": "character-frasier-daphne_moon",
       "target": "show-fraiser",
       "id": "e59",
       "label":"Main Character"
     },
     {
-      "source": "n50",
+      "source": "character-frasier-daphne_moon",
       "target": "show-caroline_in_the_city",
       "id": "e91",
       "label":"Guest",
       "Episode":"1x4"
     },
     {
-      "source": "n51",
+      "source": "character-frasier-roz_doyle",
       "target": "show-fraiser",
       "id": "e60",
       "label":"Main Character"
     },
     {
-      "source": "n52",
+      "source": "character-frasier-eddie",
       "target": "show-fraiser",
       "id": "e61",
       "label":"Main Character"
     },
     {
-      "source": "n53",
+      "source": "character-frasier-bob_briscoe",
       "target": "show-fraiser",
       "id": "e62",
       "label":"Recurring Character"
     },
     {
-      "source": "n54",
+      "source": "character-frasier-noel_shempsky",
       "target": "show-fraiser",
       "id": "e63",
       "label":"Recurring Character"
     },
     {
-      "source": "n55",
+      "source": "character-frasier-gil_chesterton",
       "target": "show-fraiser",
       "id": "e64",
       "label":"Recurring Character"
     },
     {
-      "source": "n56",
+      "source": "character-frasier-kenny_daly",
       "target": "show-fraiser",
       "id": "e65",
       "label":"Recurring Character"
     },
     {
-      "source": "n57",
+      "source": "character-frasier-bebe_glazer",
       "target": "show-fraiser",
       "id": "e66",
       "label":"Recurring Character"
