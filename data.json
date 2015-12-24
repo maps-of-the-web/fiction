@@ -316,6 +316,16 @@
       "type": "tv-show"
     },
     {
+      "id":"character-tortellis-charlotte_cooper",
+      "label":"Charlotte Cooper",
+      "type": "character"
+    },
+    {
+      "id":"character-tortellis-mark_cooper",
+      "label":"Mark Cooper",
+      "type": "character"
+    },
+    {
       "id":"show-fraiser",
       "label":"Fraiser",
       "type": "tv-show"
@@ -829,16 +839,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n44",
-      "label":"Charlotte Cooper",
-      "type": "character"
-    },
-    {
-      "id":"n45",
-      "label":"Mark Cooper",
-      "type": "character"
     },
     {
       "id":"n48",
@@ -2698,13 +2698,13 @@
       "label":"Main Character"
     },
     {
-      "source": "n44",
+      "source": "character-tortellis-charlotte_cooper",
       "target": "show-tortellis",
       "id": "e46",
       "label":"Main Character"
     },
     {
-      "source": "n45",
+      "source": "character-tortellis-mark_cooper",
       "target": "show-tortellis",
       "id": "e47",
       "label":"Main Character"
