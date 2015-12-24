@@ -621,6 +621,36 @@
       "type": "tv-show"
     },
     {
+      "id":"character-best_friends_whenever-cyd",
+      "label":"Cyd",
+      "type": "character"
+    },
+    {
+      "id":"character-best_friends_whenever-shelby",
+      "label":"Shelby",
+      "type": "character"
+    },
+    {
+      "id":"character-best_friends_whenever-barry",
+      "label":"Barry",
+      "type": "character"
+    },
+    {
+      "id":"character-best_friends_whenever-naldo",
+      "label":"Naldo",
+      "type": "character"
+    },
+    {
+      "id":"character-best_friends_whenever-bret",
+      "label":"Bret",
+      "type": "character"
+    },
+    {
+      "id":"character-best_friends_whenever-chet",
+      "label":"Chet",
+      "type": "character"
+    },
+    {
       "id":"show-liv_and_maddie",
       "label":"Liv and Maddie",
       "type": "tv-show"
@@ -1099,36 +1129,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n106",
-      "label":"Cyd",
-      "type": "character"
-    },
-    {
-      "id":"n107",
-      "label":"Shelby",
-      "type": "character"
-    },
-    {
-      "id":"n108",
-      "label":"Barry",
-      "type": "character"
-    },
-    {
-      "id":"n109",
-      "label":"Naldo",
-      "type": "character"
-    },
-    {
-      "id":"n110",
-      "label":"Bret",
-      "type": "character"
-    },
-    {
-      "id":"n111",
-      "label":"Chet",
-      "type": "character"
     },
     {
       "id":"n113",
@@ -3219,51 +3219,51 @@
       "label":"Main Character"
     },
     {
-      "source": "n106",
+      "source": "character-best_friends_whenever-cyd",
       "target": "show-best_friends_whenever",
       "id": "e122",
       "label":"Main Character"
     },
     {
-      "source": "n106",
+      "source": "character-best_friends_whenever-cyd",
       "target": "show-liv_and_maddie",
       "id": "e128",
       "label":"Guest",
       "Episode":"3x4"
     },
     {
-      "source": "n107",
+      "source": "character-best_friends_whenever-shelby",
       "target": "show-best_friends_whenever",
       "id": "e123",
       "label":"Main Character"
     },
     {
-      "source": "n107",
+      "source": "character-best_friends_whenever-shelby",
       "target": "show-liv_and_maddie",
       "id": "e129",
       "label":"Guest",
       "Episode":"3x4"
     },
     {
-      "source": "n108",
+      "source": "character-best_friends_whenever-barry",
       "target": "show-best_friends_whenever",
       "id": "e124",
       "label":"Main Character"
     },
     {
-      "source": "n109",
+      "source": "character-best_friends_whenever-naldo",
       "target": "show-best_friends_whenever",
       "id": "e125",
       "label":"Main Character"
     },
     {
-      "source": "n110",
+      "source": "character-best_friends_whenever-bret",
       "target": "show-best_friends_whenever",
       "id": "e126",
       "label":"Main Character"
     },
     {
-      "source": "n111",
+      "source": "character-best_friends_whenever-chet",
       "target": "show-best_friends_whenever",
       "id": "e127",
       "label":"Main Character"
