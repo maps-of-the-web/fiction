@@ -386,6 +386,51 @@
       "type": "tv-show"
     },
     {
+      "id":"character-wings-joe_hackett",
+      "label":"Joe Hackett",
+      "type": "character"
+    },
+    {
+      "id":"character-wings-brian_hackett",
+      "label":"Brian Hackett",
+      "type": "character"
+    },
+    {
+      "id":"character-wings-helen_chappel_hackett",
+      "label":"Helen Chappel-Hackett",
+      "type": "character"
+    },
+    {
+      "id":"character-wings-lowell_mather",
+      "label":"Lowell Mather",
+      "type": "character"
+    },
+    {
+      "id":"character-wings-roy_biggins",
+      "label":"Roy Biggins",
+      "type": "character"
+    },
+    {
+      "id":"character-wings-fay_cochran",
+      "label":"Fay Cochran",
+      "type": "character"
+    },
+    {
+      "id":"character-wings-antonio_scarpacci",
+      "label":"Antonio Scarpacci",
+      "type": "character"
+    },
+    {
+      "id":"character-wings-alex_lambert",
+      "label":"Alex Lambert",
+      "type": "character"
+    },
+    {
+      "id":"character-wings-casey_chappel_davenport",
+      "label":"Casey Chappel-Davenport",
+      "type": "character"
+    },
+    {
       "id":"show-john_larroquette",
       "label":"The John Larroquette Show",
       "type": "tv-show"
@@ -934,51 +979,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n69",
-      "label":"Joe Hackett",
-      "type": "character"
-    },
-    {
-      "id":"n70",
-      "label":"Brian Hackett",
-      "type": "character"
-    },
-    {
-      "id":"n71",
-      "label":"Helen Chappel-Hackett",
-      "type": "character"
-    },
-    {
-      "id":"n72",
-      "label":"Lowell Mather",
-      "type": "character"
-    },
-    {
-      "id":"n73",
-      "label":"Roy Biggins",
-      "type": "character"
-    },
-    {
-      "id":"n74",
-      "label":"Fay Cochran",
-      "type": "character"
-    },
-    {
-      "id":"n75",
-      "label":"Antonio Scarpacci",
-      "type": "character"
-    },
-    {
-      "id":"n76",
-      "label":"Alex Lambert",
-      "type": "character"
-    },
-    {
-      "id":"n77",
-      "label":"Casey Chappel-Davenport",
-      "type": "character"
     },
     {
       "id":"n79",
@@ -2838,55 +2838,55 @@
       "label":"Main Character"
     },
     {
-      "source": "n69",
+      "source": "character-wings-joe_hackett",
       "target": "show-wings",
       "id": "e78",
       "label":"Main Character"
     },
     {
-      "source": "n70",
+      "source": "character-wings-brian_hackett",
       "target": "show-wings",
       "id": "e79",
       "label":"Main Character"
     },
     {
-      "source": "n71",
+      "source": "character-wings-helen_chappel_hackett",
       "target": "show-wings",
       "id": "e80",
       "label":"Main Character"
     },
     {
-      "source": "n72",
+      "source": "character-wings-lowell_mather",
       "target": "show-wings",
       "id": "e81",
       "label":"Main Character"
     },
     {
-      "source": "n73",
+      "source": "character-wings-roy_biggins",
       "target": "show-wings",
       "id": "e82",
       "label":"Main Character"
     },
     {
-      "source": "n74",
+      "source": "character-wings-fay_cochran",
       "target": "show-wings",
       "id": "e83",
       "label":"Main Character"
     },
     {
-      "source": "n75",
+      "source": "character-wings-antonio_scarpacci",
       "target": "show-wings",
       "id": "e84",
       "label":"Main Character"
     },
     {
-      "source": "n76",
+      "source": "character-wings-alex_lambert",
       "target": "show-wings",
       "id": "e85",
       "label":"Main Character"
     },
     {
-      "source": "n77",
+      "source": "character-wings-casey_chappel_davenport",
       "target": "show-wings",
       "id": "e86",
       "label":"Main Character"
