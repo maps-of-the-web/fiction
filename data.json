@@ -486,6 +486,31 @@
       "type": "tv-show"
     },
     {
+      "id":"character-caroline_in_the_city-caroline_duffy",
+      "label":"Caroline Duffy",
+      "type": "character"
+    },
+    {
+      "id":"character-caroline_in_the_city-richard_karinsky",
+      "label":"Richard Karinsky",
+      "type": "character"
+    },
+    {
+      "id":"character-caroline_in_the_city-del_cassidy",
+      "label":"Del Cassidy",
+      "type": "character"
+    },
+    {
+      "id":"character-caroline_in_the_city-annie_spadaro",
+      "label":"Annie Spadaro",
+      "type": "character"
+    },
+    {
+      "id":"character-caroline_in_the_city-charlie",
+      "label":"Charlie",
+      "type": "character"
+    },
+    {
       "id":"show-boy_meets_world",
       "label":"Boy Meets World",
       "type": "tv-show"
@@ -979,31 +1004,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n79",
-      "label":"Caroline Duffy",
-      "type": "character"
-    },
-    {
-      "id":"n80",
-      "label":"Richard Karinsky",
-      "type": "character"
-    },
-    {
-      "id":"n81",
-      "label":"Del Cassidy",
-      "type": "character"
-    },
-    {
-      "id":"n82",
-      "label":"Annie Spadaro",
-      "type": "character"
-    },
-    {
-      "id":"n83",
-      "label":"Charlie",
-      "type": "character"
     },
     {
       "id":"n85",
@@ -2892,38 +2892,38 @@
       "label":"Main Character"
     },
     {
-      "source": "n79",
+      "source": "character-caroline_in_the_city-caroline_duffy",
       "target": "show-caroline_in_the_city",
       "id": "e93",
       "label":"Main Character"
     },
     {
-      "source": "n79",
+      "source": "character-caroline_in_the_city-caroline_duffy",
       "target": "show-friends",
       "id": "e1620",
       "label":"Guest",
       "Episode":"2x6"
     },
     {
-      "source": "n80",
+      "source": "character-caroline_in_the_city-richard_karinsky",
       "target": "show-caroline_in_the_city",
       "id": "e94",
       "label":"Main Character"
     },
     {
-      "source": "n81",
+      "source": "character-caroline_in_the_city-del_cassidy",
       "target": "show-caroline_in_the_city",
       "id": "e95",
       "label":"Main Character"
     },
     {
-      "source": "n82",
+      "source": "character-caroline_in_the_city-annie_spadaro",
       "target": "show-caroline_in_the_city",
       "id": "e96",
       "label":"Main Character"
     },
     {
-      "source": "n83",
+      "source": "character-caroline_in_the_city-charlie",
       "target": "show-caroline_in_the_city",
       "id": "e97",
       "label":"Main Character"
