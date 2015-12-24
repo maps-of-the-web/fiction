@@ -591,6 +591,31 @@
       "type": "tv-show"
     },
     {
+      "id":"character-girl_meets_world-riley_matthews",
+      "label":"Riley Matthews",
+      "type": "character"
+    },
+    {
+      "id":"character-girl_meets_world-maya_hart",
+      "label":"Maya Hart",
+      "type": "character"
+    },
+    {
+      "id":"character-girl_meets_world-lucas_friar",
+      "label":"Lucas Friar",
+      "type": "character"
+    },
+    {
+      "id":"character-girl_meets_world-auggie_matthews",
+      "label":"Auggie Matthews",
+      "type": "character"
+    },
+    {
+      "id":"character-girl_meets_world-farkle_minkus",
+      "label":"Farkle Minkus",
+      "type": "character"
+    },
+    {
       "id":"show-best_friends_whenever",
       "label":"Best Friends Whenever",
       "type": "tv-show"
@@ -1074,31 +1099,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n100",
-      "label":"Riley Matthews",
-      "type": "character"
-    },
-    {
-      "id":"n101",
-      "label":"Maya Hart",
-      "type": "character"
-    },
-    {
-      "id":"n102",
-      "label":"Lucas Friar",
-      "type": "character"
-    },
-    {
-      "id":"n103",
-      "label":"Auggie Matthews",
-      "type": "character"
-    },
-    {
-      "id":"n104",
-      "label":"Farkle Minkus",
-      "type": "character"
     },
     {
       "id":"n106",
@@ -2966,13 +2966,13 @@
     },
     {
       "source": "character-boy_meets_world-cory_matthews",
-      "target": "n100",
+      "target": "character-girl_meets_world-riley_matthews",
       "id": "e352",
       "label":"Daughter"
     },
     {
       "source": "character-boy_meets_world-cory_matthews",
-      "target": "n103",
+      "target": "character-girl_meets_world-auggie_matthews",
       "id": "e353",
       "label":"Son"
     },
@@ -3008,13 +3008,13 @@
     },
     {
       "source": "character-boy_meets_world-topange_lawrence_matthews",
-      "target": "n100",
+      "target": "character-girl_meets_world-riley_matthews",
       "id": "e350",
       "label":"Daughter"
     },
     {
       "source": "character-boy_meets_world-topange_lawrence_matthews",
-      "target": "n103",
+      "target": "character-girl_meets_world-auggie_matthews",
       "id": "e351",
       "label":"Son"
     },
@@ -3164,7 +3164,7 @@
     },
     {
       "source": "character-boy_meets_world-stuart_minkus",
-      "target": "n104",
+      "target": "character-girl_meets_world-farkle_minkus",
       "id": "e355",
       "label":"Son"
     },
@@ -3175,45 +3175,45 @@
       "label":"Main Character"
     },
     {
-      "source": "n100",
+      "source": "character-girl_meets_world-riley_matthews",
       "target": "show-girl_meets_world",
       "id": "e115",
       "label":"Main Character"
     },
     {
-      "source": "n100",
+      "source": "character-girl_meets_world-riley_matthews",
       "target": "show-best_friends_whenever",
       "id": "e120",
       "label":"Guest",
       "Episode":"1x9"
     },
     {
-      "source": "n101",
+      "source": "character-girl_meets_world-maya_hart",
       "target": "show-girl_meets_world",
       "id": "e116",
       "label":"Main Character"
     },
     {
-      "source": "n102",
+      "source": "character-girl_meets_world-lucas_friar",
       "target": "show-girl_meets_world",
       "id": "e117",
       "label":"Main Character"
     },
     {
-      "source": "n102",
+      "source": "character-girl_meets_world-lucas_friar",
       "target": "show-best_friends_whenever",
       "id": "e121",
       "label":"Guest",
       "Episode":"1x9"
     },
     {
-      "source": "n103",
+      "source": "character-girl_meets_world-auggie_matthews",
       "target": "show-girl_meets_world",
       "id": "e118",
       "label":"Main Character"
     },
     {
-      "source": "n104",
+      "source": "character-girl_meets_world-farkle_minkus",
       "target": "show-girl_meets_world",
       "id": "e119",
       "label":"Main Character"
