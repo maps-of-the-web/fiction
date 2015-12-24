@@ -391,6 +391,51 @@
       "type": "tv-show"
     },
     {
+      "id":"character-john_larroquette-john_hemingway",
+      "label":"John Hemingway",
+      "type": "character"
+    },
+    {
+      "id":"character-john_larroquette-mahalia_sanchez",
+      "label":"Mahalia Sanchez",
+      "type": "character"
+    },
+    {
+      "id":"character-john_larroquette-carly_watkins",
+      "label":"Carly Watkins",
+      "type": "character"
+    },
+    {
+      "id":"character-john_larroquette-dexter_walker",
+      "label":"Dexter Walker",
+      "type": "character"
+    },
+    {
+      "id":"character-john_larroquette-heavy_gene",
+      "label":"Heavy Gene",
+      "type": "character"
+    },
+    {
+      "id":"character-john_larroquette-adam_hampton",
+      "label":"Officer Adam Hampton",
+      "type": "character"
+    },
+    {
+      "id":"character-john_larroquette-eve_eggers",
+      "label":"Officer Eve Eggers",
+      "type": "character"
+    },
+    {
+      "id":"character-john_larroquette-catherine_merrick",
+      "label":"Catherine Merrick",
+      "type": "character"
+    },
+    {
+      "id":"character-john_larroquette-max_dumas",
+      "label":"Max Dumas",
+      "type": "character"
+    },
+    {
       "id":"show-caroline_in_the_city",
       "label":"Caroline in the City",
       "type": "tv-show"
@@ -889,51 +934,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n60",
-      "label":"John Hemingway",
-      "type": "character"
-    },
-    {
-      "id":"n61",
-      "label":"Mahalia Sanchez",
-      "type": "character"
-    },
-    {
-      "id":"n62",
-      "label":"Carly Watkins",
-      "type": "character"
-    },
-    {
-      "id":"n63",
-      "label":"Dexter Walker",
-      "type": "character"
-    },
-    {
-      "id":"n64",
-      "label":"Heavy Gene",
-      "type": "character"
-    },
-    {
-      "id":"n65",
-      "label":"Officer Adam Hampton",
-      "type": "character"
-    },
-    {
-      "id":"n66",
-      "label":"Officer Eve Eggers",
-      "type": "character"
-    },
-    {
-      "id":"n67",
-      "label":"Catherine Merrick",
-      "type": "character"
-    },
-    {
-      "id":"n68",
-      "label":"Max Dumas",
-      "type": "character"
     },
     {
       "id":"n69",
@@ -2784,55 +2784,55 @@
       "label":"Recurring Character"
     },
     {
-      "source": "n60",
+      "source": "character-john_larroquette-john_hemingway",
       "target": "show-john_larroquette",
       "id": "e69",
       "label":"Main Character"
     },
     {
-      "source": "n61",
+      "source": "character-john_larroquette-mahalia_sanchez",
       "target": "show-john_larroquette",
       "id": "e70",
       "label":"Main Character"
     },
     {
-      "source": "n62",
+      "source": "character-john_larroquette-carly_watkins",
       "target": "show-john_larroquette",
       "id": "e71",
       "label":"Main Character"
     },
     {
-      "source": "n63",
+      "source": "character-john_larroquette-dexter_walker",
       "target": "show-john_larroquette",
       "id": "e72",
       "label":"Main Character"
     },
     {
-      "source": "n64",
+      "source": "character-john_larroquette-heavy_gene",
       "target": "show-john_larroquette",
       "id": "e73",
       "label":"Main Character"
     },
     {
-      "source": "n65",
+      "source": "character-john_larroquette-adam_hampton",
       "target": "show-john_larroquette",
       "id": "e74",
       "label":"Main Character"
     },
     {
-      "source": "n66",
+      "source": "character-john_larroquette-eve_eggers",
       "target": "show-john_larroquette",
       "id": "e75",
       "label":"Main Character"
     },
     {
-      "source": "n67",
+      "source": "character-john_larroquette-catherine_merrick",
       "target": "show-john_larroquette",
       "id": "e76",
       "label":"Main Character"
     },
     {
-      "source": "n68",
+      "source": "character-john_larroquette-max_dumas",
       "target": "show-john_larroquette",
       "id": "e77",
       "label":"Main Character"
