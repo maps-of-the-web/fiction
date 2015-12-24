@@ -656,6 +656,36 @@
       "type": "tv-show"
     },
     {
+      "id":"character-liv_and_maddie-liv_rooney",
+      "label":"Liv Rooney",
+      "type": "character"
+    },
+    {
+      "id":"character-liv_and_maddie-maddie_rooney",
+      "label":"Maddie Rooney",
+      "type": "character"
+    },
+    {
+      "id":"character-liv_and_maddie-joey_rooney",
+      "label":"Joey Rooney",
+      "type": "character"
+    },
+    {
+      "id":"character-liv_and_maddie-parker_rooney",
+      "label":"Parker Rooney",
+      "type": "character"
+    },
+    {
+      "id":"character-liv_and_maddie-karen_rooney",
+      "label":"Karen Rooney",
+      "type": "character"
+    },
+    {
+      "id":"character-liv_and_maddie-pete_rooney",
+      "label":"Pete Rooney",
+      "type": "character"
+    },
+    {
       "id":"show-jessie",
       "label":"Jessie",
       "type": "tv-show"
@@ -1129,36 +1159,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n113",
-      "label":"Liv Rooney",
-      "type": "character"
-    },
-    {
-      "id":"n114",
-      "label":"Maddie Rooney",
-      "type": "character"
-    },
-    {
-      "id":"n115",
-      "label":"Joey Rooney",
-      "type": "character"
-    },
-    {
-      "id":"n116",
-      "label":"Parker Rooney",
-      "type": "character"
-    },
-    {
-      "id":"n117",
-      "label":"Karen Rooney",
-      "type": "character"
-    },
-    {
-      "id":"n118",
-      "label":"Pete Rooney",
-      "type": "character"
     },
     {
       "id":"n121",
@@ -3269,51 +3269,51 @@
       "label":"Main Character"
     },
     {
-      "source": "n113",
+      "source": "character-liv_and_maddie-liv_rooney",
       "target": "show-liv_and_maddie",
       "id": "e130",
       "label":"Main Character"
     },
     {
-      "source": "n114",
+      "source": "character-liv_and_maddie-maddie_rooney",
       "target": "show-liv_and_maddie",
       "id": "e131",
       "label":"Main Character"
     },
     {
-      "source": "n115",
+      "source": "character-liv_and_maddie-joey_rooney",
       "target": "show-liv_and_maddie",
       "id": "e132",
       "label":"Main Character"
     },
     {
-      "source": "n115",
+      "source": "character-liv_and_maddie-joey_rooney",
       "target": "show-jessie",
       "id": "e136",
       "label":"Guest",
       "Episode":"3x26"
     },
     {
-      "source": "n116",
+      "source": "character-liv_and_maddie-parker_rooney",
       "target": "show-liv_and_maddie",
       "id": "e133",
       "label":"Main Character"
     },
     {
-      "source": "n116",
+      "source": "character-liv_and_maddie-parker_rooney",
       "target": "show-jessie",
       "id": "e137",
       "label":"Guest",
       "Episode":"3x26"
     },
     {
-      "source": "n117",
+      "source": "character-liv_and_maddie-karen_rooney",
       "target": "show-liv_and_maddie",
       "id": "e134",
       "label":"Main Character"
     },
     {
-      "source": "n118",
+      "source": "character-liv_and_maddie-pete_rooney",
       "target": "show-liv_and_maddie",
       "id": "e135",
       "label":"Main Character"
