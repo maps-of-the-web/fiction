@@ -5442,6 +5442,18 @@
       "target": "character-caroline_in_the_city-del_cassidy",
       "id": "character-caroline_in_the_city-caroline_duffy+character-caroline_in_the_city-del_cassidy",
       "label": "Ex-fiance"
+    },
+    {
+      "source": "character-caroline_in_the_city-richard_karinsky",
+      "target": "character-caroline_in_the_city-caroline_duffy",
+      "id": "character-caroline_in_the_city-richard_karinsky+character-caroline_in_the_city-caroline_duffy",
+      "label": "Boyfriend"
+    },
+    {
+      "source": "character-caroline_in_the_city-caroline_duffy",
+      "target": "character-caroline_in_the_city-richard_karinsky",
+      "id": "character-caroline_in_the_city-caroline_duffy+character-caroline_in_the_city-richard_karinsky",
+      "label": "Girlfriend"
     }
   ]
 }
