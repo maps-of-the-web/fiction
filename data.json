@@ -1236,6 +1236,11 @@
       "type": "character"
     },
     {
+      "id":"character-friends-gina_tribbiani",
+      "label":"Gina Tribbiani",
+      "type": "character"
+    },
+    {
       "id":"show-seinfeld",
       "label":"Seinfeld",
       "type": "tv-show"
@@ -1739,11 +1744,6 @@
       "id":"show-joey",
       "label":"Joey",
       "type": "tv-show"
-    },
-    {
-      "id":"n366",
-      "label":"Gina Tribbiani",
-      "type": "character"
     },
     {
       "id":"n367",
@@ -5036,7 +5036,7 @@
       "label":"Main Character"
     },
     {
-      "source": "n366",
+      "source": "character-friends-gina_tribbiani",
       "target": "show-joey",
       "id": "e1642",
       "label":"Main Character"
@@ -5064,6 +5064,24 @@
       "target": "show-joey",
       "id": "e1646",
       "label":"Main Character"
+    },
+    {
+      "source": "character-friends-gina_tribbiani",
+      "target": "character-friends-joey_tribbiani",
+      "id": "character-friends-gina_tribbiani+character-friends-joey_tribbiani",
+      "label": "Sister"
+    },
+    {
+      "source": "character-friends-joey_tribbiani",
+      "target": "character-friends-gina_tribbiani",
+      "id": "character-friends-joey_tribbiani+character-friends-gina_tribbiani",
+      "label": "Brother"
+    },
+    {
+      "source": "character-friends-gina_tribbiani",
+      "target": "show-friends",
+      "id": "character-friends-gina_tribbiani+show-friends",
+      "label": "Minor Character"
     }
   ]
 }
