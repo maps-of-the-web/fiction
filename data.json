@@ -5382,6 +5382,30 @@
       "target": "character-caroline_in_the_city-annie_spadaro",
       "id": "character-friends-chandler_bing+character-caroline_in_the_city-annie_spadaro",
       "label": "Met"
+    },
+    {
+      "source": "character-caroline_in_the_city-caroline_duffy",
+      "target": "character-friends-chandler_bing",
+      "id": "character-caroline_in_the_city-caroline_duffy+character-friends-chandler_bing",
+      "label": "Met"
+    },
+    {
+      "source": "character-caroline_in_the_city-caroline_duffy",
+      "target": "character-friends-joey_tribbiani",
+      "id": "character-caroline_in_the_city-caroline_duffy+character-friends-joey_tribbiani",
+      "label": "Met"
+    },
+    {
+      "source": "character-friends-chandler_bing",
+      "target": "character-caroline_in_the_city-caroline_duffy",
+      "id": "character-friends-chandler_bing+character-caroline_in_the_city-caroline_duffy",
+      "label": "Met"
+    },
+    {
+      "source": "character-friends-joey_tribbiani",
+      "target": "character-caroline_in_the_city-caroline_duffy",
+      "id": "character-friends-joey_tribbiani+character-caroline_in_the_city-caroline_duffy",
+      "label": "Met"
     }
   ]
 }
