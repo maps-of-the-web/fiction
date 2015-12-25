@@ -5538,6 +5538,12 @@
       "target": "character-frasier-daphne_moon",
       "id": "character-cheers-frasier_crane+character-frasier-daphne_moon",
       "label": "Brother-in-Law"
+    },
+    {
+      "source": "character-cheers-lilith_sternin",
+      "target": "show-fraiser",
+      "id": "character-cheers-lilith_sternin+show-fraiser",
+      "label": "Minor Character"
     }
   ]
 }
