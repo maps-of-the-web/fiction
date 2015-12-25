@@ -5370,6 +5370,18 @@
       "target": "character-caroline_in_the_city-annie_spadaro",
       "id": "character-caroline_in_the_city-richard_karinsky+character-caroline_in_the_city-annie_spadaro",
       "label": "Acquaintance"
+    },
+    {
+      "source": "character-caroline_in_the_city-annie_spadaro",
+      "target": "character-friends-chandler_bing",
+      "id": "character-caroline_in_the_city-annie_spadaro+character-friends-chandler_bing",
+      "label": "Met"
+    },
+    {
+      "source": "character-friends-chandler_bing",
+      "target": "character-caroline_in_the_city-annie_spadaro",
+      "id": "character-friends-chandler_bing+character-caroline_in_the_city-annie_spadaro",
+      "label": "Met"
     }
   ]
 }
