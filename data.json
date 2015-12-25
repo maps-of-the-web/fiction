@@ -5334,6 +5334,18 @@
       "target": "character-joey-michael_tribbiani",
       "id": "character-joey-roberta_morganstern+character-joey-michael_tribbiani",
       "label": "Romantic Interest"
+    },
+    {
+      "source": "character-caroline_in_the_city-charlie",
+      "target": "character-caroline_in_the_city-del_cassidy",
+      "id": "character-caroline_in_the_city-charlie+character-caroline_in_the_city-del_cassidy",
+      "label": "Business Partner"
+    },
+    {
+      "source": "character-caroline_in_the_city-del_cassidy",
+      "target": "character-caroline_in_the_city-charlie",
+      "id": "character-caroline_in_the_city-del_cassidy+character-caroline_in_the_city-charlie",
+      "label": "Business Partness"
     }
   ]
 }
