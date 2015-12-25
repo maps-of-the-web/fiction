@@ -5544,6 +5544,30 @@
       "target": "show-fraiser",
       "id": "character-cheers-lilith_sternin+show-fraiser",
       "label": "Minor Character"
+    },
+    {
+      "source": "character-cheers-nick_tortelli",
+      "target": "show-cheers",
+      "id": "",
+      "label": "Recurring Character"
+    },
+    {
+      "source": "character-cheers-loretta_tortelli",
+      "target": "show-cheers",
+      "id": "",
+      "label": "Rucurring Character"
+    },
+    {
+      "source": "character-cheers-annie_tortelli",
+      "target": "show-cheers",
+      "id": "",
+      "label": "Recurring Character"
+    },
+    {
+      "source": "character-cheers-anthony_tortelli",
+      "target": "show-cheers",
+      "id": "",
+      "label": "Recurring Character"
     }
   ]
 }
