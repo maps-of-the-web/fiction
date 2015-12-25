@@ -5568,6 +5568,30 @@
       "target": "show-cheers",
       "id": "character-cheers-anthony_tortelli+show-cheers",
       "label": "Recurring Character"
+    },
+    {
+      "source": "character-cheers-nick_tortelli",
+      "target": "character-cheers-carla_tortelli",
+      "id": "character-cheers-nick_tortelli+character-cheers-carla_tortelli",
+      "label": "Ex-husband"
+    },
+    {
+      "source": "character-cheers-carla_tortelli",
+      "target": "character-cheers-nick_tortelli",
+      "id": "character-cheers-carla_tortelli+character-cheers-nick_tortelli",
+      "label": "Ex-wife"
+    },
+    {
+      "source": "character-cheers-nick_tortelli",
+      "target": "character-cheers-loretta_tortelli",
+      "id": "character-cheers-nick_tortelli+character-cheers-loretta_tortelli",
+      "label": "Husband"
+    },
+    {
+      "source": "character-cheers-loretta_tortelli",
+      "target": "character-cheers-nick_tortelli",
+      "id": "character-cheers-loretta_tortelli+character-cheers-nick_tortelli",
+      "label": "Wife"
     }
   ]
 }
