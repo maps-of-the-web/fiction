@@ -1006,6 +1006,36 @@
       "type": "tv-show"
     },
     {
+      "id":"character-wizards_of_waverly_place-alex_russo",
+      "label":"Alex Russo",
+      "type": "character"
+    },
+    {
+      "id":"character-wizards_of_waverly_place-justin_russo",
+      "label":"Justin Russo",
+      "type": "character"
+    },
+    {
+      "id":"character-wizards_of_waverly_place-max_russo",
+      "label":"Max Russo",
+      "type": "character"
+    },
+    {
+      "id":"character-wizards_of_waverly_place-harper_finkle",
+      "label":"Harper Finkle",
+      "type": "character"
+    },
+    {
+      "id":"character-wizards_of_waverly_place-theresa_russo",
+      "label":"Theresa Russo",
+      "type": "character"
+    },
+    {
+      "id":"character-wizards_of_waverly_place-jerry_russo",
+      "label":"Jerry Russo",
+      "type": "character"
+    },
+    {
       "id":"show-im_in_the_band",
       "label":"I'm In The Band",
       "type": "tv-show"
@@ -1424,36 +1454,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n200",
-      "label":"Alex Russo",
-      "type": "character"
-    },
-    {
-      "id":"n201",
-      "label":"Justin Russo",
-      "type": "character"
-    },
-    {
-      "id":"n202",
-      "label":"Max Russo",
-      "type": "character"
-    },
-    {
-      "id":"n203",
-      "label":"Harper Finkle",
-      "type": "character"
-    },
-    {
-      "id":"n204",
-      "label":"Theresa Russo",
-      "type": "character"
-    },
-    {
-      "id":"n205",
-      "label":"Jerry Russo",
-      "type": "character"
     },
     {
       "id":"n210",
@@ -3923,58 +3923,58 @@
       "label":"Main Character"
     },
     {
-      "source": "n200",
+      "source": "character-wizards_of_waverly_place-alex_russo",
       "target": "show-suite_life_on_deck",
       "id": "e244",
       "label":"Guest",
       "Episode":"1x21"
     },
     {
-      "source": "n200",
+      "source": "character-wizards_of_waverly_place-alex_russo",
       "target": "show-wizards_of_waverly_place",
       "id": "e238",
       "label":"Main Character"
     },
     {
-      "source": "n201",
+      "source": "character-wizards_of_waverly_place-justin_russo",
       "target": "show-suite_life_on_deck",
       "id": "e245",
       "label":"Guest",
       "Episode":"1x21"
     },
     {
-      "source": "n201",
+      "source": "character-wizards_of_waverly_place-justin_russo",
       "target": "show-wizards_of_waverly_place",
       "id": "e239",
       "label":"Main Character"
     },
     {
-      "source": "n202",
+      "source": "character-wizards_of_waverly_place-max_russo",
       "target": "show-suite_life_on_deck",
       "id": "e246",
       "label":"Guest",
       "Episode":"1x21"
     },
     {
-      "source": "n202",
+      "source": "character-wizards_of_waverly_place-max_russo",
       "target": "show-wizards_of_waverly_place",
       "id": "e240",
       "label":"Main Character"
     },
     {
-      "source": "n203",
+      "source": "character-wizards_of_waverly_place-harper_finkle",
       "target": "show-wizards_of_waverly_place",
       "id": "e241",
       "label":"Main Character"
     },
     {
-      "source": "n204",
+      "source": "character-wizards_of_waverly_place-theresa_russo",
       "target": "show-wizards_of_waverly_place",
       "id": "e242",
       "label":"Main Character"
     },
     {
-      "source": "n205",
+      "source": "character-wizards_of_waverly_place-jerry_russo",
       "target": "show-wizards_of_waverly_place",
       "id": "e243",
       "label":"Main Character"
