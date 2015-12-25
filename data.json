@@ -1041,6 +1041,31 @@
       "type": "tv-show"
     },
     {
+      "id":"character-im_in_the_band-tripp_campbell",
+      "label":"Tripp Campbell",
+      "type": "character"
+    },
+    {
+      "id":"character-im_in_the_band-ash_rambos",
+      "label":"Ash Rambos",
+      "type": "character"
+    },
+    {
+      "id":"character-im_in_the_band-burger_pitt",
+      "label":"Burger Pitt",
+      "type": "character"
+    },
+    {
+      "id":"character-im_in_the_band-derek_jupiter",
+      "label":"Derek Jupiter",
+      "type": "character"
+    },
+    {
+      "id":"character-im_in_the_band-izzy_fuentes",
+      "label":"Izzy Fuentes",
+      "type": "character"
+    },
+    {
       "id":"show-good_luck_charlie",
       "label":"Good Luck Charlie",
       "type": "tv-show"
@@ -1454,31 +1479,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n210",
-      "label":"Tripp Campbell",
-      "type": "character"
-    },
-    {
-      "id":"n211",
-      "label":"Ash Rambos",
-      "type": "character"
-    },
-    {
-      "id":"n212",
-      "label":"Burger Pitt",
-      "type": "character"
-    },
-    {
-      "id":"n213",
-      "label":"Derek Jupiter",
-      "type": "character"
-    },
-    {
-      "id":"n214",
-      "label":"Izzy Fuentes",
-      "type": "character"
     },
     {
       "id":"n219",
@@ -3980,31 +3980,31 @@
       "label":"Main Character"
     },
     {
-      "source": "n210",
+      "source": "character-im_in_the_band-tripp_campbell",
       "target": "show-im_in_the_band",
       "id": "e254",
       "label":"Main Character"
     },
     {
-      "source": "n211",
+      "source": "character-im_in_the_band-ash_rambos",
       "target": "show-im_in_the_band",
       "id": "e255",
       "label":"Main Character"
     },
     {
-      "source": "n212",
+      "source": "character-im_in_the_band-burger_pitt",
       "target": "show-im_in_the_band",
       "id": "e256",
       "label":"Main Character"
     },
     {
-      "source": "n213",
+      "source": "character-im_in_the_band-derek_jupiter",
       "target": "show-im_in_the_band",
       "id": "e257",
       "label":"Main Character"
     },
     {
-      "source": "n214",
+      "source": "character-im_in_the_band-izzy_fuentes",
       "target": "show-im_in_the_band",
       "id": "e258",
       "label":"Main Character"
