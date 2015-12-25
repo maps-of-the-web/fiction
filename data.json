@@ -886,6 +886,41 @@
       "type": "tv-show"
     },
     {
+      "id":"character-suite_life_of_zach_and_cody-cody_martin",
+      "label":"Cody Martin",
+      "type": "character"
+    },
+    {
+      "id":"character-suite_life_of_zach_and_cody-zach_martin",
+      "label":"Zack Martin",
+      "type": "character"
+    },
+    {
+      "id":"character-suite_life_of_zach_and_cody-london_tipton",
+      "label":"London Tipton",
+      "type": "character"
+    },
+    {
+      "id":"character-suite_life_of_zach_and_cody-maddie_fitzpatrick",
+      "label":"Maddie Fitzpatrick",
+      "type": "character"
+    },
+    {
+      "id":"character-suite_life_of_zach_and_cody-marion_moseby",
+      "label":"Marion Moseby",
+      "type": "character"
+    },
+    {
+      "id":"character-suite_life_of_zach_and_cody-carey_martin",
+      "label":"Carey Martin",
+      "type": "character"
+    },
+    {
+      "id":"character-suite_life_of_zach_and_cody-esteban_ramírez",
+      "label":"Esteban Ramírez",
+      "type": "character"
+    },
+    {
       "id":"show-suite_life_on_deck",
       "label":"The Suite Life on Deck",
       "type": "tv-show"
@@ -1321,43 +1356,8 @@
       "type": "tv-show"
     },
     {
-      "id":"n179",
-      "label":"Cody Martin",
-      "type": "character"
-    },
-    {
-      "id":"n180",
-      "label":"Zack Martin",
-      "type": "character"
-    },
-    {
-      "id":"n181",
-      "label":"London Tipton",
-      "type": "character"
-    },
-    {
-      "id":"n182",
-      "label":"Maddie Fitzpatrick",
-      "type": "character"
-    },
-    {
-      "id":"n183",
-      "label":"Mr. Moseby",
-      "type": "character"
-    },
-    {
-      "id":"n184",
-      "label":"Carey Martin",
-      "type": "character"
-    },
-    {
       "id":"n185",
       "label":"Bailey Picket",
-      "type": "character"
-    },
-    {
-      "id":"n186",
-      "label":"Esteban",
       "type": "character"
     },
     {
@@ -3606,186 +3606,186 @@
       "Episode":"2x8"
     },
     {
-      "source": "n179",
+      "source": "character-suite_life_of_zach_and_cody-cody_martin",
       "target": "show-thats_so_raven",
       "id": "e193",
       "label":"Guest",
       "Episode":"4x11"
     },
     {
-      "source": "n179",
+      "source": "character-suite_life_of_zach_and_cody-cody_martin",
       "target": "show-suite_life_of_zach_and_cody",
       "id": "e187",
       "label":"Main Character"
     },
     {
-      "source": "n179",
+      "source": "character-suite_life_of_zach_and_cody-cody_martin",
       "target": "show-suite_life_on_deck",
       "id": "e214",
       "label":"Main Character"
     },
     {
-      "source": "n179",
+      "source": "character-suite_life_of_zach_and_cody-cody_martin",
       "target": "show-hannah_montana",
       "id": "e196",
       "label":"Guest",
       "Episode":"3x20"
     },
     {
-      "source": "n179",
+      "source": "character-suite_life_of_zach_and_cody-cody_martin",
       "target": "show-wizards_of_waverly_place",
       "id": "e201",
       "label":"Guest",
       "Episode":"2x25"
     },
     {
-      "source": "n179",
+      "source": "character-suite_life_of_zach_and_cody-cody_martin",
       "target": "show-im_in_the_band",
       "id": "e210",
       "label":"Guest",
       "Episode":"2x1"
     },
     {
-      "source": "n180",
+      "source": "character-suite_life_of_zach_and_cody-zach_martin",
       "target": "show-thats_so_raven",
       "id": "e194",
       "label":"Guest",
       "Episode":"4x11"
     },
     {
-      "source": "n180",
+      "source": "character-suite_life_of_zach_and_cody-zach_martin",
       "target": "show-suite_life_of_zach_and_cody",
       "id": "e188",
       "label":"Main Character"
     },
     {
-      "source": "n180",
+      "source": "character-suite_life_of_zach_and_cody-zach_martin",
       "target": "show-suite_life_on_deck",
       "id": "e215",
       "label":"Main Character"
     },
     {
-      "source": "n180",
+      "source": "character-suite_life_of_zach_and_cody-zach_martin",
       "target": "show-hannah_montana",
       "id": "e197",
       "label":"Guest",
       "Episode":"3x20"
     },
     {
-      "source": "n180",
+      "source": "character-suite_life_of_zach_and_cody-zach_martin",
       "target": "show-wizards_of_waverly_place",
       "id": "e202",
       "label":"Guest",
       "Episode":"2x25"
     },
     {
-      "source": "n180",
+      "source": "character-suite_life_of_zach_and_cody-zach_martin",
       "target": "show-im_in_the_band",
       "id": "e209",
       "label":"Guest",
       "Episode":"2x1"
     },
     {
-      "source": "n181",
+      "source": "character-suite_life_of_zach_and_cody-london_tipton",
       "target": "show-suite_life_of_zach_and_cody",
       "id": "e189",
       "label":"Main Character"
     },
     {
-      "source": "n181",
+      "source": "character-suite_life_of_zach_and_cody-london_tipton",
       "target": "show-suite_life_on_deck",
       "id": "e216",
       "label":"Main Character"
     },
     {
-      "source": "n181",
+      "source": "character-suite_life_of_zach_and_cody-london_tipton",
       "target": "show-hannah_montana",
       "id": "e198",
       "label":"Guest",
       "Episode":"3x20"
     },
     {
-      "source": "n181",
+      "source": "character-suite_life_of_zach_and_cody-london_tipton",
       "target": "show-wizards_of_waverly_place",
       "id": "e203",
       "label":"Guest",
       "Episode":"2x25"
     },
     {
-      "source": "n182",
+      "source": "character-suite_life_of_zach_and_cody-maddie_fitzpatrick",
       "target": "show-suite_life_of_zach_and_cody",
       "id": "e190",
       "label":"Main Character"
     },
     {
-      "source": "n182",
+      "source": "character-suite_life_of_zach_and_cody-maddie_fitzpatrick",
       "target": "show-suite_life_on_deck",
       "id": "e207",
       "label":"Guest",
       "Episode":"1x13"
     },
     {
-      "source": "n182",
+      "source": "character-suite_life_of_zach_and_cody-maddie_fitzpatrick",
       "target": "show-hannah_montana",
       "id": "e206",
       "label":"Guest",
       "Episode":"1x12"
     },
     {
-      "source": "n183",
+      "source": "character-suite_life_of_zach_and_cody-marion_moseby",
       "target": "show-jessie",
       "id": "e259",
       "label":"Guest",
       "Episode":"4x5"
     },
     {
-      "source": "n183",
+      "source": "character-suite_life_of_zach_and_cody-marion_moseby",
       "target": "show-thats_so_raven",
       "id": "e195",
       "label":"Guest",
       "Episode":"4x11"
     },
     {
-      "source": "n183",
+      "source": "character-suite_life_of_zach_and_cody-marion_moseby",
       "target": "show-suite_life_of_zach_and_cody",
       "id": "e191",
       "label":"Main Character"
     },
     {
-      "source": "n183",
+      "source": "character-suite_life_of_zach_and_cody-marion_moseby",
       "target": "show-suite_life_on_deck",
       "id": "e218",
       "label":"Main Character"
     },
     {
-      "source": "n183",
+      "source": "character-suite_life_of_zach_and_cody-marion_moseby",
       "target": "show-hannah_montana",
       "id": "e199",
       "label":"Guest",
       "Episode":"3x20"
     },
     {
-      "source": "n183",
+      "source": "character-suite_life_of_zach_and_cody-marion_moseby",
       "target": "show-wizards_of_waverly_place",
       "id": "e204",
       "label":"Guest",
       "Episode":"2x25"
     },
     {
-      "source": "n183",
+      "source": "character-suite_life_of_zach_and_cody-marion_moseby",
       "target": "show-im_in_the_band",
       "id": "e208",
       "label":"Guest",
       "Episode":"2x1"
     },
     {
-      "source": "n184",
+      "source": "character-suite_life_of_zach_and_cody-carey_martin",
       "target": "show-suite_life_of_zach_and_cody",
       "id": "e192",
       "label":"Main Character"
     },
     {
-      "source": "n184",
+      "source": "character-suite_life_of_zach_and_cody-carey_martin",
       "target": "show-suite_life_on_deck",
       "id": "e211",
       "label":"Minor Character"
@@ -3811,13 +3811,13 @@
       "Episode":"2x25"
     },
     {
-      "source": "n186",
+      "source": "character-suite_life_of_zach_and_cody-esteban_ramírez",
       "target": "show-suite_life_of_zach_and_cody",
       "id": "e212",
       "label":"Recurring Character"
     },
     {
-      "source": "n186",
+      "source": "character-suite_life_of_zach_and_cody-esteban_ramírez",
       "target": "show-suite_life_on_deck",
       "id": "e213",
       "label":"Guest",
