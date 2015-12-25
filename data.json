@@ -1256,6 +1256,51 @@
       "type": "tv-show"
     },
     {
+      "id":"character-step_by_step-dana_foster",
+      "label":"Dana Foster",
+      "type": "character"
+    },
+    {
+      "id":"character-step_by_step-carol_foster_lambert",
+      "label":"Carol Foster-Lambert",
+      "type": "character"
+    },
+    {
+      "id":"character-step_by_step-karen_foster",
+      "label":"Karen Foster",
+      "type": "character"
+    },
+    {
+      "id":"character-step_by_step-mark_foster",
+      "label":"Mark Foster",
+      "type": "character"
+    },
+    {
+      "id":"n318",
+      "label":"Frank Lambert",
+      "type": "character"
+    },
+    {
+      "id":"character-step_by_step-john_thomas_lambert",
+      "label":"John Thomas 'J.T.' Lambert ",
+      "type": "character"
+    },
+    {
+      "id":"character-step_by_step-alicia_lambert",
+      "label":"Alicia 'Al' Lambert",
+      "type": "character"
+    },
+    {
+      "id":"character-step_by_step-brendan_lambert",
+      "label":"Brendan Lambert",
+      "type": "character"
+    },
+    {
+      "id":"character-step_by_step-cody_lambert",
+      "label":"Cody Lambert",
+      "type": "character"
+    },
+    {
       "id":"show-hangin_with_mr_cooper",
       "label":"Hangin' with Mr. Cooper",
       "type": "tv-show"
@@ -1524,51 +1569,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n314",
-      "label":"Dana Foster",
-      "type": "character"
-    },
-    {
-      "id":"n315",
-      "label":"Carol Foster-Lambert",
-      "type": "character"
-    },
-    {
-      "id":"n316",
-      "label":"Karen Foster",
-      "type": "character"
-    },
-    {
-      "id":"n317",
-      "label":"Mark Foster",
-      "type": "character"
-    },
-    {
-      "id":"n318",
-      "label":"Frank Lambert",
-      "type": "character"
-    },
-    {
-      "id":"n319",
-      "label":"John Thomas \"J.T.\" Lambert ",
-      "type": "character"
-    },
-    {
-      "id":"n320",
-      "label":"Alicia \"Al\" Lambert",
-      "type": "character"
-    },
-    {
-      "id":"n321",
-      "label":"Brendan Lambert",
-      "type": "character"
-    },
-    {
-      "id":"n322",
-      "label":"Cody Lambert",
-      "type": "character"
     },
     {
       "id":"n332",
@@ -4382,214 +4382,214 @@
       "Episode":"5x3"
     },
     {
-      "source": "n314",
+      "source": "character-step_by_step-dana_foster",
       "target": "show-boy_meets_world",
       "id": "e435",
       "label":"Guest",
       "Episode":"3x21"
     },
     {
-      "source": "n314",
+      "source": "character-step_by_step-dana_foster",
       "target": "character-boy_meets_world-cory_matthews",
       "id": "e446",
       "label":"Met",
       "Episode":"3x21"
     },
     {
-      "source": "n314",
+      "source": "character-step_by_step-dana_foster",
       "target": "show-step_by_step",
       "id": "e436",
       "label":"Main Character"
     },
     {
-      "source": "n314",
-      "target": "n315",
+      "source": "character-step_by_step-dana_foster",
+      "target": "character-step_by_step-carol_foster_lambert",
       "id": "e454",
       "label":"Mom"
     },
     {
-      "source": "n314",
-      "target": "n316",
+      "source": "character-step_by_step-dana_foster",
+      "target": "character-step_by_step-karen_foster",
       "id": "e455",
       "label":"Sister"
     },
     {
-      "source": "n314",
-      "target": "n317",
+      "source": "character-step_by_step-dana_foster",
+      "target": "character-step_by_step-mark_foster",
       "id": "e456",
       "label":"Brother"
     },
     {
-      "source": "n314",
+      "source": "character-step_by_step-dana_foster",
       "target": "n318",
       "id": "e457",
       "label":"Step-Father"
     },
     {
-      "source": "n314",
-      "target": "n319",
+      "source": "character-step_by_step-dana_foster",
+      "target": "character-step_by_step-john_thomas_lambert",
       "id": "e458",
       "label":"Step-Brother"
     },
     {
-      "source": "n314",
-      "target": "n320",
+      "source": "character-step_by_step-dana_foster",
+      "target": "character-step_by_step-alicia_lambert",
       "id": "e459",
       "label":"Step-Sister"
     },
     {
-      "source": "n314",
-      "target": "n321",
+      "source": "character-step_by_step-dana_foster",
+      "target": "character-step_by_step-brendan_lambert",
       "id": "e460",
       "label":"Step-Brother"
     },
     {
-      "source": "n315",
+      "source": "character-step_by_step-carol_foster_lambert",
       "target": "show-step_by_step",
       "id": "e438",
       "label":"Main Character"
     },
     {
-      "source": "n315",
-      "target": "n314",
+      "source": "character-step_by_step-carol_foster_lambert",
+      "target": "character-step_by_step-dana_foster",
       "id": "e447",
       "label":"Daughter"
     },
     {
-      "source": "n315",
-      "target": "n316",
+      "source": "character-step_by_step-carol_foster_lambert",
+      "target": "character-step_by_step-karen_foster",
       "id": "e448",
       "label":"Daughter"
     },
     {
-      "source": "n315",
-      "target": "n317",
+      "source": "character-step_by_step-carol_foster_lambert",
+      "target": "character-step_by_step-mark_foster",
       "id": "e449",
       "label":"Son"
     },
     {
-      "source": "n315",
+      "source": "character-step_by_step-carol_foster_lambert",
       "target": "n318",
       "id": "e450",
       "label":"Married"
     },
     {
-      "source": "n315",
-      "target": "n319",
+      "source": "character-step_by_step-carol_foster_lambert",
+      "target": "character-step_by_step-john_thomas_lambert",
       "id": "e451",
       "label":"Step-Son"
     },
     {
-      "source": "n315",
-      "target": "n320",
+      "source": "character-step_by_step-carol_foster_lambert",
+      "target": "character-step_by_step-alicia_lambert",
       "id": "e452",
       "label":"Step-Daughter"
     },
     {
-      "source": "n315",
-      "target": "n321",
+      "source": "character-step_by_step-carol_foster_lambert",
+      "target": "character-step_by_step-brendan_lambert",
       "id": "e453",
       "label":"Step-Son"
     },
     {
-      "source": "n315",
-      "target": "n322",
+      "source": "character-step_by_step-carol_foster_lambert",
+      "target": "character-step_by_step-cody_lambert",
       "id": "e1583",
       "label":"Nephew"
     },
     {
-      "source": "n316",
+      "source": "character-step_by_step-karen_foster",
       "target": "show-step_by_step",
       "id": "e439",
       "label":"Main Character"
     },
     {
-      "source": "n316",
-      "target": "n314",
+      "source": "character-step_by_step-karen_foster",
+      "target": "character-step_by_step-dana_foster",
       "id": "e461",
       "label":"Sister"
     },
     {
-      "source": "n316",
-      "target": "n315",
+      "source": "character-step_by_step-karen_foster",
+      "target": "character-step_by_step-carol_foster_lambert",
       "id": "e462",
       "label":"Mom"
     },
     {
-      "source": "n316",
-      "target": "n317",
+      "source": "character-step_by_step-karen_foster",
+      "target": "character-step_by_step-mark_foster",
       "id": "e463",
       "label":"Brother"
     },
     {
-      "source": "n316",
+      "source": "character-step_by_step-karen_foster",
       "target": "n318",
       "id": "e464",
       "label":"Step-Father"
     },
     {
-      "source": "n316",
-      "target": "n319",
+      "source": "character-step_by_step-karen_foster",
+      "target": "character-step_by_step-john_thomas_lambert",
       "id": "e465",
       "label":"Step-Brother"
     },
     {
-      "source": "n316",
-      "target": "n320",
+      "source": "character-step_by_step-karen_foster",
+      "target": "character-step_by_step-alicia_lambert",
       "id": "e466",
       "label":"Step-Sister"
     },
     {
-      "source": "n316",
-      "target": "n321",
+      "source": "character-step_by_step-karen_foster",
+      "target": "character-step_by_step-brendan_lambert",
       "id": "e467",
       "label":"Step-Brother"
     },
     {
-      "source": "n317",
+      "source": "character-step_by_step-mark_foster",
       "target": "show-step_by_step",
       "id": "e440",
       "label":"Main Character"
     },
     {
-      "source": "n317",
-      "target": "n314",
+      "source": "character-step_by_step-mark_foster",
+      "target": "character-step_by_step-dana_foster",
       "id": "e469",
       "label":"Sister"
     },
     {
-      "source": "n317",
-      "target": "n315",
+      "source": "character-step_by_step-mark_foster",
+      "target": "character-step_by_step-carol_foster_lambert",
       "id": "e470",
       "label":"Mom"
     },
     {
-      "source": "n317",
-      "target": "n316",
+      "source": "character-step_by_step-mark_foster",
+      "target": "character-step_by_step-karen_foster",
       "id": "e471",
       "label":"Sister"
     },
     {
-      "source": "n317",
+      "source": "character-step_by_step-mark_foster",
       "target": "n318",
       "id": "e472",
       "label":"Step-Father"
     },
     {
-      "source": "n317",
-      "target": "n319",
+      "source": "character-step_by_step-mark_foster",
+      "target": "character-step_by_step-john_thomas_lambert",
       "id": "e473",
       "label":"Step-Brother"
     },
     {
-      "source": "n317",
-      "target": "n320",
+      "source": "character-step_by_step-mark_foster",
+      "target": "character-step_by_step-alicia_lambert",
       "id": "e474",
       "label":"Step-Sister"
     },
     {
-      "source": "n317",
-      "target": "n321",
+      "source": "character-step_by_step-mark_foster",
+      "target": "character-step_by_step-brendan_lambert",
       "id": "e475",
       "label":"Step-Brother"
     },
@@ -4601,210 +4601,210 @@
     },
     {
       "source": "n318",
-      "target": "n314",
+      "target": "character-step_by_step-dana_foster",
       "id": "e476",
       "label":"Step-Daughter"
     },
     {
       "source": "n318",
-      "target": "n316",
+      "target": "character-step_by_step-karen_foster",
       "id": "e477",
       "label":"Step-Daughter"
     },
     {
       "source": "n318",
-      "target": "n317",
+      "target": "character-step_by_step-mark_foster",
       "id": "e478",
       "label":"Step-Son"
     },
     {
       "source": "n318",
-      "target": "n319",
+      "target": "character-step_by_step-john_thomas_lambert",
       "id": "e479",
       "label":"Son"
     },
     {
       "source": "n318",
-      "target": "n320",
+      "target": "character-step_by_step-alicia_lambert",
       "id": "e480",
       "label":"Daughter"
     },
     {
       "source": "n318",
-      "target": "n321",
+      "target": "character-step_by_step-brendan_lambert",
       "id": "e481",
       "label":"Son"
     },
     {
       "source": "n318",
-      "target": "n322",
+      "target": "character-step_by_step-cody_lambert",
       "id": "e482",
       "label":"Nephew"
     },
     {
-      "source": "n319",
+      "source": "character-step_by_step-john_thomas_lambert",
       "target": "show-step_by_step",
       "id": "e442",
       "label":"Main Character"
     },
     {
-      "source": "n319",
-      "target": "n314",
+      "source": "character-step_by_step-john_thomas_lambert",
+      "target": "character-step_by_step-dana_foster",
       "id": "e1575",
       "label":"Step-Sister"
     },
     {
-      "source": "n319",
-      "target": "n315",
+      "source": "character-step_by_step-john_thomas_lambert",
+      "target": "character-step_by_step-carol_foster_lambert",
       "id": "e1576",
       "label":"Step-Mom"
     },
     {
-      "source": "n319",
-      "target": "n316",
+      "source": "character-step_by_step-john_thomas_lambert",
+      "target": "character-step_by_step-karen_foster",
       "id": "e1577",
       "label":"Step-Sister"
     },
     {
-      "source": "n319",
-      "target": "n317",
+      "source": "character-step_by_step-john_thomas_lambert",
+      "target": "character-step_by_step-mark_foster",
       "id": "e1578",
       "label":"Step-Brother"
     },
     {
-      "source": "n319",
+      "source": "character-step_by_step-john_thomas_lambert",
       "target": "n318",
       "id": "e1579",
       "label":"Father"
     },
     {
-      "source": "n319",
-      "target": "n320",
+      "source": "character-step_by_step-john_thomas_lambert",
+      "target": "character-step_by_step-alicia_lambert",
       "id": "e1580",
       "label":"Sister"
     },
     {
-      "source": "n319",
-      "target": "n321",
+      "source": "character-step_by_step-john_thomas_lambert",
+      "target": "character-step_by_step-brendan_lambert",
       "id": "e1581",
       "label":"Father"
     },
     {
-      "source": "n319",
-      "target": "n322",
+      "source": "character-step_by_step-john_thomas_lambert",
+      "target": "character-step_by_step-cody_lambert",
       "id": "e1582",
       "label":"Cousin"
     },
     {
-      "source": "n320",
+      "source": "character-step_by_step-alicia_lambert",
       "target": "show-step_by_step",
       "id": "e443",
       "label":"Main Character"
     },
     {
-      "source": "n320",
-      "target": "n314",
+      "source": "character-step_by_step-alicia_lambert",
+      "target": "character-step_by_step-dana_foster",
       "id": "e1584",
       "label":"Step-Sister"
     },
     {
-      "source": "n320",
-      "target": "n315",
+      "source": "character-step_by_step-alicia_lambert",
+      "target": "character-step_by_step-carol_foster_lambert",
       "id": "e1585",
       "label":"Step-Mom"
     },
     {
-      "source": "n320",
-      "target": "n316",
+      "source": "character-step_by_step-alicia_lambert",
+      "target": "character-step_by_step-karen_foster",
       "id": "e1586",
       "label":"Step-Sister"
     },
     {
-      "source": "n320",
-      "target": "n317",
+      "source": "character-step_by_step-alicia_lambert",
+      "target": "character-step_by_step-mark_foster",
       "id": "e1587",
       "label":"Step-Brother"
     },
     {
-      "source": "n320",
+      "source": "character-step_by_step-alicia_lambert",
       "target": "n318",
       "id": "e1588",
       "label":"Father"
     },
     {
-      "source": "n320",
-      "target": "n319",
+      "source": "character-step_by_step-alicia_lambert",
+      "target": "character-step_by_step-john_thomas_lambert",
       "id": "e1589",
       "label":"Brother"
     },
     {
-      "source": "n320",
-      "target": "n321",
+      "source": "character-step_by_step-alicia_lambert",
+      "target": "character-step_by_step-brendan_lambert",
       "id": "e1590",
       "label":"Brother"
     },
     {
-      "source": "n320",
-      "target": "n322",
+      "source": "character-step_by_step-alicia_lambert",
+      "target": "character-step_by_step-cody_lambert",
       "id": "e1591",
       "label":"Cousin"
     },
     {
-      "source": "n321",
+      "source": "character-step_by_step-brendan_lambert",
       "target": "show-step_by_step",
       "id": "e444",
       "label":"Main Character"
     },
     {
-      "source": "n321",
-      "target": "n314",
+      "source": "character-step_by_step-brendan_lambert",
+      "target": "character-step_by_step-dana_foster",
       "id": "e1592",
       "label":"Step-Sister"
     },
     {
-      "source": "n321",
-      "target": "n315",
+      "source": "character-step_by_step-brendan_lambert",
+      "target": "character-step_by_step-carol_foster_lambert",
       "id": "e1593",
       "label":"Step-Mom"
     },
     {
-      "source": "n321",
-      "target": "n316",
+      "source": "character-step_by_step-brendan_lambert",
+      "target": "character-step_by_step-karen_foster",
       "id": "e1594",
       "label":"Step-Sister"
     },
     {
-      "source": "n321",
-      "target": "n317",
+      "source": "character-step_by_step-brendan_lambert",
+      "target": "character-step_by_step-mark_foster",
       "id": "e1595",
       "label":"Step-Sister"
     },
     {
-      "source": "n321",
+      "source": "character-step_by_step-brendan_lambert",
       "target": "n318",
       "id": "e1596",
       "label":"Father"
     },
     {
-      "source": "n321",
-      "target": "n319",
+      "source": "character-step_by_step-brendan_lambert",
+      "target": "character-step_by_step-john_thomas_lambert",
       "id": "e1597",
       "label":"Brother"
     },
     {
-      "source": "n321",
-      "target": "n320",
+      "source": "character-step_by_step-brendan_lambert",
+      "target": "character-step_by_step-alicia_lambert",
       "id": "e1598",
       "label":"Sister"
     },
     {
-      "source": "n321",
-      "target": "n322",
+      "source": "character-step_by_step-brendan_lambert",
+      "target": "character-step_by_step-cody_lambert",
       "id": "e1600",
       "label":"Cousin"
     },
     {
-      "source": "n322",
+      "source": "character-step_by_step-cody_lambert",
       "target": "show-step_by_step",
       "id": "e445",
       "label":"Main Character"
