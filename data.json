@@ -5418,6 +5418,18 @@
       "target": "character-single_guy-jonathan-elliot",
       "id": "character-caroline_in_the_city-caroline_duffy+character-single_guy-jonathan-elliot",
       "label": "Met"
+    },
+    {
+      "source": "character-single_guy-jonathan-elliot",
+      "target": "character-friends-ross_geller",
+      "id": "character-single_guy-jonathan-elliot+character-friends-ross_geller",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-friends-ross_geller",
+      "target": "character-single_guy-jonathan-elliot",
+      "id": "character-friends-ross_geller+character-single_guy-jonathan-elliot",
+      "label": "Acquaintance"
     }
   ]
 }
