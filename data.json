@@ -5592,6 +5592,90 @@
       "target": "character-cheers-nick_tortelli",
       "id": "character-cheers-loretta_tortelli+character-cheers-nick_tortelli",
       "label": "Wife"
+    },
+    {
+      "source": "character-cheers-carla_tortelli",
+      "target": "character-cheers-annie_tortelli",
+      "id": "character-cheers-carla_tortelli+character-cheers-annie_tortelli",
+      "label": "Mother"
+    },
+    {
+      "source": "character-cheers-nick_tortelli",
+      "target": "character-cheers-annie_tortelli",
+      "id": "character-cheers-nick_tortelli+character-cheers-annie_tortelli",
+      "label": "Father"
+    },
+    {
+      "source": "character-cheers-loretta_tortelli",
+      "target": "character-cheers-annie_tortelli",
+      "id": "character-cheers-loretta_tortelli+character-cheers-annie_tortelli",
+      "label": "Step-Mother"
+    },
+    {
+      "source": "character-cheers-carla_tortelli",
+      "target": "character-cheers-anthony_tortelli",
+      "id": "character-cheers-carla_tortelli+character-cheers-anthony_tortelli",
+      "label": "Mother"
+    },
+    {
+      "source": "character-cheers-nick_tortelli",
+      "target": "character-cheers-anthony_tortelli",
+      "id": "character-cheers-nick_tortelli+character-cheers-anthony_tortelli",
+      "label": "Father"
+    },
+    {
+      "source": "character-cheers-loretta_tortelli",
+      "target": "character-cheers-anthony_tortelli",
+      "id": "character-cheers-loretta_tortelli+character-cheers-anthony_tortelli",
+      "label": "Step-Mother"
+    },
+    {
+      "source": "character-cheers-annie_tortelli",
+      "target": "character-cheers-carla_tortelli",
+      "id": "character-cheers-annie_tortelli+character-cheers-carla_tortelli",
+      "label": "Daughter"
+    },
+    {
+      "source": "character-cheers-annie_tortelli",
+      "target": "character-cheers-nick_tortelli",
+      "id": "character-cheers-annie_tortelli+character-cheers-nick_tortelli",
+      "label": "Daugher"
+    },
+    {
+      "source": "character-cheers-annie_tortelli",
+      "target": "character-cheers-loretta_tortelli",
+      "id": "character-cheers-annie_tortelli+character-cheers-loretta_tortelli",
+      "label": "Step-Daughter"
+    },
+    {
+      "source": "character-cheers-anthony_tortelli",
+      "target": "character-cheers-carla_tortelli",
+      "id": "character-cheers-anthony_tortelli+character-cheers-carla_tortelli",
+      "label": "Son"
+    },
+    {
+      "source": "character-cheers-anthony_tortelli",
+      "target": "character-cheers-nick_tortelli",
+      "id": "character-cheers-anthony_tortelli+character-cheers-nick_tortelli",
+      "label": "Son"
+    },
+    {
+      "source": "character-cheers-anthony_tortelli",
+      "target": "character-cheers-loretta_tortelli",
+      "id": "character-cheers-anthony_tortelli+character-cheers-loretta_tortelli",
+      "label": "Step-Son"
+    },
+    {
+      "source": "character-cheers-annie_tortelli",
+      "target": "character-cheers-anthony_tortelli",
+      "id": "character-cheers-annie_tortelli+character-cheers-anthony_tortelli",
+      "label": "Sister"
+    },
+    {
+      "source": "character-cheers-anthony_tortelli",
+      "target": "character-cheers-annie_tortelli",
+      "id": "character-cheers-anthony_tortelli+character-cheers-annie_tortelli",
+      "label": "Brother"
     }
   ]
 }
