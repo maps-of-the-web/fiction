@@ -5087,19 +5087,31 @@
       "source": "character-friends-rachel_green",
       "target": "character-friends-monica_geller",
       "id": "character-friends-rachel_green+character-friends-monica_geller",
-      "label": "Best Friend/Sister-in-Law"
+      "label": "Best Friend"
+    },
+    {
+      "source": "character-friends-rachel_green",
+      "target": "character-friends-monica_geller",
+      "id": "character-friends-rachel_green+character-friends-monica_geller|1",
+      "label": "Sister-in-Law"
     },
     {
       "source": "character-friends-rachel_green",
       "target": "character-friends-phoebe_buffay",
-      "id": "character-friends-rachel_green+character-friends-monica_geller",
+      "id": "character-friends-rachel_green+character-friends-phoebe_buffay",
       "label": "Close Friend"
     },
     {
       "source": "character-friends-rachel_green",
       "target": "character-friends-joey_tribbiani",
       "id": "character-friends-rachel_green+character-friends-joey_tribbiani",
-      "label": "Close Friend/Ex-girlfriend"
+      "label": "Close Friend"
+    },
+    {
+      "source": "character-friends-rachel_green",
+      "target": "character-friends-joey_tribbiani",
+      "id": "character-friends-rachel_green+character-friends-joey_tribbiani|1",
+      "label": "Ex-girlfriend"
     },
     {
       "source": "character-friends-rachel_green",
@@ -5111,7 +5123,13 @@
       "source": "character-friends-rachel_green",
       "target": "character-friends-ross_geller",
       "id": "character-friends-rachel_green+character-friends-ross_geller",
-      "label": "Best Friend/Wife"
+      "label": "Best Friend"
+    },
+    {
+      "source": "character-friends-rachel_green",
+      "target": "character-friends-ross_geller",
+      "id": "character-friends-rachel_green+character-friends-ross_geller|1",
+      "label": "Wife"
     }
   ]
 }
