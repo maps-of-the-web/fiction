@@ -1491,6 +1491,11 @@
       "type": "tv-show"
     },
     {
+      "id":"character-chicago_hope-jeffrey_geige",
+      "label":"Jeffrey Geige",
+      "type": "character"
+    },
+    {
       "id":"show-wire",
       "label":"The Wire",
       "type": "tv-show"
@@ -1514,11 +1519,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n307",
-      "label":"Jeffrey Geige",
-      "type": "character"
     },
     {
       "id":"n308",
@@ -4311,13 +4311,13 @@
       "label":"Main Character"
     },
     {
-      "source": "n307",
+      "source": "character-chicago_hope-jeffrey_geige",
       "target": "show-homicide_life_on_the_street",
       "id": "e425",
       "label":"Guest"
     },
     {
-      "source": "n307",
+      "source": "character-chicago_hope-jeffrey_geige",
       "target": "show-chicago_hope",
       "id": "e424",
       "label":"Main Character"
