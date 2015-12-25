@@ -5310,12 +5310,6 @@
       "target": "character-joey-alexis_garrett",
       "id": "character-friends-joey_tribbiani+character-joey-alexis_garrett",
       "label": "Neighbor/Boyfriend"
-    },
-    {
-      "source": "character-joey-alexis_garrett",
-      "target": "character-friends-joey_tribbiani",
-      "id": "character-joey-alexis_garrett+character-friends-joey_tribbiani",
-      "label": "Neighbor/Girlfriend"
     }
   ]
 }
