@@ -1746,22 +1746,22 @@
       "type": "tv-show"
     },
     {
-      "id":"n367",
-      "label":"Alexis \"Alex\" Garrett",
+      "id":"character-joey-alexis_garrett",
+      "label":"Alexis 'Alex' Garrett",
       "type": "character"
     },
     {
-      "id":"n368",
+      "id":"character-joey-michael_tribbiani",
       "label":"Michael Tribbiani",
       "type": "character"
     },
     {
-      "id":"n369",
-      "label":"Roberta \"Bobbie\" Morganstern",
+      "id":"character-joey-roberta_morganstern",
+      "label":"Roberta 'Bobbie' Morganstern",
       "type": "character"
     },
     {
-      "id":"n370",
+      "id":"character-joey-zach_miller",
       "label":"Zach Miller",
       "type": "character"
     }
@@ -5042,25 +5042,25 @@
       "label":"Main Character"
     },
     {
-      "source": "n367",
+      "source": "character-joey-alexis_garrett",
       "target": "show-joey",
       "id": "e1643",
       "label":"Main Character"
     },
     {
-      "source": "n368",
+      "source": "character-joey-michael_tribbiani",
       "target": "show-joey",
       "id": "e1644",
       "label":"Main Character"
     },
     {
-      "source": "n369",
+      "source": "character-joey-roberta_morganstern",
       "target": "show-joey",
       "id": "e1645",
       "label":"Main Character"
     },
     {
-      "source": "n370",
+      "source": "character-joey-zach_miller",
       "target": "show-joey",
       "id": "e1646",
       "label":"Main Character"
