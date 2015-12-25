@@ -1171,6 +1171,21 @@
       "type": "tv-show"
     },
     {
+      "id":"character-newhart-larry",
+      "label":"Larry",
+      "type": "character"
+    },
+    {
+      "id":"character-newhart-darryl",
+      "label":"Darryl",
+      "type": "character"
+    },
+    {
+      "id":"character-newhart-darryl_1",
+      "label":"Darryl",
+      "type": "character"
+    },
+    {
       "id":"show-bob_newhart_show",
       "label":"The Bob Newhart Show",
       "type": "tv-show"
@@ -1484,21 +1499,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n222",
-      "label":"Larry",
-      "type": "character"
-    },
-    {
-      "id":"n223",
-      "label":"Darryl",
-      "type": "character"
-    },
-    {
-      "id":"n224",
-      "label":"Darryl",
-      "type": "character"
     },
     {
       "id":"n227",
@@ -4037,40 +4037,40 @@
       "Episode":"2x6"
     },
     {
-      "source": "n222",
+      "source": "character-newhart-larry",
       "target": "show-coach",
       "id": "e270",
       "label":"Guest",
       "Episode":"9x22"
     },
     {
-      "source": "n222",
+      "source": "character-newhart-larry",
       "target": "show-newhart",
       "id": "e267",
       "label":"Regular Character"
     },
     {
-      "source": "n223",
+      "source": "character-newhart-darryl",
       "target": "show-coach",
       "id": "e271",
       "label":"Guest",
       "Episode":"9x22"
     },
     {
-      "source": "n223",
+      "source": "character-newhart-darryl",
       "target": "show-newhart",
       "id": "e268",
       "label":"Regular Character"
     },
     {
-      "source": "n224",
+      "source": "character-newhart-darryl_1",
       "target": "show-coach",
       "id": "e272",
       "label":"Guest",
       "Episode":"9x22"
     },
     {
-      "source": "n224",
+      "source": "character-newhart-darryl_1",
       "target": "show-newhart",
       "id": "e269",
       "label":"Regular Character"
