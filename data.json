@@ -5286,6 +5286,30 @@
       "target": "character-joey-michael_tribbiani",
       "id": "character-friends-gina_tribbiani+character-joey-michael_tribbiani",
       "label": "Mother"
+    },
+    {
+      "source": "character-joey-alexis_garrett",
+      "target": "character-friends-gina_tribbiani",
+      "id": "character-joey-alexis_garrett+character-friends-gina_tribbiani",
+      "label": "Good Friend"
+    },
+    {
+      "source": "character-friends-gina_tribbiani",
+      "target": "character-joey-alexis_garrett",
+      "id": "character-friends-joey_tribbiani+character-joey-alexis_garrett",
+      "label": "Good Friend"
+    },
+    {
+      "source": "character-joey-alexis_garrett",
+      "target": "character-friends-joey_tribbiani",
+      "id": "character-joey-alexis_garrett+character-friends-joey_tribbiani",
+      "label": "Neighbor/Girlfriend"
+    },
+    {
+      "source": "character-friends-joey_tribbiani",
+      "target": "character-joey-alexis_garrett",
+      "id": "character-friends-joey_tribbiani+character-joey-alexis_garrett",
+      "label": "Neighbor/Boyfriend"
     }
   ]
 }
