@@ -826,6 +826,36 @@
       "type": "tv-show"
     },
     {
+      "id":"character-thats_so_raven-raven_baxter",
+      "label":"Raven Baxter",
+      "type": "character"
+    },
+    {
+      "id":"character-thats_so_raven-eddie_thomas",
+      "label":"Eddie Thomas",
+      "type": "character"
+    },
+    {
+      "id":"character-thats_so_raven-cory_baxter",
+      "label":"Cory Baxter",
+      "type": "character"
+    },
+    {
+      "id":"character-thats_so_raven-chelsea_daniels",
+      "label":"Chelsea Daniels",
+      "type": "character"
+    },
+    {
+      "id":"character-thats_so_raven-tanya_baxter",
+      "label":"Tanya Baxter",
+      "type": "character"
+    },
+    {
+      "id":"character-thats_so_raven-victor_baxter",
+      "label":"Victor Baxter",
+      "type": "character"
+    },
+    {
       "id":"show-cory_in_the_house",
       "label":"Cory in the House",
       "type": "tv-show"
@@ -1269,36 +1299,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n169",
-      "label":"Raven Baxter",
-      "type": "character"
-    },
-    {
-      "id":"n170",
-      "label":"Eddie Thomas",
-      "type": "character"
-    },
-    {
-      "id":"n171",
-      "label":"Cory Baxter",
-      "type": "character"
-    },
-    {
-      "id":"n172",
-      "label":"Chelsea Daniels",
-      "type": "character"
-    },
-    {
-      "id":"n173",
-      "label":"Tanya Baxter",
-      "type": "character"
-    },
-    {
-      "id":"n174",
-      "label":"Victor Baxter",
-      "type": "character"
     },
     {
       "id":"n175",
@@ -3506,63 +3506,63 @@
       "label":"Recurring Character"
     },
     {
-      "source": "n169",
+      "source": "character-thats_so_raven-raven_baxter",
       "target": "show-thats_so_raven",
       "id": "e170",
       "label":"Main Character"
     },
     {
-      "source": "n169",
+      "source": "character-thats_so_raven-raven_baxter",
       "target": "show-cory_in_the_house",
       "id": "e177",
       "label":"Guest",
       "Episode":"1x16"
     },
     {
-      "source": "n169",
+      "source": "character-thats_so_raven-raven_baxter",
       "target": "show-suite_life_of_zach_and_cody",
       "id": "e178",
       "label":"Guest",
       "Episode":"2x20"
     },
     {
-      "source": "n170",
+      "source": "character-thats_so_raven-eddie_thomas",
       "target": "show-thats_so_raven",
       "id": "e171",
       "label":"Main Character"
     },
     {
-      "source": "n171",
+      "source": "character-thats_so_raven-cory_baxter",
       "target": "show-thats_so_raven",
       "id": "e172",
       "label":"Main Character"
     },
     {
-      "source": "n171",
+      "source": "character-thats_so_raven-cory_baxter",
       "target": "show-cory_in_the_house",
       "id": "e179",
       "label":"Main Character"
     },
     {
-      "source": "n172",
+      "source": "character-thats_so_raven-chelsea_daniels",
       "target": "show-thats_so_raven",
       "id": "e173",
       "label":"Main Character"
     },
     {
-      "source": "n173",
+      "source": "character-thats_so_raven-tanya_baxter",
       "target": "show-thats_so_raven",
       "id": "e174",
       "label":"Main Character"
     },
     {
-      "source": "n174",
+      "source": "character-thats_so_raven-victor_baxter",
       "target": "show-thats_so_raven",
       "id": "e175",
       "label":"Main Character"
     },
     {
-      "source": "n174",
+      "source": "character-thats_so_raven-victor_baxter",
       "target": "show-cory_in_the_house",
       "id": "e180",
       "label":"Main Character"
