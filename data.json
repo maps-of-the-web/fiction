@@ -5112,6 +5112,36 @@
       "target": "character-friends-ross_geller",
       "id": "character-friends-rachel_green+character-friends-ross_geller",
       "label": "Best Friend/Wife"
+    },
+    {
+      "source": "character-friends-monica_geller",
+      "target": "character-friends-rachel_green",
+      "id": "character-friends-monica_geller+character-friends-rachel_green",
+      "label": "Best Friend/Sister-in-Law"
+    },
+    {
+      "source": "character-friends-monica_geller",
+      "target": "character-friends-joey_tribbiani",
+      "id": "character-friends-monica_geller+character-friends-joey_tribbiani",
+      "label": "Close Friend"
+    },
+    {
+      "source": "character-friends-monica_geller",
+      "target": "character-friends-ross_geller",
+      "id": "character-friends-monica_geller+character-friends-ross_geller",
+      "label": "Sister/Friend"
+    },
+    {
+      "source": "character-friends-monica_geller",
+      "target": "character-friends-chandler_bing",
+      "id": "character-friends-monica_geller+character-friends-chandler_bing",
+      "label": "Friend/Wife"
+    },
+    {
+      "source": "character-friends-monica_geller",
+      "target": "character-friends-phoebe_buffay",
+      "id": "character-friends-monica_geller+character-friends-phoebe_buffay",
+      "label": "Friend"
     }
   ]
 }
