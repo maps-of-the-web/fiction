@@ -926,6 +926,41 @@
       "type": "tv-show"
     },
     {
+      "id":"character-suite_life_on_deck-bailey_pickett",
+      "label":"Bailey Picket",
+      "type": "character"
+    },
+    {
+      "id":"character-suite_life_on_deck-marcus_little",
+      "label":"Marcus Little",
+      "type": "character"
+    },
+    {
+      "id":"character-suite_life_on_deck-woody_fink",
+      "label":"Woody Fink",
+      "type": "character"
+    },
+    {
+      "id":"character-suite_life_on_deck-emma_tutweiller",
+      "label":"Emma Tutweiller",
+      "type": "character"
+    },
+    {
+      "id":"character-suite_life_on_deck-kirby_morris",
+      "label":"Kirby Morris",
+      "type": "character"
+    },
+    {
+      "id":"character-suite_life_on_deck-addison",
+      "label":"Addison",
+      "type": "character"
+    },
+    {
+      "id":"character-suite_life_on_deck-maya_bennett",
+      "label":"Maya Bennett",
+      "type": "character"
+    },
+    {
       "id":"show-hannah_montana",
       "label":"Hannah Montana",
       "type": "tv-show"
@@ -1354,41 +1389,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n185",
-      "label":"Bailey Picket",
-      "type": "character"
-    },
-    {
-      "id":"n187",
-      "label":"Marcus Little",
-      "type": "character"
-    },
-    {
-      "id":"n188",
-      "label":"Woody Fink",
-      "type": "character"
-    },
-    {
-      "id":"n189",
-      "label":"Emma Tutweiller",
-      "type": "character"
-    },
-    {
-      "id":"n190",
-      "label":"Kirby Morris",
-      "type": "character"
-    },
-    {
-      "id":"n191",
-      "label":"Addison",
-      "type": "character"
-    },
-    {
-      "id":"n192",
-      "label":"Maya Bennett",
-      "type": "character"
     },
     {
       "id":"n193",
@@ -3791,20 +3791,20 @@
       "label":"Minor Character"
     },
     {
-      "source": "n185",
+      "source": "character-suite_life_on_deck-bailey_pickett",
       "target": "show-suite_life_on_deck",
       "id": "e217",
       "label":"Main Character"
     },
     {
-      "source": "n185",
+      "source": "character-suite_life_on_deck-bailey_pickett",
       "target": "show-hannah_montana",
       "id": "e200",
       "label":"Guest",
       "Episode":"3x20"
     },
     {
-      "source": "n185",
+      "source": "character-suite_life_on_deck-bailey_pickett",
       "target": "show-wizards_of_waverly_place",
       "id": "e205",
       "label":"Guest",
@@ -3824,37 +3824,37 @@
       "Episode":"2x14"
     },
     {
-      "source": "n187",
+      "source": "character-suite_life_on_deck-marcus_little",
       "target": "show-suite_life_on_deck",
       "id": "e219",
       "label":"Main Character"
     },
     {
-      "source": "n188",
+      "source": "character-suite_life_on_deck-woody_fink",
       "target": "show-suite_life_on_deck",
       "id": "e220",
       "label":"Recurring Character"
     },
     {
-      "source": "n189",
+      "source": "character-suite_life_on_deck-emma_tutweiller",
       "target": "show-suite_life_on_deck",
       "id": "e221",
       "label":"Recurring Character"
     },
     {
-      "source": "n190",
+      "source": "character-suite_life_on_deck-kirby_morris",
       "target": "show-suite_life_on_deck",
       "id": "e222",
       "label":"Recurring Character"
     },
     {
-      "source": "n191",
+      "source": "character-suite_life_on_deck-addison",
       "target": "show-suite_life_on_deck",
       "id": "e223",
       "label":"Recurring Character"
     },
     {
-      "source": "n192",
+      "source": "character-suite_life_on_deck-maya_bennett",
       "target": "show-suite_life_on_deck",
       "id": "e224",
       "label":"Recurring Character"
