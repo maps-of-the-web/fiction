@@ -5454,6 +5454,90 @@
       "target": "character-caroline_in_the_city-richard_karinsky",
       "id": "character-caroline_in_the_city-caroline_duffy+character-caroline_in_the_city-richard_karinsky",
       "label": "Girlfriend"
+    },
+    {
+      "source": "character-frasier-daphne_moon",
+      "target": "character-frasier-niles_crane",
+      "id": "character-frasier-daphne_moon+character-frasier-niles_crane",
+      "label": "Wife"
+    },
+    {
+      "source": "character-frasier-niles_crane",
+      "target": "character-frasier-daphne_moon",
+      "id": "character-frasier-niles_crane+character-frasier-daphne_moon",
+      "label": "Husband"
+    },
+    {
+      "source": "character-frasier-niles_crane",
+      "target": "character-cheers-frasier_crane",
+      "id": "character-frasier-niles_crane+character-cheers-frasier_crane",
+      "label": "Brother"
+    },
+    {
+      "source": "character-cheers-frasier_crane",
+      "target": "character-frasier-niles_crane",
+      "id": "character-cheers-frasier_crane+character-frasier-niles_crane",
+      "label": "Brother"
+    },
+    {
+      "source": "character-frasier-martin_crane",
+      "target": "character-frasier-niles_crane",
+      "id": "character-frasier-martin_crane+character-frasier-niles_crane",
+      "label": "Father"
+    },
+    {
+      "source": "character-frasier-niles_crane",
+      "target": "character-cheers-frasier_crane",
+      "id": "character-frasier-niles_crane+character-cheers-frasier_crane",
+      "label": "Son"
+    },
+    {
+      "source": "character-frasier-martin_crane",
+      "target": "character-cheers-frasier_crane",
+      "id": "character-frasier-martin_crane+character-cheers-frasier_crane",
+      "label": "Father"
+    },
+    {
+      "source": "character-cheers-frasier_crane",
+      "target": "character-frasier-martin_crane",
+      "id": "character-cheers-frasier_crane+character-frasier-martin_crane",
+      "label": "Son"
+    },
+    {
+      "source": "character-frasier-eddie",
+      "target": "character-frasier-martin_crane",
+      "id": "character-frasier-eddie+character-frasier-martin_crane",
+      "label": "Pet"
+    },
+    {
+      "source": "character-frasier-martin_crane",
+      "target": "character-frasier-eddie",
+      "id": "character-frasier-martin_crane+character-frasier-eddie",
+      "label": "Owner"
+    },
+    {
+      "source": "character-frasier-daphne_moon",
+      "target": "character-frasier-martin_crane",
+      "id": "character-frasier-daphne_moon+character-frasier-martin_crane",
+      "label": "Daughter-in-Law"
+    },
+    {
+      "source": "character-frasier-martin_crane",
+      "target": "character-frasier-daphne_moon",
+      "id": "character-frasier-martin_crane+character-frasier-daphne_moon",
+      "label": "Client/Father-in-Law"
+    },
+    {
+      "source": "character-frasier-daphne_moon",
+      "target": "character-cheers-frasier_crane",
+      "id": "character-frasier-daphne_moon+character-cheers-frasier_crane",
+      "label": "Sister-in-Law"
+    },
+    {
+      "source": "character-cheers-frasier_crane",
+      "target": "character-frasier-daphne_moon",
+      "id": "character-cheers-frasier_crane+character-frasier-daphne_moon",
+      "label": "Brother-in-Law"
     }
   ]
 }
