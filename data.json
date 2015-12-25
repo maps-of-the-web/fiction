@@ -5172,6 +5172,36 @@
       "target": "character-friends-joey_tribbiani",
       "id": "character-friends-phoebe_buffay+character-friends-joey_tribbiani",
       "label": "Friend"
+    },
+    {
+      "source": "character-friends-joey_tribbiani",
+      "target": "character-friends-chandler_bing",
+      "id": "character-friends-joey_tribbiani+character-friends-chandler_bing",
+      "label": "Best Friend"
+    },
+    {
+      "source": "character-friends-joey_tribbiani",
+      "target": "character-friends-monica_geller",
+      "id": "character-friends-joey_tribbiani+character-friends-monica_geller",
+      "label": "Friend"
+    },
+    {
+      "source": "character-friends-joey_tribbiani",
+      "target": "character-friends-rachel_green",
+      "id": "character-friends-joey_tribbiani+character-friends-rachel_green",
+      "label": "Friend/Ex-boyfriend"
+    },
+    {
+      "source": "character-friends-joey_tribbiani",
+      "target": "character-friends-ross_geller",
+      "id": "character-friends-joey_tribbiani+character-friends-ross_geller",
+      "label": "Friend"
+    },
+    {
+      "source": "character-friends-joey_tribbiani",
+      "target": "character-friends-phoebe_buffay",
+      "id": "character-friends-joey_tribbiani+character-friends-phoebe_buffay",
+      "label": "Friend"
     }
   ]
 }
