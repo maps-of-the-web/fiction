@@ -236,6 +236,11 @@
       "type": "character"
     },
     {
+      "id":"character-st_elsewhere-roxanne_turner",
+      "label":"Dr. Roxanne Turner",
+      "type": "character"
+    },
+    {
       "id":"show-cheers",
       "label":"Cheers",
       "type": "tv-show"
@@ -1504,11 +1509,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n302",
-      "label":"Dr. Roxanne Turner",
-      "type": "character"
     },
     {
       "id":"n305",
@@ -4287,13 +4287,13 @@
       "label":"Main Character"
     },
     {
-      "source": "n302",
+      "source": "character-st_elsewhere-roxanne_turner",
       "target": "show-st_elsewhere",
       "id": "e415",
       "label":"Recurring Character"
     },
     {
-      "source": "n302",
+      "source": "character-st_elsewhere-roxanne_turner",
       "target": "show-homicide_life_on_the_street",
       "id": "e416",
       "label":"Guest"
