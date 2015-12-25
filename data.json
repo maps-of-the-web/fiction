@@ -1151,6 +1151,11 @@
       "type": "tv-show"
     },
     {
+      "id":"character-drew_carey_show-mimi_bobeck",
+      "label":"Mimi Bobeck",
+      "type": "character"
+    },
+    {
       "id":"show-coach",
       "label":"Coach",
       "type": "tv-show"
@@ -1479,11 +1484,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n219",
-      "label":"Mimi Bobeck",
-      "type": "character"
     },
     {
       "id":"n222",
@@ -4010,27 +4010,27 @@
       "label":"Main Character"
     },
     {
-      "source": "n219",
+      "source": "character-drew_carey_show-mimi_bobeck",
       "target": "show-hughleys",
       "id": "e264",
       "label":"Guest",
       "Episode":"2x1"
     },
     {
-      "source": "n219",
+      "source": "character-drew_carey_show-mimi_bobeck",
       "target": "show-drew_carey_show",
       "id": "e263",
       "label":"Main Character"
     },
     {
-      "source": "n219",
+      "source": "character-drew_carey_show-mimi_bobeck",
       "target": "show-coach",
       "id": "e265",
       "label":"Guest",
       "Episode":"9x15"
     },
     {
-      "source": "n219",
+      "source": "character-drew_carey_show-mimi_bobeck",
       "target": "show-two_guys_a_girl_and_a_pizza_place",
       "id": "e266",
       "label":"Guest",
