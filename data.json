@@ -5412,12 +5412,6 @@
       "target": "character-caroline_in_the_city-caroline_duffy",
       "id": "character-single_guy-jonathan-elliot+character-caroline_in_the_city-caroline_duffy",
       "label": "Met"
-    },
-    {
-      "source": "character-caroline_in_the_city-caroline_duffy",
-      "target": "character-single_guy-jonathan-elliot",
-      "id": "character-caroline_in_the_city-caroline_duffy+character-single_guy-jonathan-elliot",
-      "label": "Met"
     }
   ]
 }
