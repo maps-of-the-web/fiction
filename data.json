@@ -5262,6 +5262,30 @@
       "target": "character-friends-rachel_green",
       "id": "character-friends-ross_geller+character-friends-rachel_green",
       "label": "Best Friend/Husband"
+    },
+    {
+      "source": "character-joey-michael_tribbiani",
+      "target": "character-friends-joey_tribbiani",
+      "id": "character-joey-michael_tribbiani+character-friends-joey_tribbiani",
+      "label": "Nephew"
+    },
+    {
+      "source": "character-friends-joey_tribbiani",
+      "target": "character-joey-michael_tribbiani",
+      "id": "character-friends-joey_tribbiani+character-joey-michael_tribbiani",
+      "label": "Uncle"
+    },
+    {
+      "source": "character-joey-michael_tribbiani",
+      "target": "character-friends-gina_tribbiani",
+      "id": "character-joey-michael_tribbiani+character-friends-gina_tribbiani",
+      "label": "Son"
+    },
+    {
+      "source": "character-friends-gina_tribbiani",
+      "target": "character-joey-michael_tribbiani",
+      "id": "character-friends-gina_tribbiani+character-joey-michael_tribbiani",
+      "label": "Mother"
     }
   ]
 }
