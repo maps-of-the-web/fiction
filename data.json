@@ -5259,7 +5259,7 @@
     },
     {
       "source": "character-friends-ross_geller",
-      "taget": "character-friends-rachel_green",
+      "target": "character-friends-rachel_green",
       "id": "character-friends-ross_geller+character-friends-rachel_green",
       "label": "Best Friend/Husband"
     }
