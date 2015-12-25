@@ -5202,6 +5202,36 @@
       "target": "character-friends-phoebe_buffay",
       "id": "character-friends-joey_tribbiani+character-friends-phoebe_buffay",
       "label": "Friend"
+    },
+    {
+      "source": "character-friends-chandler_bing",
+      "target": "character-friends-rachel_green",
+      "id": "character-friends-chandler_bing+character-friends-rachel_green",
+      "label": "Friend/Brother-in-Law"
+    },
+    {
+      "source": "character-friends-chandler_bing",
+      "target": "character-friends-monica_geller",
+      "id": "character-friends-chandler_bing+character-friends-monica_geller",
+      "label": "Friend/Husband"
+    },
+    {
+      "source": "character-friends-chandler_bing",
+      "target": "character-friends-phoebe_buffay",
+      "id": "character-friends-chandler_bing+character-friends-phoebe_buffay",
+      "label": "Friend"
+    },
+    {
+      "source": "character-friends-chandler_bing",
+      "target": "character-friends-joey_tribbiani",
+      "id": "character-friends-chandler_bing+character-friends-joey_tribbiani",
+      "label": "Best Friend"
+    },
+    {
+      "source": "character-friends-chandler_bing",
+      "target": "character-friends-ross_geller",
+      "id": "character-friends-chandler_bing+character-friends-ross_geller",
+      "label": "Friend/Brother-in-Law"
     }
   ]
 }
