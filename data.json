@@ -1206,6 +1206,36 @@
       "type": "tv-show"
     },
     {
+      "id":"character-friends-rachel_green",
+      "label":"Rachel Green",
+      "type": "character"
+    },
+    {
+      "id":"character-friends-monica_geller",
+      "label":"Monica Geller",
+      "type": "character"
+    },
+    {
+      "id":"character-friends-phoebe_buffay",
+      "label":"Phoebe Buffay",
+      "type": "character"
+    },
+    {
+      "id":"character-friends-joey_tribbiani",
+      "label":"Joey Tribbiani",
+      "type": "character"
+    },
+    {
+      "id":"character-friends-chandler_bing",
+      "label":"Chandler Bing",
+      "type": "character"
+    },
+    {
+      "id":"character-friends-ross_geller",
+      "label":"Dr. Ross Geller",
+      "type": "character"
+    },
+    {
       "id":"show-seinfeld",
       "label":"Seinfeld",
       "type": "tv-show"
@@ -1664,36 +1694,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n351",
-      "label":"Rachel Green",
-      "type": "character"
-    },
-    {
-      "id":"n352",
-      "label":"Monica Geller",
-      "type": "character"
-    },
-    {
-      "id":"n353",
-      "label":"Phoebe Buffay",
-      "type": "character"
-    },
-    {
-      "id":"n354",
-      "label":"Joey Tribbiani",
-      "type": "character"
-    },
-    {
-      "id":"n355",
-      "label":"Chandler Bing",
-      "type": "character"
-    },
-    {
-      "id":"n356",
-      "label":"Dr. Ross Geller",
-      "type": "character"
     },
     {
       "id":"n357",
@@ -4924,63 +4924,63 @@
       "label":"Main Character"
     },
     {
-      "source": "n351",
+      "source": "character-friends-rachel_green",
       "target": "show-friends",
       "id": "e1621",
       "label":"Main Character"
     },
     {
-      "source": "n352",
+      "source": "character-friends-monica_geller",
       "target": "show-friends",
       "id": "e1622",
       "label":"Main Character"
     },
     {
-      "source": "n353",
+      "source": "character-friends-phoebe_buffay",
       "target": "show-friends",
       "id": "e1623",
       "label":"Main Character"
     },
     {
-      "source": "n353",
+      "source": "character-friends-phoebe_buffay",
       "target": "show-hope_and_gloria",
       "id": "e1631",
       "label":"Guest",
       "Episode":"2x14"
     },
     {
-      "source": "n354",
+      "source": "character-friends-joey_tribbiani",
       "target": "show-friends",
       "id": "e1624",
       "label":"Main Character"
     },
     {
-      "source": "n354",
+      "source": "character-friends-joey_tribbiani",
       "target": "show-joey",
       "id": "e1641",
       "label":"Main Character"
     },
     {
-      "source": "n355",
+      "source": "character-friends-chandler_bing",
       "target": "show-caroline_in_the_city",
       "id": "e1630",
       "label":"Guest",
       "Episode":"1x6"
     },
     {
-      "source": "n355",
+      "source": "character-friends-chandler_bing",
       "target": "show-friends",
       "id": "e1625",
       "label":"Main Character"
     },
     {
-      "source": "n356",
+      "source": "character-friends-ross_geller",
       "target": "show-friends",
       "id": "e1626",
       "label":"Main Character"
     },
     {
-      "source": "n356",
+      "source": "character-friends-ross_geller",
       "target": "show-single_guy",
       "id": "e1627",
       "label":"Guest",
