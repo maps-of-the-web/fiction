@@ -1191,6 +1191,11 @@
       "type": "tv-show"
     },
     {
+      "id":"character-bob_newhart_show-elliot_carlin",
+      "label":"Elliot Carlin",
+      "type": "character"
+    },
+    {
       "id":"show-friends",
       "label":"Friends",
       "type": "tv-show"
@@ -1499,11 +1504,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n227",
-      "label":"Elliot Carlin",
-      "type": "character"
     },
     {
       "id":"n302",
@@ -4076,14 +4076,14 @@
       "label":"Regular Character"
     },
     {
-      "source": "n227",
+      "source": "character-bob_newhart_show-elliot_carlin",
       "target": "show-st_elsewhere",
       "id": "e274",
       "label":"Guest",
       "Episode":"4x7"
     },
     {
-      "source": "n227",
+      "source": "character-bob_newhart_show-elliot_carlin",
       "target": "show-bob_newhart_show",
       "id": "e273",
       "label":"Regular Character"
