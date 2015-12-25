@@ -5676,6 +5676,18 @@
       "target": "character-cheers-annie_tortelli",
       "id": "character-cheers-anthony_tortelli+character-cheers-annie_tortelli",
       "label": "Brother"
+    },
+    {
+      "source": "character-frasier-roz_doyle",
+      "target": "show-john_larroquette",
+      "id": "character-frasier-roz_doyle+show-john_larroquette",
+      "label": "Cameo"
+    },
+    {
+      "source": "character-john_larroquette-john_hemingway",
+      "target": "character-cheers-frasier_crane",
+      "id": "character-john_larroquette-john_hemingway+character-cheers-frasier_crane",
+      "label": "Client"
     }
   ]
 }
