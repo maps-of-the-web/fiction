@@ -1476,6 +1476,11 @@
       "type": "tv-show"
     },
     {
+      "id":"character-homicide_life_on_the_street-john_munch",
+      "label":"John Munch",
+      "type": "character"
+    },
+    {
       "id":"show-law_and_order",
       "label":"Law & Order",
       "type": "tv-show"
@@ -1519,11 +1524,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n308",
-      "label":"John Munch",
-      "type": "character"
     },
     {
       "id":"n314",
@@ -4323,59 +4323,59 @@
       "label":"Main Character"
     },
     {
-      "source": "n308",
+      "source": "character-homicide_life_on_the_street-john_munch",
       "target": "show-law_and_order_special_victims_unit",
       "id": "e427",
       "label":"Main Character"
     },
     {
-      "source": "n308",
+      "source": "character-homicide_life_on_the_street-john_munch",
       "target": "show-homicide_life_on_the_street",
       "id": "e426",
       "label":"Main Character"
     },
     {
-      "source": "n308",
+      "source": "character-homicide_life_on_the_street-john_munch",
       "target": "movie-homicide",
       "id": "e433",
       "label":"Main Character"
     },
     {
-      "source": "n308",
+      "source": "character-homicide_life_on_the_street-john_munch",
       "target": "show-law_and_order",
       "id": "e432",
       "label":"Minor Character"
     },
     {
-      "source": "n308",
+      "source": "character-homicide_life_on_the_street-john_munch",
       "target": "show-wire",
       "id": "e428",
       "label":"Guest",
       "Episode":"5x7"
     },
     {
-      "source": "n308",
+      "source": "character-homicide_life_on_the_street-john_munch",
       "target": "show-arrested_development",
       "id": "e429",
       "label":"Guest",
       "Episode":"3x12"
     },
     {
-      "source": "n308",
+      "source": "character-homicide_life_on_the_street-john_munch",
       "target": "show-law_and_order_trial_by_jury",
       "id": "e430",
       "label":"Guest",
       "Episode":"1x8"
     },
     {
-      "source": "n308",
+      "source": "character-homicide_life_on_the_street-john_munch",
       "target": "show-beat",
       "id": "e431",
       "label":"Guest",
       "Episode":"1x2"
     },
     {
-      "source": "n308",
+      "source": "character-homicide_life_on_the_street-john_munch",
       "target": "show-x_files",
       "id": "e434",
       "label":"Guest",
