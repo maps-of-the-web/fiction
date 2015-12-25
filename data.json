@@ -1481,6 +1481,11 @@
       "type": "tv-show"
     },
     {
+      "id":"character-law_and_order-mike_logan",
+      "label":"Mike Logan",
+      "type": "character"
+    },
+    {
       "id":"show-chicago_hope",
       "label":"Chicago Hope",
       "type": "tv-show"
@@ -1509,11 +1514,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n305",
-      "label":"Mike Logan",
-      "type": "character"
     },
     {
       "id":"n307",
@@ -4299,13 +4299,13 @@
       "label":"Guest"
     },
     {
-      "source": "n305",
+      "source": "character-law_and_order-mike_logan",
       "target": "show-homicide_life_on_the_street",
       "id": "e422",
       "label":"Guest"
     },
     {
-      "source": "n305",
+      "source": "character-law_and_order-mike_logan",
       "target": "show-law_and_order",
       "id": "e421",
       "label":"Main Character"
