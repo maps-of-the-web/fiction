@@ -1706,32 +1706,32 @@
       "type": "tv-show"
     },
     {
-      "id":"n359",
+      "id":"character-hope_and_gloria-gloria_utz",
       "label":"Gloria Utz",
       "type": "character"
     },
     {
-      "id":"n360",
+      "id":"character-hope_and_gloria-hope_davidson",
       "label":"Hope Davidson",
       "type": "character"
     },
     {
-      "id":"n361",
+      "id":"character-hope_and_gloria-louis_utz",
       "label":"Louis Utz",
       "type": "character"
     },
     {
-      "id":"n362",
+      "id":"character-hope_and_gloria-dennis_dupree",
       "label":"Dennis Dupree",
       "type": "character"
     },
     {
-      "id":"n363",
+      "id":"character-hope_and_gloria-sonny_utz",
       "label":"Sonny Utz",
       "type": "character"
     },
     {
-      "id":"n364",
+      "id":"character-hope_and_gloria-gwillem_blatt",
       "label":"Gwillem Blatt",
       "type": "character"
     },
@@ -5000,37 +5000,37 @@
       "Episode":"1x6"
     },
     {
-      "source": "n359",
+      "source": "character-hope_and_gloria-gloria_utz",
       "target": "show-hope_and_gloria",
       "id": "e1632",
       "label":"Main Character"
     },
     {
-      "source": "n360",
+      "source": "character-hope_and_gloria-hope_davidson",
       "target": "show-hope_and_gloria",
       "id": "e1633",
       "label":"Main Character"
     },
     {
-      "source": "n361",
+      "source": "character-hope_and_gloria-louis_utz",
       "target": "show-hope_and_gloria",
       "id": "e1634",
       "label":"Main Character"
     },
     {
-      "source": "n362",
+      "source": "character-hope_and_gloria-dennis_dupree",
       "target": "show-hope_and_gloria",
       "id": "e1635",
       "label":"Main Character"
     },
     {
-      "source": "n363",
+      "source": "character-hope_and_gloria-sonny_utz",
       "target": "show-hope_and_gloria",
       "id": "e1636",
       "label":"Main Character"
     },
     {
-      "source": "n364",
+      "source": "character-hope_and_gloria-gwillem_blatt",
       "target": "show-hope_and_gloria",
       "id": "e1637",
       "label":"Main Character"
