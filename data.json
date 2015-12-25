@@ -5430,6 +5430,18 @@
       "target": "character-single_guy-jonathan-elliot",
       "id": "character-friends-ross_geller+character-single_guy-jonathan-elliot",
       "label": "Acquaintance"
+    },
+    {
+      "source": "character-caroline_in_the_city-del_cassidy",
+      "target": "character-caroline_in_the_city-caroline_duffy",
+      "id": "character-caroline_in_the_city-del_cassidy+character-caroline_in_the_city-caroline_duffy",
+      "label": "Ex-fiance"
+    },
+    {
+      "source": "character-caroline_in_the_city-caroline_duffy",
+      "target": "character-caroline_in_the_city-del_cassidy",
+      "id": "character-caroline_in_the_city-caroline_duffy+character-caroline_in_the_city-del_cassidy",
+      "label": "Ex-fiance"
     }
   ]
 }
