@@ -5406,6 +5406,18 @@
       "target": "character-caroline_in_the_city-caroline_duffy",
       "id": "character-friends-joey_tribbiani+character-caroline_in_the_city-caroline_duffy",
       "label": "Met"
+    },
+    {
+      "source": "character-single_guy-jonathan-elliot",
+      "target": "character-caroline_in_the_city-caroline_duffy",
+      "id": "",
+      "label": "Met"
+    },
+    {
+      "source": "character-caroline_in_the_city-caroline_duffy",
+      "target": "character-single_guy-jonathan-elliot",
+      "id": "",
+      "label": "Met"
     }
   ]
 }
