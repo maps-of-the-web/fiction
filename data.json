@@ -1261,6 +1261,11 @@
       "type": "tv-show"
     },
     {
+      "id":"character-single_guy-jonathan-elliot",
+      "label":"Jonathan Eliot",
+      "type": "character"
+    },
+    {
       "id":"show-parenthood",
       "label":"Parenthood",
       "type": "tv-show"
@@ -1694,11 +1699,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n357",
-      "label":"Jonathan Eliot",
-      "type": "character"
     },
     {
       "id":"show-hope_and_gloria",
@@ -4987,13 +4987,13 @@
       "Episode":"1x6"
     },
     {
-      "source": "n357",
+      "source": "character-single_guy-jonathan-elliot",
       "target": "show-caroline_in_the_city",
       "id": "e1629",
       "label":"Main Character"
     },
     {
-      "source": "n357",
+      "source": "character-single_guy-jonathan-elliot",
       "target": "show-single_guy",
       "id": "e1628",
       "label":"Guest",
