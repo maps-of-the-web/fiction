@@ -966,6 +966,41 @@
       "type": "tv-show"
     },
     {
+      "id":"character-hannah_montana-miley_stewart",
+      "label":"Miley Stewart",
+      "type": "character"
+    },
+    {
+      "id":"character-hannah_montana-robby_stewart",
+      "label":"Robby Stewart",
+      "type": "character"
+    },
+    {
+      "id":"character-hannah_montana-jackson_stewart",
+      "label":"Jackson Stewart",
+      "type": "character"
+    },
+    {
+      "id":"character-hannah_montana-chico_stewart",
+      "label":"Chico Stewart",
+      "type": "character"
+    },
+    {
+      "id":"character-hannah_montana-lilly_truscott",
+      "label":"Lilly Truscott",
+      "type": "character"
+    },
+    {
+      "id":"character-hannah_montana-oliver_oken",
+      "label":"Oliver Oken",
+      "type": "character"
+    },
+    {
+      "id":"character-hannah_montana-rico_suave",
+      "label":"Rico Suave",
+      "type": "character"
+    },
+    {
       "id":"show-wizards_of_waverly_place",
       "label":"Wizards of Waverly Place",
       "type": "tv-show"
@@ -1389,41 +1424,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n193",
-      "label":"Miley Stewart",
-      "type": "character"
-    },
-    {
-      "id":"n194",
-      "label":"Robby Stewart",
-      "type": "character"
-    },
-    {
-      "id":"n195",
-      "label":"Jackson Stewart",
-      "type": "character"
-    },
-    {
-      "id":"n196",
-      "label":"Chico Stewart",
-      "type": "character"
-    },
-    {
-      "id":"n197",
-      "label":"Lilly Truscott",
-      "type": "character"
-    },
-    {
-      "id":"n198",
-      "label":"Oliver Oken",
-      "type": "character"
-    },
-    {
-      "id":"n199",
-      "label":"Rico Suave",
-      "type": "character"
     },
     {
       "id":"n200",
@@ -3860,64 +3860,64 @@
       "label":"Recurring Character"
     },
     {
-      "source": "n193",
+      "source": "character-hannah_montana-miley_stewart",
       "target": "show-suite_life_of_zach_and_cody",
       "id": "e235",
       "label":"Guest",
       "Episode":"2x20"
     },
     {
-      "source": "n193",
+      "source": "character-hannah_montana-miley_stewart",
       "target": "show-suite_life_on_deck",
       "id": "e236",
       "label":"Guest",
       "Episode":"1x21"
     },
     {
-      "source": "n193",
+      "source": "character-hannah_montana-miley_stewart",
       "target": "show-hannah_montana",
       "id": "e225",
       "label":"Main Character"
     },
     {
-      "source": "n194",
+      "source": "character-hannah_montana-robby_stewart",
       "target": "show-hannah_montana",
       "id": "e226",
       "label":"Main Character"
     },
     {
-      "source": "n195",
+      "source": "character-hannah_montana-jackson_stewart",
       "target": "show-hannah_montana",
       "id": "e227",
       "label":"Main Character"
     },
     {
-      "source": "n196",
+      "source": "character-hannah_montana-chico_stewart",
       "target": "show-hannah_montana",
       "id": "e228",
       "label":"Main Character"
     },
     {
-      "source": "n197",
+      "source": "character-hannah_montana-lilly_truscott",
       "target": "show-suite_life_on_deck",
       "id": "e237",
       "label":"Guest",
       "Episode":"1x21"
     },
     {
-      "source": "n197",
+      "source": "character-hannah_montana-lilly_truscott",
       "target": "show-hannah_montana",
       "id": "e229",
       "label":"Main Character"
     },
     {
-      "source": "n198",
+      "source": "character-hannah_montana-oliver_oken",
       "target": "show-hannah_montana",
       "id": "e230",
       "label":"Main Character"
     },
     {
-      "source": "n199",
+      "source": "character-hannah_montana-rico_suave",
       "target": "show-hannah_montana",
       "id": "e231",
       "label":"Main Character"
