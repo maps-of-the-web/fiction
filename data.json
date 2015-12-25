@@ -5316,6 +5316,24 @@
       "target": "character-joey-zach_miller",
       "id": "character-friends-joey_tribbiani+character-joey-zach_miller",
       "label": "Best Friend"
+    },
+    {
+      "source": "character-joey-roberta_morganstern",
+      "target": "character-friends-joey_tribbiani",
+      "id": "character-joey-roberta_morganstern+character-friends-joey_tribbiani",
+      "label": "Agent"
+    },
+    {
+      "source": "character-friends-joey_tribbiani",
+      "target": "character-joey-roberta_morganstern",
+      "id": "character-friends-joey_tribbiani+character-joey-roberta_morganstern",
+      "label": "Client"
+    },
+    {
+      "source": "character-joey-roberta_morganstern",
+      "target": "character-joey-michael_tribbiani",
+      "id": "character-joey-roberta_morganstern+character-joey-michael_tribbiani",
+      "label": "Romantic Interest"
     }
   ]
 }
