@@ -861,6 +861,26 @@
       "type": "tv-show"
     },
     {
+      "id":"character-cory_in_the_house-newton_livingston",
+      "label":"Newton \"Newt\" Livingston III",
+      "type": "character"
+    },
+    {
+      "id":"character-cory_in_the_house-meena_paroom",
+      "label":"Meena Paroom",
+      "type": "character"
+    },
+    {
+      "id":"character-cory_in_the_house-sophia_martinez",
+      "label":"Sophia Martinez",
+      "type": "character"
+    },
+    {
+      "id":"character-cory_in_the_house-richard_martinez",
+      "label":"President Richard Martinez ",
+      "type": "character"
+    },
+    {
       "id":"show-suite_life_of_zach_and_cody",
       "label":"The Suite Life of Zach and Cody",
       "type": "tv-show"
@@ -1299,26 +1319,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"n175",
-      "label":"Newton \"Newt\" Livingston III",
-      "type": "character"
-    },
-    {
-      "id":"n176",
-      "label":"Meena Paroom",
-      "type": "character"
-    },
-    {
-      "id":"n177",
-      "label":"Sophia Martinez",
-      "type": "character"
-    },
-    {
-      "id":"n178",
-      "label":"President Richard Martinez ",
-      "type": "character"
     },
     {
       "id":"n179",
@@ -3568,38 +3568,38 @@
       "label":"Main Character"
     },
     {
-      "source": "n175",
+      "source": "character-cory_in_the_house-newton_livingston",
       "target": "show-cory_in_the_house",
       "id": "e181",
       "label":"Main Character"
     },
     {
-      "source": "n176",
+      "source": "character-cory_in_the_house-meena_paroom",
       "target": "show-cory_in_the_house",
       "id": "e182",
       "label":"Main Character"
     },
     {
-      "source": "n177",
+      "source": "character-cory_in_the_house-sophia_martinez",
       "target": "show-cory_in_the_house",
       "id": "e183",
       "label":"Main Character"
     },
     {
-      "source": "n177",
+      "source": "character-cory_in_the_house-sophia_martinez",
       "target": "show-hannah_montana",
       "id": "e185",
       "label":"Quest",
       "Episode":"2x8"
     },
     {
-      "source": "n178",
+      "source": "character-cory_in_the_house-richard_martinez",
       "target": "show-cory_in_the_house",
       "id": "e184",
       "label":"Main Character"
     },
     {
-      "source": "n178",
+      "source": "character-cory_in_the_house-richard_martinez",
       "target": "show-hannah_montana",
       "id": "e186",
       "label":"Quest",
