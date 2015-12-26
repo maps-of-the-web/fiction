@@ -5958,6 +5958,42 @@
       "target": "character-cheers-cliff_clavin",
       "id": "character-st_elsewhere-mark_craig+character-cheers-cliff_clavin",
       "label": "Met"
+    },
+    {
+      "source": "character-cheers-carla_tortelli",
+      "target": "character-st_elsewhere-donald_westphall",
+      "id": "character-cheers-carla_tortelli+character-st_elsewhere-donald_westphall",
+      "label": "Met"
+    },
+    {
+      "source": "character-st_elsewhere-donald_westphall",
+      "target": "character-cheers-carla_tortelli",
+      "id": "character-st_elsewhere-donald_westphall+character-cheers-carla_tortelli",
+      "label": "Met"
+    },
+    {
+      "source": "character-cheers-carla_tortelli",
+      "target": "character-st_elsewhere-daniel_auschlander",
+      "id": "character-cheers-carla_tortelli+character-st_elsewhere-daniel_auschlander",
+      "label": "Met"
+    },
+    {
+      "source": "character-st_elsewhere-daniel_auschlander",
+      "target": "character-cheers-carla_tortelli",
+      "id": "character-st_elsewhere-daniel_auschlander+character-cheers-carla_tortelli",
+      "label": "Met"
+    },
+    {
+      "source": "character-cheers-carla_tortelli",
+      "target": "character-st_elsewhere-mark_craig",
+      "id": "character-cheers-carla_tortelli+character-st_elsewhere-mark_craig",
+      "label": "Met"
+    },
+    {
+      "source": "character-st_elsewhere-mark_craig",
+      "target": "character-cheers-carla_tortelli",
+      "id": "character-st_elsewhere-mark_craig+character-cheers-carla_tortelli",
+      "label": "Met"
     }
   ]
 }
