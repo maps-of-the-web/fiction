@@ -5597,19 +5597,19 @@
       "source": "character-cheers-carla_tortelli",
       "target": "character-cheers-annie_tortelli",
       "id": "character-cheers-carla_tortelli+character-cheers-annie_tortelli",
-      "label": "Mother"
+      "label": "Mother-in-Law"
     },
     {
       "source": "character-cheers-nick_tortelli",
       "target": "character-cheers-annie_tortelli",
       "id": "character-cheers-nick_tortelli+character-cheers-annie_tortelli",
-      "label": "Father"
+      "label": "Father-in-Law"
     },
     {
       "source": "character-cheers-loretta_tortelli",
       "target": "character-cheers-annie_tortelli",
       "id": "character-cheers-loretta_tortelli+character-cheers-annie_tortelli",
-      "label": "Step-Mother"
+      "label": "Step-Mother-in-Law"
     },
     {
       "source": "character-cheers-carla_tortelli",
@@ -5633,19 +5633,19 @@
       "source": "character-cheers-annie_tortelli",
       "target": "character-cheers-carla_tortelli",
       "id": "character-cheers-annie_tortelli+character-cheers-carla_tortelli",
-      "label": "Daughter"
+      "label": "Daughter-in-Law"
     },
     {
       "source": "character-cheers-annie_tortelli",
       "target": "character-cheers-nick_tortelli",
       "id": "character-cheers-annie_tortelli+character-cheers-nick_tortelli",
-      "label": "Daugher"
+      "label": "Daugher-in-Law"
     },
     {
       "source": "character-cheers-annie_tortelli",
       "target": "character-cheers-loretta_tortelli",
       "id": "character-cheers-annie_tortelli+character-cheers-loretta_tortelli",
-      "label": "Step-Daughter"
+      "label": "Step-Daughter-in-Law"
     },
     {
       "source": "character-cheers-anthony_tortelli",
@@ -5669,13 +5669,13 @@
       "source": "character-cheers-annie_tortelli",
       "target": "character-cheers-anthony_tortelli",
       "id": "character-cheers-annie_tortelli+character-cheers-anthony_tortelli",
-      "label": "Sister"
+      "label": "Wife"
     },
     {
       "source": "character-cheers-anthony_tortelli",
       "target": "character-cheers-annie_tortelli",
       "id": "character-cheers-anthony_tortelli+character-cheers-annie_tortelli",
-      "label": "Brother"
+      "label": "Husband"
     },
     {
       "source": "character-frasier-roz_doyle",
