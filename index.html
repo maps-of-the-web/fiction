@@ -3,12 +3,25 @@
 	<head>
 		<title>Maps of the Web - Fiction</title>
 		<style type="text/css">
-			#sigma-container {
+			#graph {
 				position: absolute;
 				top: 0px;
 				bottom: 0px;
 				width: 100%;
 				margin: auto;
+				background-color: #EFEFEF;
+			}
+			#graph.character-node {
+				color: #303F9F;
+			}
+			#graph.show-node {
+				color: #D32F2F;
+			}
+			#graph.movie-node {
+				color: #388E3C;
+			}
+			#graph.disabled-node {
+				color: rgb(66,66,66);
 			}
 		</style>
 		<link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.indigo-pink.min.css">
@@ -44,7 +57,7 @@
 			</div>
 			<main class="mdl-layout__content">
 				<div class="page-content">
-					<div id="sigma-container"></div>
+					<div id="graph"></div>
 				</div>
 			</main>
 		</div>

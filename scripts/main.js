@@ -1,3 +1,9 @@
+var hui = document.styleSheets[0].rules || document.styleSheets[0].cssRules;
+
+var styleBySelector = {};
+for (var i=0; i<hui.length; i++)
+    styleBySelector[hui[i].selectorText] = hui[i].style;
+
 sigma.settings.labelThreshold = 12;
 sigma.settings.scalingMode = "outside";
 
@@ -15,7 +21,7 @@ sigma.classes.graph.addMethod('neighbors', function(nodeId) {
 });
 
 sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/data.json', {
-  container: 'sigma-container'
+  container: 'graph'
 }, function(s) {
   s.graph.nodes().forEach(function(node, i, a) {
     // Display the nodes on a circle:
@@ -27,13 +33,13 @@ sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/d
     // Give color to nodes of a certain type.
     switch (node.type) {
       case "character":
-        node.color = "#0000FF";
+        node.color = styleBySelector["#graph.character-node"].color;
         break;
       case "tv-show":
-        node.color = "#FF0000";
+        node.color = styleBySelector["#graph.show-node"].color;
         break;
       case "movie":
-        node.color = "#00FF00";
+        node.color = styleBySelector["#graph.movie-node"].color;
         break;
       default:
         break;
@@ -79,14 +85,14 @@ sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/d
       if (toKeep[n.id])
         n.color = n.originalColor;
       else
-        n.color = '#eee';
+        n.color = styleBySelector["#graph.disabled-node"].color;
       });
 
     s.graph.edges().forEach(function(e) {
       if (toKeep[e.source] && toKeep[e.target])
         e.color = e.originalColor;
       else
-        e.color = '#eee';
+        e.color = styleBySelector["#graph.diabled-node"].color;
     });
 
     // Since the data has been modified, we need to
