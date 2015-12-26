@@ -5700,6 +5700,30 @@
       "target": "character-frasier-roz_doyle",
       "id": "character-cheers-frasier_crane+character-frasier-roz_doyle",
       "label": "Co-worker/Friend"
+    },
+    {
+      "source": "character-frasier-bebe_glazer",
+      "target": "character-cheers-frasier_crane",
+      "id": "character-frasier-bebe_glazer+character-cheers-frasier_crane",
+      "label": "Agent"
+    },
+    {
+      "source": "character-cheers-frasier_crane",
+      "target": "character-frasier-bebe_glazer",
+      "id": "character-cheers-frasier_crane+character-frasier-bebe_glazer",
+      "label": "Client"
+    },
+    {
+      "source": "character-frasier-bebe_glazer",
+      "target": "character-frasier-bob_briscoe",
+      "id": "character-frasier-bebe_glazer+character-frasier-bob_briscoe",
+      "label": "Agent"
+    },
+    {
+      "source": "character-frasier-bob_briscoe",
+      "target": "character-frasier-bebe_glazer",
+      "id": "character-frasier-bob_briscoe+character-frasier-bebe_glazer",
+      "label": "Client"
     }
   ]
 }
