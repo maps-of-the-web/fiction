@@ -6030,6 +6030,18 @@
       "target": "character-cheers-norm_peterson",
       "id": "character-st_elsewhere-mark_craig+character-cheers-norm_peterson",
       "label": "Met"
+    },
+    {
+      "source": "character-st_elsewhere-mark_craig",
+      "target": "character-st_elsewhere-victor_ehrlich",
+      "id": "character-st_elsewhere-mark_craig+character-st_elsewhere-victor_ehrlich",
+      "label": "Mentor"
+    },
+    {
+      "source": "character-st_elsewhere-victor_ehrlich",
+      "target": "character-st_elsewhere-mark_craig",
+      "id": "character-st_elsewhere-victor_ehrlich+character-st_elsewhere-mark_craig",
+      "label": "Protege"
     }
   ]
 }
