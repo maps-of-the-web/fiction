@@ -5754,6 +5754,36 @@
       "target": "show-fraiser",
       "id": "character-cheers-carla_tortelli+show-fraiser",
       "label": "Guest"
+    },
+    {
+      "source": "character-frasier-bob_briscoe",
+      "target": "character-cheers-frasier_crane",
+      "id": "character-frasier-bob_briscoe+character-cheers-frasier_crane",
+      "label": "Co-worker"
+    },
+    {
+      "source": "character-frasier-bob_briscoe",
+      "target": "character-frasier-roz_doyle",
+      "id": "character-frasier-bob_briscoe+character-frasier-roz_doyle",
+      "label": "Co-worker"
+    },
+    {
+      "source": "character-frasier-bob_briscoe",
+      "target": "character-frasier-kenny_daly",
+      "id": "character-frasier-bob_briscoe+character-frasier-kenny_daly",
+      "label": "Co-worker"
+    },
+    {
+      "source": "character-frasier-bob_briscoe",
+      "target": "character-frasier-noel_shempsky",
+      "id": "character-frasier-bob_briscoe+character-frasier-noel_shempsky",
+      "label": "Co-worker"
+    },
+    {
+      "source": "character-frasier-bob_briscoe",
+      "target": "character-frasier-gil_chesterton",
+      "id": "character-frasier-bob_briscoe+character-frasier-gil_chesterton",
+      "label": "Co-worker"
     }
   ]
 }
