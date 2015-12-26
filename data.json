@@ -5994,6 +5994,42 @@
       "target": "character-cheers-carla_tortelli",
       "id": "character-st_elsewhere-mark_craig+character-cheers-carla_tortelli",
       "label": "Met"
+    },
+    {
+      "source": "character-cheers-norm_peterson",
+      "target": "character-st_elsewhere-donald_westphall",
+      "id": "character-cheers-norm_peterson+character-st_elsewhere-donald_westphall",
+      "label": "Met"
+    },
+    {
+      "source": "character-st_elsewhere-donald_westphall",
+      "target": "character-cheers-norm_peterson",
+      "id": "character-st_elsewhere-donald_westphall+character-cheers-norm_peterson",
+      "label": "Met"
+    },
+    {
+      "source": "character-cheers-norm_peterson",
+      "target": "character-st_elsewhere-daniel_auschlander",
+      "id": "character-cheers-norm_peterson+character-st_elsewhere-daniel_auschlander",
+      "label": "Accountant"
+    },
+    {
+      "source": "character-st_elsewhere-daniel_auschlander",
+      "target": "character-cheers-norm_peterson",
+      "id": "character-st_elsewhere-daniel_auschlander+character-cheers-norm_peterson",
+      "label": "Client"
+    },
+    {
+      "source": "character-cheers-norm_peterson",
+      "target": "character-st_elsewhere-mark_craig",
+      "id": "character-cheers-norm_peterson+character-st_elsewhere-mark_craig",
+      "label": "Met"
+    },
+    {
+      "source": "character-st_elsewhere-mark_craig",
+      "target": "character-cheers-norm_peterson",
+      "id": "character-st_elsewhere-mark_craig+character-cheers-norm_peterson",
+      "label": "Met"
     }
   ]
 }
