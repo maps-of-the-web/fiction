@@ -5832,6 +5832,36 @@
       "target": "character-frasier-gil_chesterton",
       "id": "character-frasier-roz_doyle+character-frasier-gil_chesterton",
       "label": "Co-worker"
+    },
+    {
+      "source": "character-frasier-kenny_daly",
+      "target": "character-cheers-frasier_crane",
+      "id": "character-frasier-kenny_daly+character-cheers-frasier_crane",
+      "label": "Co-worker"
+    },
+    {
+      "source": "character-frasier-kenny_daly",
+      "target": "character-frasier-roz_doyle",
+      "id": "character-frasier-kenny_daly+character-frasier-roz_doyle",
+      "label": "Co-worker"
+    },
+    {
+      "source": "character-frasier-kenny_daly",
+      "target": "character-frasier-bob_briscoe",
+      "id": "character-frasier-kenny_daly+character-frasier-bob_briscoe",
+      "label": "Co-worker"
+    },
+    {
+      "source": "character-frasier-kenny_daly",
+      "target": "character-frasier-noel_shempsky",
+      "id": "character-frasier-kenny_daly+character-frasier-noel_shempsky",
+      "label": "Co-worker"
+    },
+    {
+      "source": "character-frasier-kenny_daly",
+      "target": "character-frasier-gil_chesterton",
+      "id": "character-frasier-kenny_daly+character-frasier-gil_chesterton",
+      "label": "Co-worker"
     }
   ]
 }
