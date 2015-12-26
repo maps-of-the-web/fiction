@@ -5688,6 +5688,18 @@
       "target": "character-cheers-frasier_crane",
       "id": "character-john_larroquette-john_hemingway+character-cheers-frasier_crane",
       "label": "Client"
+    },
+    {
+      "source": "character-frasier-roz_doyle",
+      "target": "character-cheers-frasier_crane",
+      "id": "character-frasier-roz_doyle+character-cheers-frasier_crane",
+      "label": "Producer/Friend"
+    },
+    {
+      "source": "character-cheers-frasier_crane",
+      "target": "character-frasier-roz_doyle",
+      "id": "character-cheers-frasier_crane+character-frasier-roz_doyle",
+      "label": "Co-worker/Friend"
     }
   ]
 }
