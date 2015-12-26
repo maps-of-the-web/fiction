@@ -5724,6 +5724,36 @@
       "target": "character-frasier-bebe_glazer",
       "id": "character-frasier-bob_briscoe+character-frasier-bebe_glazer",
       "label": "Client"
+    },
+    {
+      "source": "character-cheers-sam_malone",
+      "target": "show-fraiser",
+      "id": "character-cheers-sam_malone+show-fraiser",
+      "label": "Guest"
+    },
+    {
+      "source": "character-cheers-woody_boyd",
+      "target": "show-frasier",
+      "id": "character-cheers-woody_boyd+show-frasier",
+      "label": "Guest"
+    },
+    {
+      "source": "character-cheers-cliff_clavin",
+      "target": "show-frasier",
+      "id": "character-cheers-cliff_clavin+show-frasier",
+      "label": "Guest"
+    },
+    {
+      "source": "character-cheers-norm_peterson",
+      "target": "show-frasier",
+      "id": "character-cheers-norm_peterson+show-frasier",
+      "label": "Guest"
+    },
+    {
+      "source": "character-cheers-carla_tortelli",
+      "target": "show-frasier",
+      "id": "character-cheers-carla_tortelli+show-frasier",
+      "label": "Guest"
     }
   ]
 }
