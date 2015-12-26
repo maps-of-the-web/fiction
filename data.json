@@ -5922,6 +5922,42 @@
       "target": "character-frasier-bob_briscoe",
       "id": "character-frasier-gil_chesterton+character-frasier-bob_briscoe",
       "label": "Co-worker"
+    },
+    {
+      "source": "character-cheers-cliff_clavin",
+      "target": "character-st_elsewhere-donald_westphall",
+      "id": "character-cheers-cliff_clavin+character-st_elsewhere-donald_westphall",
+      "label": "Met"
+    },
+    {
+      "source": "character-st_elsewhere-donald_westphall",
+      "target": "character-cheers-cliff_clavin",
+      "id": "character-st_elsewhere-donald_westphall+character-cheers-cliff_clavin",
+      "label": "Met"
+    },
+    {
+      "source": "character-cheers-cliff_clavin",
+      "target": "character-st_elsewhere-daniel_auschlander",
+      "id": "character-cheers-cliff_clavin+character-st_elsewhere-daniel_auschlander",
+      "label": "Met"
+    },
+    {
+      "source": "character-st_elsewhere-daniel_auschlander",
+      "target": "character-cheers-cliff_clavin",
+      "id": "character-st_elsewhere-daniel_auschlander+character-cheers-cliff_clavin",
+      "label": "Met"
+    },
+    {
+      "source": "character-cheers-cliff_clavin",
+      "target": "character-st_elsewhere-mark_craig",
+      "id": "character-cheers-cliff_clavin+character-st_elsewhere-ellen_craig",
+      "label": "Met"
+    },
+    {
+      "source": "character-st_elsewhere-mark_craig",
+      "target": "character-cheers-cliff_clavin",
+      "id": "character-st_elsewhere-mark_craig+character-cheers-cliff_clavin",
+      "label": "Met"
     }
   ]
 }
