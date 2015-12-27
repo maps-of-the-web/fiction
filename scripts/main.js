@@ -10,11 +10,9 @@ sigma.settings.scalingMode = "outside";
 // Add a method to the graph model that returns an
 //  object with every neighbors of a node inside:
 sigma.classes.graph.addMethod('neighbors', function(nodeId) {
-  var k,
-    neighbors = {},
-    index = this.allNeighborsIndex[nodeId] || {};
+  var neighbors = {}, index = this.allNeighborsIndex[nodeId] || {};
 
-  for (k in index)
+  for (var k in index)
     neighbors[k] = this.nodesIndex[k];
 
   return neighbors;
@@ -33,13 +31,13 @@ sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/d
     // Give color to nodes of a certain type.
     switch (node.type) {
       case "character":
-        node.color = styleBySelector["#graph.character-node"].color;
+        node.color = styleBySelector["#graph.character-node"].color || '#303F9F';
         break;
       case "tv-show":
-        node.color = styleBySelector["#graph.show-node"].color;
+        node.color = styleBySelector["#graph.show-node"].color || '#D32F2F';
         break;
       case "movie":
-        node.color = styleBySelector["#graph.movie-node"].color;
+        node.color = styleBySelector["#graph.movie-node"].color || '#388E3C';
         break;
       default:
         break;
@@ -85,14 +83,14 @@ sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/d
       if (toKeep[n.id])
         n.color = n.originalColor;
       else
-        n.color = styleBySelector["#graph.disabled-node"].color;
+        n.color = styleBySelector["#graph.disabled-node"].color || "#424242";
       });
 
     s.graph.edges().forEach(function(e) {
       if (toKeep[e.source] && toKeep[e.target])
         e.color = e.originalColor;
       else
-        e.color = styleBySelector["#graph.diabled-node"].color;
+        e.color = styleBySelector["#graph.diabled-node"].color || "#424242";
     });
 
     // Since the data has been modified, we need to
