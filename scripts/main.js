@@ -75,22 +75,24 @@ sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/d
   // We do the same for the edges, and we only keep
   // edges that have both extremities colored.
   s.bind('clickNode', function(e) {
-    var nodeId = e.data.node.id,
-    toKeep = s.graph.neighbors(nodeId);
+    var nodeId = e.data.node.id;
+    var toKeep = s.graph.neighbors(nodeId);
+    var disabledColor = styleBySelector["#graph.disabled-node"].color || "#424242"
+
     toKeep[nodeId] = e.data.node;
 
     s.graph.nodes().forEach(function(n) {
       if (toKeep[n.id])
         n.color = n.originalColor;
       else
-        n.color = styleBySelector["#graph.disabled-node"].color || "#424242";
+        n.color = disabledColor;
       });
 
     s.graph.edges().forEach(function(e) {
       if (toKeep[e.source] && toKeep[e.target])
         e.color = e.originalColor;
       else
-        e.color = styleBySelector["#graph.diabled-node"].color || "#424242";
+        e.color = disabledColor;
     });
 
     // Since the data has been modified, we need to
