@@ -40,6 +40,26 @@ function colorNode(node) {
   }
 }
 
+function createCardFromMarkdownURL(url) {
+  var http = new XMLHttpRequest();
+  http.open("GET",url,true);
+  http.send();
+
+  http.onreadystatechange = function() {
+    if (http.readyState== 4 && http.status == 200) {
+      createCardFromMarkdownText(http.response);
+    }
+  }
+}
+
+function createCardFromMarkdownText(text) {
+  var card = document.createElement("div");
+  card.className = "mdl-card mdl-shadow--4dp";
+  card.innerHTML = markdown.toHTML(text);
+  componentHandler.upgradeElement(card);
+  document.getElementById("graph").appendChild(card);
+}
+
 sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/data.json', {
   container: 'graph'
 }, function(s) {
