@@ -18,6 +18,28 @@ sigma.classes.graph.addMethod('neighbors', function(nodeId) {
   return neighbors;
 });
 
+// Give color to nodes of a certain type.
+//  Character nodes are given a Blue color.
+//  TV Show nodes are given a Red color.
+//  Movie nodes are given a Green color.
+//  Nodes with an unknown type are given a Pink color.
+function colorNode(node) {
+  switch (node.type) {
+    case "character":
+      node.color = styleBySelector["#graph.character-node"].color || '#303F9F';
+      break;
+    case "tv-show":
+      node.color = styleBySelector["#graph.show-node"].color || '#D32F2F';
+      break;
+    case "movie":
+      node.color = styleBySelector["#graph.movie-node"].color || '#388E3C';
+      break;
+    default:
+      node.color = styleBySelector["#graph.unknown-node"].color || '#C21F5D';
+      break;
+  }
+}
+
 sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/data.json', {
   container: 'graph'
 }, function(s) {
@@ -29,19 +51,7 @@ sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/d
     node.y = Math.sin(Math.PI * 2 * i / a.length);
 
     // Give color to nodes of a certain type.
-    switch (node.type) {
-      case "character":
-        node.color = styleBySelector["#graph.character-node"].color || '#303F9F';
-        break;
-      case "tv-show":
-        node.color = styleBySelector["#graph.show-node"].color || '#D32F2F';
-        break;
-      case "movie":
-        node.color = styleBySelector["#graph.movie-node"].color || '#388E3C';
-        break;
-      default:
-        break;
-    }
+    colorNode(node)
 
     //Add a size if there isn't one.
     node.size = node.size || 1
