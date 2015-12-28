@@ -40,24 +40,49 @@ function colorNode(node) {
   }
 }
 
-function createCardFromMarkdownURL(url) {
-  var http = new XMLHttpRequest();
-  http.open("GET",url,true);
-  http.send();
+function setInvisible(id) {
+  document.getElementById(id).style.visibility = 'hidden';
+}
 
-  http.onreadystatechange = function() {
-    if (http.readyState== 4 && http.status == 200) {
-      createCardFromMarkdownText(http.response);
-    }
+function createAboutCard() {
+  var obfuscator = document.getElementsByClassName('mdl-layout__obfuscator')[0];
+  var drawer = document.getElementsByClassName('mdl-layout__drawer')[0];
+  if (obfuscator) {
+    obfuscator.classList.toggle("is-visible");
+  }
+  if (drawer) {
+    drawer.classList.toggle("is-visible");
+  }
+  if (!document.getElementById('aboutCard')) {
+    getTextFromUrl('//raw.githubusercontent.com/maps-of-the-web/fiction/master/README.md', function(text) {
+      var card = createCardFromMarkdownText(text, 'aboutCard');
+      var lightbox = document.getElementById('lightbox')
+      lightbox.appendChild(card);
+      lightbox.style.visibility = 'visible';
+    });
+  } else {
+    document.getElementById('lightbox').style.visibility = 'visible';
   }
 }
 
-function createCardFromMarkdownText(text) {
+function getTextFromUrl(url, callback = function(text) {}) {
+  var http = new XMLHttpRequest();
+  http.open("GET",url,true);
+  http.onreadystatechange = function() {
+    if (http.readyState == 4 && http.status == 200) {
+      callback(http.response);
+    }
+  }
+  http.send();
+}
+
+function createCardFromMarkdownText(text, elementID) {
   var card = document.createElement("div");
   card.className = "mdl-card mdl-shadow--4dp";
+  card.id = elementID
   card.innerHTML = markdown.toHTML(text);
   componentHandler.upgradeElement(card);
-  document.getElementById("graph").appendChild(card);
+  return card;
 }
 
 sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/data.json', {
