@@ -591,6 +591,71 @@
       "type": "character"
     },
     {
+      "id":"show-family_matters",
+      "label":"Family Matters",
+      "type": "tv-show"
+    },
+    {
+      "id":"show-full_house",
+      "label":"Full House",
+      "type": "tv-show"
+    },
+    {
+      "id":"show-step_by_step",
+      "label":"Step by Step",
+      "type": "tv-show"
+    },
+    {
+      "id":"character-step_by_step-dana_foster",
+      "label":"Dana Foster",
+      "type": "character"
+    },
+    {
+      "id":"character-step_by_step-carol_foster_lambert",
+      "label":"Carol Foster-Lambert",
+      "type": "character"
+    },
+    {
+      "id":"character-step_by_step-karen_foster",
+      "label":"Karen Foster",
+      "type": "character"
+    },
+    {
+      "id":"character-step_by_step-mark_foster",
+      "label":"Mark Foster",
+      "type": "character"
+    },
+    {
+      "id":"n318",
+      "label":"Frank Lambert",
+      "type": "character"
+    },
+    {
+      "id":"character-step_by_step-john_thomas_lambert",
+      "label":"John Thomas 'J.T.' Lambert ",
+      "type": "character"
+    },
+    {
+      "id":"character-step_by_step-alicia_lambert",
+      "label":"Alicia 'Al' Lambert",
+      "type": "character"
+    },
+    {
+      "id":"character-step_by_step-brendan_lambert",
+      "label":"Brendan Lambert",
+      "type": "character"
+    },
+    {
+      "id":"character-step_by_step-cody_lambert",
+      "label":"Cody Lambert",
+      "type": "character"
+    },
+    {
+      "id":"show-hangin_with_mr_cooper",
+      "label":"Hangin' with Mr. Cooper",
+      "type": "tv-show"
+    },
+    {
       "id":"show-girl_meets_world",
       "label":"Girl Meets World",
       "type": "tv-show"
@@ -1278,71 +1343,6 @@
     {
       "id":"show-about_a_boy",
       "label":"About a Boy",
-      "type": "tv-show"
-    },
-    {
-      "id":"show-family_matters",
-      "label":"Family Matters",
-      "type": "tv-show"
-    },
-    {
-      "id":"show-full_house",
-      "label":"Full House",
-      "type": "tv-show"
-    },
-    {
-      "id":"show-step_by_step",
-      "label":"Step by Step",
-      "type": "tv-show"
-    },
-    {
-      "id":"character-step_by_step-dana_foster",
-      "label":"Dana Foster",
-      "type": "character"
-    },
-    {
-      "id":"character-step_by_step-carol_foster_lambert",
-      "label":"Carol Foster-Lambert",
-      "type": "character"
-    },
-    {
-      "id":"character-step_by_step-karen_foster",
-      "label":"Karen Foster",
-      "type": "character"
-    },
-    {
-      "id":"character-step_by_step-mark_foster",
-      "label":"Mark Foster",
-      "type": "character"
-    },
-    {
-      "id":"n318",
-      "label":"Frank Lambert",
-      "type": "character"
-    },
-    {
-      "id":"character-step_by_step-john_thomas_lambert",
-      "label":"John Thomas 'J.T.' Lambert ",
-      "type": "character"
-    },
-    {
-      "id":"character-step_by_step-alicia_lambert",
-      "label":"Alicia 'Al' Lambert",
-      "type": "character"
-    },
-    {
-      "id":"character-step_by_step-brendan_lambert",
-      "label":"Brendan Lambert",
-      "type": "character"
-    },
-    {
-      "id":"character-step_by_step-cody_lambert",
-      "label":"Cody Lambert",
-      "type": "character"
-    },
-    {
-      "id":"show-hangin_with_mr_cooper",
-      "label":"Hangin' with Mr. Cooper",
       "type": "tv-show"
     },
     {
