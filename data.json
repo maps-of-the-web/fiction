@@ -386,6 +386,146 @@
       "type": "character"
     },
     {
+      "id":"show-caroline_in_the_city",
+      "label":"Caroline in the City",
+      "type": "tv-show"
+    },
+    {
+      "id":"character-caroline_in_the_city-caroline_duffy",
+      "label":"Caroline Duffy",
+      "type": "character"
+    },
+    {
+      "id":"character-caroline_in_the_city-richard_karinsky",
+      "label":"Richard Karinsky",
+      "type": "character"
+    },
+    {
+      "id":"character-caroline_in_the_city-del_cassidy",
+      "label":"Del Cassidy",
+      "type": "character"
+    },
+    {
+      "id":"character-caroline_in_the_city-annie_spadaro",
+      "label":"Annie Spadaro",
+      "type": "character"
+    },
+    {
+      "id":"character-caroline_in_the_city-charlie",
+      "label":"Charlie",
+      "type": "character"
+    },
+    {
+      "id":"show-friends",
+      "label":"Friends",
+      "type": "tv-show"
+    },
+    {
+      "id":"character-friends-rachel_green",
+      "label":"Rachel Green",
+      "type": "character"
+    },
+    {
+      "id":"character-friends-monica_geller",
+      "label":"Monica Geller",
+      "type": "character"
+    },
+    {
+      "id":"character-friends-phoebe_buffay",
+      "label":"Phoebe Buffay",
+      "type": "character"
+    },
+    {
+      "id":"character-friends-joey_tribbiani",
+      "label":"Joey Tribbiani",
+      "type": "character"
+    },
+    {
+      "id":"character-friends-chandler_bing",
+      "label":"Chandler Bing",
+      "type": "character"
+    },
+    {
+      "id":"character-friends-ross_geller",
+      "label":"Dr. Ross Geller",
+      "type": "character"
+    },
+    {
+      "id":"character-friends-gina_tribbiani",
+      "label":"Gina Tribbiani",
+      "type": "character"
+    },
+    {
+      "id":"show-hope_and_gloria",
+      "label":"Hope & Gloria",
+      "type": "tv-show"
+    },
+    {
+      "id":"character-hope_and_gloria-gloria_utz",
+      "label":"Gloria Utz",
+      "type": "character"
+    },
+    {
+      "id":"character-hope_and_gloria-hope_davidson",
+      "label":"Hope Davidson",
+      "type": "character"
+    },
+    {
+      "id":"character-hope_and_gloria-louis_utz",
+      "label":"Louis Utz",
+      "type": "character"
+    },
+    {
+      "id":"character-hope_and_gloria-dennis_dupree",
+      "label":"Dennis Dupree",
+      "type": "character"
+    },
+    {
+      "id":"character-hope_and_gloria-sonny_utz",
+      "label":"Sonny Utz",
+      "type": "character"
+    },
+    {
+      "id":"character-hope_and_gloria-gwillem_blatt",
+      "label":"Gwillem Blatt",
+      "type": "character"
+    },
+    {
+      "id":"show-joey",
+      "label":"Joey",
+      "type": "tv-show"
+    },
+    {
+      "id":"character-joey-alexis_garrett",
+      "label":"Alexis 'Alex' Garrett",
+      "type": "character"
+    },
+    {
+      "id":"character-joey-michael_tribbiani",
+      "label":"Michael Tribbiani",
+      "type": "character"
+    },
+    {
+      "id":"character-joey-roberta_morganstern",
+      "label":"Roberta 'Bobbie' Morganstern",
+      "type": "character"
+    },
+    {
+      "id":"character-joey-zach_miller",
+      "label":"Zach Miller",
+      "type": "character"
+    },
+    {
+      "id":"show-seinfeld",
+      "label":"Seinfeld",
+      "type": "tv-show"
+    },
+    {
+      "id":"show-mad_about_you",
+      "label":"Mad About You",
+      "type": "tv-show"
+    },
+    {
       "id":"show-wings",
       "label":"Wings",
       "type": "tv-show"
@@ -483,36 +623,6 @@
     {
       "id":"character-john_larroquette-max_dumas",
       "label":"Max Dumas",
-      "type": "character"
-    },
-    {
-      "id":"show-caroline_in_the_city",
-      "label":"Caroline in the City",
-      "type": "tv-show"
-    },
-    {
-      "id":"character-caroline_in_the_city-caroline_duffy",
-      "label":"Caroline Duffy",
-      "type": "character"
-    },
-    {
-      "id":"character-caroline_in_the_city-richard_karinsky",
-      "label":"Richard Karinsky",
-      "type": "character"
-    },
-    {
-      "id":"character-caroline_in_the_city-del_cassidy",
-      "label":"Del Cassidy",
-      "type": "character"
-    },
-    {
-      "id":"character-caroline_in_the_city-annie_spadaro",
-      "label":"Annie Spadaro",
-      "type": "character"
-    },
-    {
-      "id":"character-caroline_in_the_city-charlie",
-      "label":"Charlie",
       "type": "character"
     },
     {
@@ -1264,116 +1374,6 @@
       "id":"character-bob_newhart_show-elliot_carlin",
       "label":"Elliot Carlin",
       "type": "character"
-    },
-    {
-      "id":"show-friends",
-      "label":"Friends",
-      "type": "tv-show"
-    },
-    {
-      "id":"character-friends-rachel_green",
-      "label":"Rachel Green",
-      "type": "character"
-    },
-    {
-      "id":"character-friends-monica_geller",
-      "label":"Monica Geller",
-      "type": "character"
-    },
-    {
-      "id":"character-friends-phoebe_buffay",
-      "label":"Phoebe Buffay",
-      "type": "character"
-    },
-    {
-      "id":"character-friends-joey_tribbiani",
-      "label":"Joey Tribbiani",
-      "type": "character"
-    },
-    {
-      "id":"character-friends-chandler_bing",
-      "label":"Chandler Bing",
-      "type": "character"
-    },
-    {
-      "id":"character-friends-ross_geller",
-      "label":"Dr. Ross Geller",
-      "type": "character"
-    },
-    {
-      "id":"character-friends-gina_tribbiani",
-      "label":"Gina Tribbiani",
-      "type": "character"
-    },
-    {
-      "id":"show-hope_and_gloria",
-      "label":"Hope & Gloria",
-      "type": "tv-show"
-    },
-    {
-      "id":"character-hope_and_gloria-gloria_utz",
-      "label":"Gloria Utz",
-      "type": "character"
-    },
-    {
-      "id":"character-hope_and_gloria-hope_davidson",
-      "label":"Hope Davidson",
-      "type": "character"
-    },
-    {
-      "id":"character-hope_and_gloria-louis_utz",
-      "label":"Louis Utz",
-      "type": "character"
-    },
-    {
-      "id":"character-hope_and_gloria-dennis_dupree",
-      "label":"Dennis Dupree",
-      "type": "character"
-    },
-    {
-      "id":"character-hope_and_gloria-sonny_utz",
-      "label":"Sonny Utz",
-      "type": "character"
-    },
-    {
-      "id":"character-hope_and_gloria-gwillem_blatt",
-      "label":"Gwillem Blatt",
-      "type": "character"
-    },
-    {
-      "id":"show-joey",
-      "label":"Joey",
-      "type": "tv-show"
-    },
-    {
-      "id":"character-joey-alexis_garrett",
-      "label":"Alexis 'Alex' Garrett",
-      "type": "character"
-    },
-    {
-      "id":"character-joey-michael_tribbiani",
-      "label":"Michael Tribbiani",
-      "type": "character"
-    },
-    {
-      "id":"character-joey-roberta_morganstern",
-      "label":"Roberta 'Bobbie' Morganstern",
-      "type": "character"
-    },
-    {
-      "id":"character-joey-zach_miller",
-      "label":"Zach Miller",
-      "type": "character"
-    },
-    {
-      "id":"show-seinfeld",
-      "label":"Seinfeld",
-      "type": "tv-show"
-    },
-    {
-      "id":"show-mad_about_you",
-      "label":"Mad About You",
-      "type": "tv-show"
     },
     {
       "id":"show-shake_it_up",
