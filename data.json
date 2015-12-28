@@ -6342,6 +6342,42 @@
       "target": "character-best_friends_whenever-barry",
       "id": "character-best_friends_whenever-shelby+character-best_friends_whenever-barry",
       "label": "Friend"
+    },
+    {
+      "source": "character-best_friends_whenever-bret",
+      "target": "character-best_friends_whenever-chet",
+      "id": "character-best_friends_whenever-bret+character-best_friends_whenever-chet",
+      "label": "Brother"
+    },
+    {
+      "source": "character-best_friends_whenever-bret",
+      "target": "character-best_friends_whenever-shelby",
+      "id": "character-best_friends_whenever-bret+character-best_friends_whenever-shelby",
+      "label": "Brother"
+    },
+    {
+      "source": "character-best_friends_whenever-chet",
+      "target": "character-best_friends_whenever-bret",
+      "id": "character-best_friends_whenever-chet+character-best_friends_whenever-bret",
+      "label": "Brother"
+    },
+    {
+      "source": "character-best_friends_whenever-chet",
+      "target": "character-best_friends_whenever-shelby",
+      "id": "character-best_friends_whenever-chet+character-best_friends_whenever-shelby",
+      "label": "Brother"
+    },
+    {
+      "source": "character-best_friends_whenever-shelby",
+      "target": "character-best_friends_whenever-bret",
+      "id": "character-best_friends_whenever-shelby+character-best_friends_whenever-bret",
+      "label": "Sister"
+    },
+    {
+      "source": "character-best_friends_whenever-shelby",
+      "target": "character-best_friends_whenever-chet",
+      "id": "character-best_friends_whenever-shelby+character-best_friends_whenever-chet",
+      "label": "Sister"
     }
   ]
 }
