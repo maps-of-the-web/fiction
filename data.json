@@ -911,7 +911,7 @@
       "type": "character"
     },
     {
-      "id": "character-jessue-bertram",
+      "id": "character-jessie-bertram",
       "label": "Bertram",
       "type": "character"
     },
@@ -6285,9 +6285,9 @@
       "label": "Main Character"
     },
     {
-      "source": "character-jessue-bertram",
+      "source": "character-jessie-bertram",
       "target": "show-jessie",
-      "id": "character-jessue-bertram+show-jessie",
+      "id": "character-jessie-bertram+show-jessie",
       "label": "Main Character"
     },
     {
