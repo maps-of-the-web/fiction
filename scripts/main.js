@@ -65,7 +65,7 @@ function createAboutCard() {
   }
 }
 
-function getTextFromUrl(url, callback = function(text) {}) {
+function getTextFromUrl(url, callback) {
   var http = new XMLHttpRequest();
   http.open("GET",url,true);
   http.onreadystatechange = function() {
