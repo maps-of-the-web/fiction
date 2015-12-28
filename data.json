@@ -6078,6 +6078,78 @@
       "target": "character-boy_meets_world-shawn_hunter",
       "id": "character-sabrina_the_teenage_witch-sabrina_spellman+character-boy_meets_world-shawn_hunter",
       "label": "Met"
+    },
+    {
+      "source": "character-girl_meets_world-riley_matthews",
+      "target": "character-girl_meets_world-maya_hart",
+      "id": "character-girl_meets_world-riley_matthews+character-girl_meets_world-maya_hart",
+      "label": "Best Friend"
+    },
+    {
+      "source": "character-girl_meets_world-riley_matthews",
+      "target": "character-girl_meets_world-lucas_friar",
+      "id": "character-girl_meets_world-riley_matthews+character-girl_meets_world-lucas_friar",
+      "label": "Friend"
+    },
+    {
+      "source": "character-girl_meets_world-riley_matthews",
+      "target": "character-girl_meets_world-farkle_minkus",
+      "id": "character-girl_meets_world-riley_matthews+character-girl_meets_world-farkle_minkus",
+      "label": "Friend"
+    },
+    {
+      "source": "character-girl_meets_world-maya_hart",
+      "target": "character-girl_meets_world-riley_matthews",
+      "id": "character-girl_meets_world-maya_hart+character-girl_meets_world-riley_matthews",
+      "label": "Best Friend"
+    },
+    {
+      "source": "character-girl_meets_world-maya_hart",
+      "target": "character-girl_meets_world-lucas_friar",
+      "id": "character-girl_meets_world-maya_hart+character-girl_meets_world-lucas_friar",
+      "label": "Friend"
+    },
+    {
+      "source": "character-girl_meets_world-maya_hart",
+      "target": "character-girl_meets_world-farkle_minkus",
+      "id": "character-girl_meets_world-maya_hart+character-girl_meets_world-farkle_minkus",
+      "label": "Friend"
+    },
+    {
+      "source": "character-girl_meets_world-lucas_friar",
+      "target": "character-girl_meets_world-riley_matthews",
+      "id": "character-girl_meets_world-lucas_friar+character-girl_meets_world-riley_matthews",
+      "label": "Friend"
+    },
+    {
+      "source": "character-girl_meets_world-lucas_friar",
+      "target": "character-girl_meets_world-maya_hart",
+      "id": "character-girl_meets_world-lucas_friar+character-girl_meets_world-maya_hart",
+      "label": "Friend"
+    },
+    {
+      "source": "character-girl_meets_world-lucas_friar",
+      "target": "character-girl_meets_world-farkle_minkus",
+      "id": "character-girl_meets_world-lucas_friar+character-girl_meets_world-farkle_minkus",
+      "label": "Friend"
+    },
+    {
+      "source": "character-girl_meets_world-farkle_minkus",
+      "target": "character-girl_meets_world-riley_matthews",
+      "id": "character-girl_meets_world-farkle_minkus+character-girl_meets_world-riley_matthews",
+      "label": "Friend"
+    },
+    {
+      "source": "character-girl_meets_world-farkle_minkus",
+      "target": "character-girl_meets_world-maya_hart",
+      "id": "character-girl_meets_world-farkle_minkus+character-girl_meets_world-maya_hart",
+      "label": "Friend"
+    },
+    {
+      "source": "character-girl_meets_world-farkle_minkus",
+      "target": "character-girl_meets_world-lucas_friar",
+      "id": "character-girl_meets_world-farkle_minkus+character-girl_meets_world-lucas_friar",
+      "label": "Friend"
     }
   ]
 }
