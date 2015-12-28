@@ -6925,6 +6925,42 @@
       "target": "character-jessie-zuri_ross",
       "id": "character-jessie-jessie_prescott+character-jessie-zuri_ross",
       "label": "Nanny"
+    },
+    {
+      "source": "character-jessie-bertram",
+      "target": "character-jessie-emma_ross",
+      "id": "character-jessie-bertram+character-jessie-emma_ross",
+      "label": "Butler"
+    },
+    {
+      "source": "character-jessie-bertram",
+      "target": "character-jessie-luke_ross",
+      "id": "character-jessie-bertram+character-jessie-luke_ross",
+      "label": "Butler"
+    },
+    {
+      "source": "character-jessie-bertram",
+      "target": "character-jessie-ravi_ross",
+      "id": "character-jessie-bertram+character-jessie-ravi_ross",
+      "label": "Butler"
+    },
+    {
+      "source": "character-jessie-bertram",
+      "target": "character-jessie-zuri_ross",
+      "id": "character-jessie-bertram+character-jessie-zuri_ross",
+      "label": "Butler"
+    },
+    {
+      "source": "character-jessie-bertram",
+      "target": "character-jessie-jessie_prescott",
+      "id": "character-jessie-bertram+character-jessie-jessie_prescott",
+      "label": "Co-worker"
+    },
+    {
+      "source": "character-jessie-jessie_prescott",
+      "target": "character-jessie-bertram",
+      "id": "character-jessie-jessie_prescott+character-jessie-bertram",
+      "label": "Co-worker"
     }
   ]
 }
