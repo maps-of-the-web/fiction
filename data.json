@@ -6871,6 +6871,24 @@
       "target": "character-liv_and_maddie-maddie_rooney",
       "id": "character-liv_and_maddie-parker_rooney+character-liv_and_maddie-maddie_rooney",
       "label": "Brother"
+    },
+    {
+      "source": "character-jessie-emma_ross",
+      "target": "show-kc_undercover",
+      "id": "character-jessie-emma_ross+show-kc_undercover",
+      "label": "Guest"
+    },
+    {
+      "source": "character-jessie-zuri_ross",
+      "target": "show-kc_undercover",
+      "id": "character-jessie-zuri_ross+show-kc_undercover",
+      "label": "Guest"
+    },
+    {
+      "source": "show-jessie",
+      "target": "show-kc_undercover",
+      "id": "show-jessie+show-kc_undercover",
+      "label": "Crossover"
     }
   ]
 }
