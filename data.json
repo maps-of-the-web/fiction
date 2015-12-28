@@ -6282,6 +6282,66 @@
       "target": "show-bunkd",
       "id": "character-jessie-zuri_ross+show-bunkd",
       "label": "Main Character"
+    },
+    {
+      "source": "character-best_friends_whenever-barry",
+      "target": "character-best_friends_whenever-naldo",
+      "id": "character-best_friends_whenever-barry+character-best_friends_whenever-naldo",
+      "label": "Best Friend"
+    },
+    {
+      "source": "character-best_friends_whenever-naldo",
+      "target": "character-best_friends_whenever-barry",
+      "id": "character-best_friends_whenever-naldo+character-best_friends_whenever-barry",
+      "label": "Best Friend"
+    },
+    {
+      "source": "character-best_friends_whenever-cyd",
+      "target": "character-best_friends_whenever-naldo",
+      "id": "character-best_friends_whenever-cyd+character-best_friends_whenever-naldo",
+      "label": "Friend"
+    },
+    {
+      "source": "character-best_friends_whenever-naldo",
+      "target": "character-best_friends_whenever-cyd",
+      "id": "character-best_friends_whenever-naldo+character-best_friends_whenever-cyd",
+      "label": "Friend"
+    },
+    {
+      "source": "character-best_friends_whenever-barry",
+      "target": "character-best_friends_whenever-cyd",
+      "id": "character-best_friends_whenever-barry+character-best_friends_whenever-cyd",
+      "label": "Friend"
+    },
+    {
+      "source": "character-best_friends_whenever-cyd",
+      "target": "character-best_friends_whenever-barry",
+      "id": "character-best_friends_whenever-cyd+character-best_friends_whenever-barry",
+      "label": "Friend"
+    },
+    {
+      "source": "character-best_friends_whenever-shelby",
+      "target": "character-best_friends_whenever-naldo",
+      "id": "character-best_friends_whenever-shelby+character-best_friends_whenever-naldo",
+      "label": "Friend"
+    },
+    {
+      "source": "character-best_friends_whenever-naldo",
+      "target": "character-best_friends_whenever-shelby",
+      "id": "character-best_friends_whenever-naldo+character-best_friends_whenever-shelby",
+      "label": "Friend"
+    },
+    {
+      "source": "character-best_friends_whenever-barry",
+      "target": "character-best_friends_whenever-shelby",
+      "id": "character-best_friends_whenever-barry+character-best_friends_whenever-shelby",
+      "label": "Friend"
+    },
+    {
+      "source": "character-best_friends_whenever-shelby",
+      "target": "character-best_friends_whenever-barry",
+      "id": "character-best_friends_whenever-shelby+character-best_friends_whenever-barry",
+      "label": "Friend"
     }
   ]
 }
