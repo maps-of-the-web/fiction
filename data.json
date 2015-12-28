@@ -876,6 +876,11 @@
       "type": "character"
     },
     {
+      "id": "character-liv_and_maddie-holden_dippledorf",
+      "label": "Holden Dippledorf",
+      "type": "character"
+    },
+    {
       "id":"show-jessie",
       "label":"Jessie",
       "type": "tv-show"
@@ -6378,6 +6383,12 @@
       "target": "character-best_friends_whenever-chet",
       "id": "character-best_friends_whenever-shelby+character-best_friends_whenever-chet",
       "label": "Sister"
+    },
+    {
+      "source": "character-liv_and_maddie-holden_dippledorf",
+      "target": "show-liv_and_maddie",
+      "id": "character-liv_and_maddie-holden_dippledorf+show-liv_and_maddie",
+      "label": "Main Character"
     }
   ]
 }
