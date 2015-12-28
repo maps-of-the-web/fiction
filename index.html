@@ -3,65 +3,84 @@
 	<head>
 		<title>Maps of the Web - Fiction</title>
 		<style type="text/css">
-			#sigma-container {
+			#graph {
 				position: absolute;
 				top: 0px;
 				bottom: 0px;
 				width: 100%;
 				margin: auto;
+				background-color: #EFEFEF;
+			}
+			#graph.character-node {
+				color: #303F9F;
+			}
+			#graph.show-node {
+				color: #D32F2F;
+			}
+			#graph.movie-node {
+				color: #388E3C;
+			}
+			#graph.disabled-node {
+				color: #424242;
+			}
+			#graph.unknown-node {
+				color: #C21F5D;
+			}
+			#lightbox {
+				background-color: rgba(0, 0, 0, 0.5);
+				visibility: hidden;
+				position: absolute;
+				top: 0px;
+				left: 0px;
+				width: 100%;
+				height: 100%;
+				z-index: 4;
+				display:flex;
+				justify-content:center;
+				align-items:center;
+			}
+			#lightbox > .mdl-card {
+				width:33%;
 			}
 		</style>
+		<link rel="stylesheet" href="//storage.googleapis.com/code.getmdl.io/1.0.6/material.indigo-pink.min.css">
+		<script src="//storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js"></script>
+		<link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 	<body>
-		<div id="sigma-container"></div>
-		<script src="scripts/sigma.min.js"></script>
-		<script src="scripts/sigma.parsers.json.min.js"></script>
-		<script src="scripts/sigma.layout.forceAtlas2.min.js"></script>
-		<script src="scripts/sigma.plugins.relativeSize.js"></script>
-		<script>
-			sigma.settings.labelThreshold = 12;
-			sigma.settings.scalingMode = "outside";
-			sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/data.json', {
-				container: 'sigma-container'
-			}, function(s) {
-				s.graph.nodes().forEach(function(node, i, a) {
-					// Display the nodes on a circle:
-					// We do this so we can have randomly placed nodes,
-					//   that are then organized.
-					node.x = Math.cos(Math.PI * 2 * i / a.length);
-					node.y = Math.sin(Math.PI * 2 * i / a.length);
-
-					// Give color to nodes of a certain type.
-					switch (node.type) {
-						case "character":
-							node.color = "#0000FF";
-							break;
-						case "tv-show":
-							node.color = "#FF0000";
-							break;
-						case "movie":
-							node.color = "#00FF00";
-							break;
-						default:
-							break;
-					}
-
-					//Add a size if there isn't one.
-					node.size = node.size || 1
-				});
-
-				sigma.plugins.relativeSize(s, 1);
-
-				s.startForceAtlas2({
-					outboundAttractionDistribution: true,
-					adjustSizes: true,
-					barnesHutOptimize: false
-				});
-
-				setTimeout(function() {
-					s.stopForceAtlas2();
-				}, 60 * 1000);
-			});
-		</script>
+		<!-- Always shows a header, even in smaller screens. -->
+		<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+			<header class="mdl-layout__header">
+				<div class="mdl-layout__header-row">
+					<!-- Title -->
+					<span class="mdl-layout-title">Maps of the Web - Fiction</span>
+				</div>
+			</header>
+			<div class="mdl-layout__drawer">
+				<span class="mdl-layout-title">MoW - Fiction</span>
+				<nav class="mdl-navigation">
+					<div class="mdl-layout-space mdl-layout__header-row">Info</div>
+					<a class="mdl-navigation__link" href="#" onclick="createAboutCard();">About</a>
+					<div class="mdl-layout-spacer mdl-layout__header-row">Donate</div>
+					<a class="mdl-navigation__link" href="//paypal.me/KeplerSJ">PayPal</a>
+					<a class="mdl-navigation__link" href="//www.coinbase.com/checkouts/8c38b62140d35404706782493bfd8cf7">Bitcoin</a>
+					<a class="mdl-navigation__link" href="//cash.me/$KeplerStickaJones">Square Cash</a>
+					<div class="mdl-layout-spacer mdl-layout__header-row">Technical</div>
+					<a class="mdl-navigation__link" href="//github.com/maps-of-the-web/fiction/tree/gh-pages">Website Source Code</a>
+					<a class="mdl-navigation__link" href="//github.com/maps-of-the-web/fiction/blob/master/data.json">Data Source</a>
+				</nav>
+			</div>
+			<main class="mdl-layout__content">
+				<div class="page-content" id="graph"></div>
+			</main>
+			<div id="lightbox" onclick="setInvisible('lightbox');"></div>
+		</div>
+		<script src="scripts/vendor/sigma/main.min.js"></script>
+		<script src="scripts/vendor/sigma/parsers.json.min.js"></script>
+		<script src="scripts/vendor/sigma/layout.forceAtlas2.min.js"></script>
+		<script src="scripts/vendor/sigma/plugins.relativeSize.js"></script>
+		<script src="scripts/vendor/markdown.min.js"></script>
+		<script src="scripts/main.js"></script>
 	</body>
 </html>
