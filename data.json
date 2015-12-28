@@ -6150,6 +6150,54 @@
       "target": "character-girl_meets_world-lucas_friar",
       "id": "character-girl_meets_world-farkle_minkus+character-girl_meets_world-lucas_friar",
       "label": "Friend"
+    },
+    {
+      "source": "character-best_friends_whenever-cyd",
+      "target": "character-girl_meets_world-riley_matthews",
+      "id": "",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-best_friends_whenever-cyd",
+      "target": "character-girl_meets_world-lucas_friar",
+      "id": "",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-girl_meets_world-riley_matthews",
+      "target": "character-best_friends_whenever-cyd",
+      "id": "",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-girl_meets_world-lucas_friar",
+      "target": "character-best_friends_whenever-cyd",
+      "id": "",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-best_friends_whenever-shelby",
+      "target": "character-girl_meets_world-riley_matthews",
+      "id": "",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-best_friends_whenever-shelby",
+      "target": "character-girl_meets_world-lucas_friar",
+      "id": "",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-girl_meets_world-riley_matthews",
+      "target": "character-best_friends_whenever-shelby",
+      "id": "",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-girl_meets_world-lucas_friar",
+      "target": "character-best_friends_whenever-shelby",
+      "id": "",
+      "label": "Acquaintance"
     }
   ]
 }
