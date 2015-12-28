@@ -881,6 +881,36 @@
       "type": "tv-show"
     },
     {
+      "id": "character-jessie-jessie_prescott",
+      "label": "Jessie Prescott",
+      "type": "character"
+    },
+    {
+      "id": "character-jessie-emma_ross",
+      "label": "Emma Ross",
+      "type": "character"
+    },
+    {
+      "id": "character-jessie-luke_ross",
+      "label": "Luke Ross",
+      "type": "character"
+    },
+    {
+      "id": "character-jessie-ravi_ross",
+      "label": "Ravi Ross",
+      "type": "character"
+    },
+    {
+      "id": "character-jessie-zuri_ross",
+      "label": "Zuri Ross",
+      "type": "character"
+    },
+    {
+      "id": "character-jessue-bertram",
+      "label": "Bertram",
+      "type": "character"
+    },
+    {
       "id":"show-sabrina_the_teenage_witch",
       "label":"Sabrina, the Teenage Witch",
       "type": "tv-show"
@@ -6198,6 +6228,42 @@
       "target": "character-best_friends_whenever-shelby",
       "id": "character-girl_meets_world-lucas_friar+character-best_friends_whenever-shelby",
       "label": "Acquaintance"
+    },
+    {
+      "source": "character-jessie-jessie_prescott",
+      "target": "show-jessie",
+      "id": "character-jessie-jessie_prescott+show-jessie",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-jessie-emma_ross",
+      "target": "show-jessie",
+      "id": "character-jessie-emma_ross+show-jessie",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-jessie-luke_ross",
+      "target": "show-jessie",
+      "id": "character-jessie-luke_ross+show-jessie",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-jessie-ravi_ross",
+      "target": "show-jessie",
+      "id": "character-jessie-ravi_ross+show-jessie",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-jessie-zuri_ross",
+      "target": "show-jessie",
+      "id": "character-jessie-zuri_ross+show-jessie",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-jessue-bertram",
+      "target": "show-jessie",
+      "id": "character-jessue-bertram+show-jessie",
+      "label": "Main Character"
     }
   ]
 }
