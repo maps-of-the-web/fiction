@@ -1306,6 +1306,66 @@
       "type": "character"
     },
     {
+      "id":"show-hope_and_gloria",
+      "label":"Hope & Gloria",
+      "type": "tv-show"
+    },
+    {
+      "id":"character-hope_and_gloria-gloria_utz",
+      "label":"Gloria Utz",
+      "type": "character"
+    },
+    {
+      "id":"character-hope_and_gloria-hope_davidson",
+      "label":"Hope Davidson",
+      "type": "character"
+    },
+    {
+      "id":"character-hope_and_gloria-louis_utz",
+      "label":"Louis Utz",
+      "type": "character"
+    },
+    {
+      "id":"character-hope_and_gloria-dennis_dupree",
+      "label":"Dennis Dupree",
+      "type": "character"
+    },
+    {
+      "id":"character-hope_and_gloria-sonny_utz",
+      "label":"Sonny Utz",
+      "type": "character"
+    },
+    {
+      "id":"character-hope_and_gloria-gwillem_blatt",
+      "label":"Gwillem Blatt",
+      "type": "character"
+    },
+    {
+      "id":"show-joey",
+      "label":"Joey",
+      "type": "tv-show"
+    },
+    {
+      "id":"character-joey-alexis_garrett",
+      "label":"Alexis 'Alex' Garrett",
+      "type": "character"
+    },
+    {
+      "id":"character-joey-michael_tribbiani",
+      "label":"Michael Tribbiani",
+      "type": "character"
+    },
+    {
+      "id":"character-joey-roberta_morganstern",
+      "label":"Roberta 'Bobbie' Morganstern",
+      "type": "character"
+    },
+    {
+      "id":"character-joey-zach_miller",
+      "label":"Zach Miller",
+      "type": "character"
+    },
+    {
       "id":"show-seinfeld",
       "label":"Seinfeld",
       "type": "tv-show"
@@ -1704,66 +1764,6 @@
       "id":"show-x_files",
       "label":"The X-Files",
       "type": "tv-show"
-    },
-    {
-      "id":"show-hope_and_gloria",
-      "label":"Hope & Gloria",
-      "type": "tv-show"
-    },
-    {
-      "id":"character-hope_and_gloria-gloria_utz",
-      "label":"Gloria Utz",
-      "type": "character"
-    },
-    {
-      "id":"character-hope_and_gloria-hope_davidson",
-      "label":"Hope Davidson",
-      "type": "character"
-    },
-    {
-      "id":"character-hope_and_gloria-louis_utz",
-      "label":"Louis Utz",
-      "type": "character"
-    },
-    {
-      "id":"character-hope_and_gloria-dennis_dupree",
-      "label":"Dennis Dupree",
-      "type": "character"
-    },
-    {
-      "id":"character-hope_and_gloria-sonny_utz",
-      "label":"Sonny Utz",
-      "type": "character"
-    },
-    {
-      "id":"character-hope_and_gloria-gwillem_blatt",
-      "label":"Gwillem Blatt",
-      "type": "character"
-    },
-    {
-      "id":"show-joey",
-      "label":"Joey",
-      "type": "tv-show"
-    },
-    {
-      "id":"character-joey-alexis_garrett",
-      "label":"Alexis 'Alex' Garrett",
-      "type": "character"
-    },
-    {
-      "id":"character-joey-michael_tribbiani",
-      "label":"Michael Tribbiani",
-      "type": "character"
-    },
-    {
-      "id":"character-joey-roberta_morganstern",
-      "label":"Roberta 'Bobbie' Morganstern",
-      "type": "character"
-    },
-    {
-      "id":"character-joey-zach_miller",
-      "label":"Zach Miller",
-      "type": "character"
     }
   ],
   "edges": [
