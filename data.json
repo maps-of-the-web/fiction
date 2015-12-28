@@ -6264,6 +6264,24 @@
       "target": "show-jessie",
       "id": "character-jessue-bertram+show-jessie",
       "label": "Main Character"
+    },
+    {
+      "source": "character-jessie-emma_ross",
+      "target": "show-bunkd",
+      "id": "character-jessie-emma_ross+show-bunkd",
+      "label": "Main character"
+    },
+    {
+      "source": "character-jessie-ravi_ross",
+      "target": "show-bunkd",
+      "id": "character-jessie-ravi_ross+show-bunkd",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-jessie-zuri_ross",
+      "target": "show-bunkd",
+      "id": "character-jessie-zuri_ross+show-bunkd",
+      "label": "Main Character"
     }
   ]
 }
