@@ -6691,6 +6691,186 @@
       "target": "character-liv_and_maddie-holden_dippledorf",
       "id": "character-liv_and_maddie-parker_rooney+character-liv_and_maddie-holden_dippledorf",
       "label": "Neighbor"
+    },
+    {
+      "source": "character-liv_and_maddie-liv_rooney",
+      "target": "character-liv_and_maddie-pete_rooney",
+      "id": "",
+      "label": "Daughter"
+    },
+    {
+      "source": "character-liv_and_maddie-liv_rooney",
+      "target": "character-liv_and_maddie-joey_rooney",
+      "id": "",
+      "label": "Sister"
+    },
+    {
+      "source": "character-liv_and_maddie-liv_rooney",
+      "target": "character-liv_and_maddie-karen_rooney",
+      "id": "",
+      "label": "Daughter"
+    },
+    {
+      "source": "character-liv_and_maddie-liv_rooney",
+      "target": "character-liv_and_maddie-maddie_rooney",
+      "id": "",
+      "label": "Sister"
+    },
+    {
+      "source": "character-liv_and_maddie-liv_rooney",
+      "target": "character-liv_and_maddie-parker_rooney",
+      "id": "",
+      "label": "Sister"
+    },
+    {
+      "source": "character-liv_and_maddie-pete_rooney",
+      "target": "character-liv_and_maddie-liv_rooney",
+      "id": "",
+      "label": "Father"
+    },
+    {
+      "source": "character-liv_and_maddie-pete_rooney",
+      "target": "character-liv_and_maddie-joey_rooney",
+      "id": "",
+      "label": "Father"
+    },
+    {
+      "source": "character-liv_and_maddie-pete_rooney",
+      "target": "character-liv_and_maddie-karen_rooney",
+      "id": "",
+      "label": "Husband"
+    },
+    {
+      "source": "character-liv_and_maddie-pete_rooney",
+      "target": "character-liv_and_maddie-maddie_rooney",
+      "id": "",
+      "label": "Father"
+    },
+    {
+      "source": "character-liv_and_maddie-pete_rooney",
+      "target": "character-liv_and_maddie-parker_rooney",
+      "id": "",
+      "label": "Father"
+    },
+    {
+      "source": "character-liv_and_maddie-joey_rooney",
+      "target": "character-liv_and_maddie-liv_rooney",
+      "id": "",
+      "label": "Brother"
+    },
+    {
+      "source": "character-liv_and_maddie-joey_rooney",
+      "target": "character-liv_and_maddie-pete_rooney",
+      "id": "",
+      "label": "Son"
+    },
+    {
+      "source": "character-liv_and_maddie-joey_rooney",
+      "target": "character-liv_and_maddie-karen_rooney",
+      "id": "",
+      "label": "Son"
+    },
+    {
+      "source": "character-liv_and_maddie-joey_rooney",
+      "target": "character-liv_and_maddie-maddie_rooney",
+      "id": "",
+      "label": "Brother"
+    },
+    {
+      "source": "character-liv_and_maddie-joey_rooney",
+      "target": "character-liv_and_maddie-parker_rooney",
+      "id": "",
+      "label": "Brother"
+    },
+    {
+      "source": "character-liv_and_maddie-karen_rooney",
+      "target": "character-liv_and_maddie-liv_rooney",
+      "id": "",
+      "label": "Mother"
+    },
+    {
+      "source": "character-liv_and_maddie-karen_rooney",
+      "target": "character-liv_and_maddie-joey_rooney",
+      "id": "",
+      "label": "Mother"
+    },
+    {
+      "source": "character-liv_and_maddie-karen_rooney",
+      "target": "character-liv_and_maddie-pete_rooney",
+      "id": "",
+      "label": "Wife"
+    },
+    {
+      "source": "character-liv_and_maddie-karen_rooney",
+      "target": "character-liv_and_maddie-maddie_rooney",
+      "id": "",
+      "label": "Mother"
+    },
+    {
+      "source": "character-liv_and_maddie-karen_rooney",
+      "target": "character-liv_and_maddie-parker_rooney",
+      "id": "",
+      "label": "Mother"
+    },
+    {
+      "source": "character-liv_and_maddie-maddie_rooney",
+      "target": "character-liv_and_maddie-liv_rooney",
+      "id": "",
+      "label": "Sister"
+    },
+    {
+      "source": "character-liv_and_maddie-maddie_rooney",
+      "target": "character-liv_and_maddie-joey_rooney",
+      "id": "",
+      "label": "Sister"
+    },
+    {
+      "source": "character-liv_and_maddie-maddie_rooney",
+      "target": "character-liv_and_maddie-pete_rooney",
+      "id": "",
+      "label": "Daughter"
+    },
+    {
+      "source": "character-liv_and_maddie-maddie_rooney",
+      "target": "character-liv_and_maddie-karen_rooney",
+      "id": "",
+      "label": "Daughter"
+    },
+    {
+      "source": "character-liv_and_maddie-maddie_rooney",
+      "target": "character-liv_and_maddie-parker_rooney",
+      "id": "",
+      "label": "Sister"
+    },
+    {
+      "source": "character-liv_and_maddie-parker_rooney",
+      "target": "character-liv_and_maddie-liv_rooney",
+      "id": "",
+      "label": "Brother"
+    },
+    {
+      "source": "character-liv_and_maddie-parker_rooney",
+      "target": "character-liv_and_maddie-joey_rooney",
+      "id": "",
+      "label": "Brother"
+    },
+    {
+      "source": "character-liv_and_maddie-parker_rooney",
+      "target": "character-liv_and_maddie-pete_rooney",
+      "id": "",
+      "label": "Son"
+    },
+    {
+      "source": "character-liv_and_maddie-parker_rooney",
+      "target": "character-liv_and_maddie-karen_rooney",
+      "id": "",
+      "label": "Son"
+    },
+    {
+      "source": "character-liv_and_maddie-parker_rooney",
+      "target": "character-liv_and_maddie-maddie_rooney",
+      "id": "",
+      "label": "Brother"
     }
   ]
 }
