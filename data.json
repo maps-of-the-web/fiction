@@ -6619,6 +6619,78 @@
       "target": "character-austin_and_ally-ally_dawson",
       "id": "character-girl_meets_world-lucas_friar+character-austin_and_ally-ally_dawson",
       "label": "Acquaintance"
+    },
+    {
+      "source": "character-liv_and_maddie-holden_dippledorf",
+      "target": "character-liv_and_maddie-liv_rooney",
+      "id": "character-liv_and_maddie-holden_dippledorf+character-liv_and_maddie-liv_rooney",
+      "label": "Romantic Interest"
+    },
+    {
+      "source": "character-liv_and_maddie-liv_rooney",
+      "target": "character-liv_and_maddie-holden_dippledorf",
+      "id": "character-liv_and_maddie-liv_rooney+character-liv_and_maddie-holden_dippledorf",
+      "label": "Romantic Interest"
+    },
+    {
+      "source": "character-liv_and_maddie-holden_dippledorf",
+      "target": "character-liv_and_maddie-pete_rooney",
+      "id": "character-liv_and_maddie-holden_dippledorf+character-liv_and_maddie-pete_rooney",
+      "label": "Neighbor"
+    },
+    {
+      "source": "character-liv_and_maddie-holden_dippledorf",
+      "target": "character-liv_and_maddie-karen_rooney",
+      "id": "character-liv_and_maddie-holden_dippledorf+character-liv_and_maddie-karen_rooney",
+      "label": "Neighbor"
+    },
+    {
+      "source": "character-liv_and_maddie-holden_dippledorf",
+      "target": "character-liv_and_maddie-joey_rooney",
+      "id": "character-liv_and_maddie-holden_dippledorf+character-liv_and_maddie-joey_rooney",
+      "label": "Neighbor"
+    },
+    {
+      "source": "character-liv_and_maddie-holden_dippledorf",
+      "target": "character-liv_and_maddie-maddie_rooney",
+      "id": "character-liv_and_maddie-holden_dippledorf+character-liv_and_maddie-maddie_rooney",
+      "label": "Neighbor"
+    },
+    {
+      "source": "character-liv_and_maddie-holden_dippledorf",
+      "target": "character-liv_and_maddie-parker_rooney",
+      "id": "character-liv_and_maddie-holden_dippledorf+character-liv_and_maddie-parker_rooney",
+      "label": "Neighbor"
+    },
+    {
+      "source": "character-liv_and_maddie-pete_rooney",
+      "target": "character-liv_and_maddie-holden_dippledorf",
+      "id": "character-liv_and_maddie-pete_rooney+character-liv_and_maddie-holden_dippledorf",
+      "label": "Neighbor"
+    },
+    {
+      "source": "character-liv_and_maddie-joey_rooney",
+      "target": "character-liv_and_maddie-holden_dippledorf",
+      "id": "character-liv_and_maddie-joey_rooney+character-liv_and_maddie-holden_dippledorf",
+      "label": "Neighbor"
+    },
+    {
+      "source": "character-liv_and_maddie-karen_rooney",
+      "target": "character-liv_and_maddie-holden_dippledorf",
+      "id": "character-liv_and_maddie-karen_rooney+character-liv_and_maddie-holden_dippledorf",
+      "label": "Neighbor"
+    },
+    {
+      "source": "character-liv_and_maddie-maddie_rooney",
+      "target": "character-liv_and_maddie-holden_dippledorf",
+      "id": "character-liv_and_maddie-maddie_rooney+character-liv_and_maddie-holden_dippledorf",
+      "label": "Neighbor"
+    },
+    {
+      "source": "character-liv_and_maddie-parker_rooney",
+      "target": "character-liv_and_maddie-holden_dippledorf",
+      "id": "character-liv_and_maddie-parker_rooney+character-liv_and_maddie-holden_dippledorf",
+      "label": "Neighbor"
     }
   ]
 }
