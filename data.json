@@ -6389,6 +6389,54 @@
       "target": "show-liv_and_maddie",
       "id": "character-liv_and_maddie-holden_dippledorf+show-liv_and_maddie",
       "label": "Main Character"
+    },
+    {
+      "source": "character-best_friends_whenever-cyd",
+      "target": "character-liv_and_maddie-liv_rooney",
+      "id": "character-best_friends_whenever-cyd+character-liv_and_maddie-liv_rooney",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-best_friends_whenever-cyd",
+      "target": "character-liv_and_maddie-holden_dippledorf",
+      "id": "character-best_friends_whenever-cyd+character-liv_and_maddie-holden_dippledorf",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-best_friends_whenever-shelby",
+      "target": "character-liv_and_maddie-liv_rooney",
+      "id": "character-best_friends_whenever-shelby+character-liv_and_maddie-liv_rooney",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-best_friends_whenever-shelby",
+      "target": "character-liv_and_maddie-holden_dippledorf",
+      "id": "character-best_friends_whenever-shelby+character-liv_and_maddie-holden_dippledorf",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-liv_and_maddie-liv_rooney",
+      "target": "character-best_friends_whenever-cyd",
+      "id": "character-liv_and_maddie-liv_rooney+character-best_friends_whenever-cyd",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-liv_and_maddie-liv_rooney",
+      "target": "character-best_friends_whenever-shelby",
+      "id": "character-liv_and_maddie-liv_rooney+character-best_friends_whenever-shelby",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-liv_and_maddie-holden_dippledorf",
+      "target": "character-best_friends_whenever-cyd",
+      "id": "character-liv_and_maddie-holden_dippledorf+character-best_friends_whenever-cyd",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-liv_and_maddie-holden_dippledorf",
+      "target": "character-best_friends_whenever-shelby",
+      "id": "character-liv_and_maddie-holden_dippledorf+character-best_friends_whenever-shelby",
+      "label": "Acquaintance"
     }
   ]
 }
