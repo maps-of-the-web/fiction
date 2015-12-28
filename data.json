@@ -6042,6 +6042,30 @@
       "target": "character-st_elsewhere-mark_craig",
       "id": "character-st_elsewhere-victor_ehrlich+character-st_elsewhere-mark_craig",
       "label": "Protege"
+    },
+    {
+      "source": "character-boy_meets_world-eric_matthews",
+      "target": "character-girl_meets_world-riley_matthews",
+      "id": "character-boy_meets_world-eric_matthews+character-girl_meets_world-riley_matthews",
+      "label": "Uncle"
+    },
+    {
+      "source": "character-boy_meets_world-eric_matthews",
+      "target": "character-girl_meets_world-auggie_matthews",
+      "id": "character-boy_meets_world-eric_matthews+character-girl_meets_world-auggie_matthews",
+      "label": "Uncle"
+    },
+    {
+      "source": "character-girl_meets_world-riley_matthews",
+      "target": "character-boy_meets_world-eric_matthews",
+      "id": "character-girl_meets_world-riley_matthews+character-boy_meets_world-eric_matthews",
+      "label": "Niece"
+    },
+    {
+      "source": "character-girl_meets_world-auggie_matthews",
+      "target": "character-boy_meets_world-eric_matthews",
+      "id": "character-girl_meets_world-auggie_matthews+character-boy_meets_world-eric_matthews",
+      "label": "Nephew"
     }
   ]
 }
