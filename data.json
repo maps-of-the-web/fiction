@@ -6961,6 +6961,18 @@
       "target": "character-jessie-bertram",
       "id": "character-jessie-jessie_prescott+character-jessie-bertram",
       "label": "Co-worker"
+    },
+    {
+      "source": "show-jessie",
+      "target": "show-austin_and_ally",
+      "id": "show-jessie+show-austin_and_ally",
+      "label": "Crossover"
+    },
+    {
+      "source": "show-austin_and_ally",
+      "target": "show-jessie",
+      "id": "show-austin_and_ally+show-jessie",
+      "label": "Crossover"
     }
   ]
 }
