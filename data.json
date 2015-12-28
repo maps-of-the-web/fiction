@@ -6481,6 +6481,24 @@
       "target": "show-austin_and_ally",
       "id": "character-austin_and_ally-dez+show-austin_and_ally",
       "label": "Main Character"
+    },
+    {
+      "source": "show-austin_and_ally",
+      "target": "show-girl_meets_world",
+      "id": "show-austin_and_ally+show-girl_meets_world",
+      "label": "Crossover"
+    },
+    {
+      "source": "character-austin_and_ally-austin_moon",
+      "target": "show-girl_meets_world",
+      "id": "character-austin_and_ally-austin_moon+show-girl_meets_world",
+      "label": "Guest"
+    },
+    {
+      "source": "character-austin_and_ally-ally_dawson",
+      "target": "show-girl_meets_world",
+      "id": "character-austin_and_ally-ally_dawson+show-girl_meets_world",
+      "label": "Guest"
     }
   ]
 }
