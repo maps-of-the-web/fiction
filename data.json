@@ -416,6 +416,16 @@
       "type": "character"
     },
     {
+      "id":"show-single_guy",
+      "label":"The Single Guy",
+      "type": "tv-show"
+    },
+    {
+      "id":"character-single_guy-jonathan-elliot",
+      "label":"Jonathan Eliot",
+      "type": "character"
+    },
+    {
       "id":"show-friends",
       "label":"Friends",
       "type": "tv-show"
@@ -1384,16 +1394,6 @@
       "id":"show-dick_van_dyke_show",
       "label":"Dick Van Dyke Show",
       "type": "tv-show"
-    },
-    {
-      "id":"show-single_guy",
-      "label":"The Single Guy",
-      "type": "tv-show"
-    },
-    {
-      "id":"character-single_guy-jonathan-elliot",
-      "label":"Jonathan Eliot",
-      "type": "character"
     },
     {
       "id":"show-parenthood",
