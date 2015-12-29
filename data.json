@@ -1062,6 +1062,30 @@
       "marvel_multiverse_reality_number": "Earth-12041"
     },
     {
+      "id": "show-avengers_assemble",
+      "label": "Marvel's Avengers Assemble",
+      "type": "tv-show",
+      "marvel_multiverse_reality_number": "Earth-12041"
+    },
+    {
+      "id": "show-hulk_and_the_agents_of_smash",
+      "label": "Hulk and the Agents of S.M.A.S.H.",
+      "type": "tv-show",
+      "marvel_multiverse_reality_number": "Earth-12041"
+    },
+    {
+      "id": "show-guardians_of_the_galaxy",
+      "label": "Marvel's Guardians of the Galaxy",
+      "type": "tv-show",
+      "marvel_multiverse_reality_number": "Earth-12041"
+    },
+    {
+      "id": "movie-super_hero_adventures_frost_fight",
+      "label": "Marvel Super Hero Adventures: Frost Fight",
+      "type": "movie",
+      "marvel_multiverse_reality_number": "Earth-12041"
+    },
+    {
       "id":"show-kc_undercover",
       "label":"KC Undercover",
       "type": "tv-show"
@@ -7408,6 +7432,126 @@
       "target": "show-ultimate_spider_man",
       "id": "character-jessie-jessie_prescott+show-ultimate_spider_man",
       "label": "Guest"
+    },
+    {
+      "source": "show-ultimate_spider_man",
+      "target": "show-avengers_assemble",
+      "id": "show-ultimate_spider_man+show-avengers_assemble",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-ultimate_spider_man",
+      "target": "show-hulk_and_the_agents_of_smash",
+      "id": "show-ultimate_spider_man+show-hulk_and_the_agents_of_smash",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-ultimate_spider_man",
+      "target": "show-guardians_of_the_galaxy",
+      "id": "show-ultimate_spider_man+show-guardians_of_the_galaxy",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-ultimate_spider_man",
+      "target": "movie-super_hero_adventures_frost_fight",
+      "id": "show-ultimate_spider_man+movie-super_hero_adventures_frost_fight",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-avengers_assemble",
+      "target": "show-ultimate_spider_man",
+      "id": "show-avengers_assemble+show-ultimate_spider_man",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-avengers_assemble",
+      "target": "show-hulk_and_the_agents_of_smash",
+      "id": "show-avengers_assemble+show-hulk_and_the_agents_of_smash",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-avengers_assemble",
+      "target": "show-guardians_of_the_galaxy",
+      "id": "show-avengers_assemble+show-guardians_of_the_galaxy",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-avengers_assemble",
+      "target": "movie-super_hero_adventures_frost_fight",
+      "id": "show-avengers_assemble+movie-super_hero_adventures_frost_fight",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-hulk_and_the_agents_of_smash",
+      "target": "show-ultimate_spider_man",
+      "id": "show-hulk_and_the_agents_of_smash+show-ultimate_spider_man",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-hulk_and_the_agents_of_smash",
+      "target": "show-avengers_assemble",
+      "id": "show-hulk_and_the_agents_of_smash+show-avengers_assemble",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-hulk_and_the_agents_of_smash",
+      "target": "show-guardians_of_the_galaxy",
+      "id": "show-hulk_and_the_agents_of_smash+show-guardians_of_the_galaxy",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-hulk_and_the_agents_of_smash",
+      "target": "movie-super_hero_adventures_frost_fight",
+      "id": "show-hulk_and_the_agents_of_smash+movie-super_hero_adventures_frost_fight",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-guardians_of_the_galaxy",
+      "target": "show-ultimate_spider_man",
+      "id": "show-guardians_of_the_galaxy+show-ultimate_spider_man",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-guardians_of_the_galaxy",
+      "target": "show-avengers_assemble",
+      "id": "show-guardians_of_the_galaxy+show-avengers_assemble",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-guardians_of_the_galaxy",
+      "target": "show-hulk_and_the_agents_of_smash",
+      "id": "show-guardians_of_the_galaxy+show-hulk_and_the_agents_of_smash",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-guardians_of_the_galaxy",
+      "target": "movie-super_hero_adventures_frost_fight",
+      "id": "show-guardians_of_the_galaxy+movie-super_hero_adventures_frost_fight",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "movie-super_hero_adventures_frost_fight",
+      "target": "show-ultimate_spider_man",
+      "id": "movie-super_hero_adventures_frost_fight+show-ultimate_spider_man",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "movie-super_hero_adventures_frost_fight",
+      "target": "show-avengers_assemble",
+      "id": "movie-super_hero_adventures_frost_fight+show-avengers_assemble",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "movie-super_hero_adventures_frost_fight",
+      "target": "show-hulk_and_the_agents_of_smash",
+      "id": "movie-super_hero_adventures_frost_fight+show-hulk_and_the_agents_of_smash",
+      "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "movie-super_hero_adventures_frost_fight",
+      "target": "show-guardians_of_the_galaxy",
+      "id": "movie-super_hero_adventures_frost_fight+show-guardians_of_the_galaxy",
+      "label": "Shared Marvel Universe (Earth-12041)"
     }
   ]
 }
