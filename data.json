@@ -8095,6 +8095,30 @@
       "target": "show-shake_it_up",
       "id": "character-shake_it_up-gunther_hessenheffer+show-shake_it_up",
       "label": "Main Character"
+    },
+    {
+      "source": "character-shake_it_up-cece_jones",
+      "target": "show-good_luck_charlie",
+      "id": "character-shake_it_up-cece_jones+show-good_luck_charlie",
+      "label": "Guest"
+    },
+    {
+      "source": "character-shake_it_up-rocky_blue",
+      "target": "show-good_luck_charlie",
+      "id": "character-shake_it_up-rocky_blue+show-good_luck_charlie",
+      "label": "Guest"
+    },
+    {
+      "source": "character-shake_it_up-deuce_martinez",
+      "target": "show-good_luck_charlie",
+      "id": "character-shake_it_up-deuce_martinez+show-good_luck_charlie",
+      "label": "Guest"
+    },
+    {
+      "source": "character-shake_it_up-flynn_jones",
+      "target": "show-good_luck_charlie",
+      "id": "character-shake_it_up-flynn_jones+show-good_luck_charlie",
+      "label": "Guest"
     }
   ]
 }
