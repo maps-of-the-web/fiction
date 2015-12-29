@@ -7045,6 +7045,30 @@
       "target": "character-jessie-ravi_ross",
       "id": "character-jessie-zuri_ross+character-jessie-ravi_ross",
       "label": "Sister"
+    },
+    {
+      "source": "character-austin_and_ally-dez",
+      "target": "show-jessie",
+      "id": "character-austin_and_ally-dez+show-jessie",
+      "label": "Guest"
+    },
+    {
+      "source": "character-austin_and_ally-trish",
+      "target": "show-jessie",
+      "id": "character-austin_and_ally-trish+show-jessie",
+      "label": "Guest"
+    },
+    {
+      "source": "character-austin_and_ally-austin_moon",
+      "target": "show-jessie",
+      "id": "character-austin_and_ally-austin_moon+show-jessie",
+      "label": "Guest"
+    },
+    {
+      "source": "character-austin_and_ally-ally_dawson",
+      "target": "show-jessie",
+      "id": "character-austin_and_ally-ally_dawson+show-jessie",
+      "label": "Guest"
     }
   ]
 }
