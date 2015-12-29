@@ -711,6 +711,136 @@
       "type": "character"
     },
     {
+      "id":"show-sabrina_the_teenage_witch",
+      "label":"Sabrina, the Teenage Witch",
+      "type": "tv-show"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-sabrina_spellman",
+      "label":"Sabrina Spellman",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-salem_saberhagen",
+      "label":"Salem Saberhagen",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-hilda_spellman",
+      "label":"Hilda Spellman",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-zelda_spellman",
+      "label":"Zelda Spellman",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-harvey_kinkle",
+      "label":"Harvey Kinkle",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-libby_chessler",
+      "label":"Libby Chessler",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-jenny_kelley",
+      "label":"Jenny Kelley",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-mr_pool",
+      "label":"Mr Pool",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-willard_kraft",
+      "label":"Willard Kraft",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-valerie_birkhead",
+      "label":"Valerie Birkhead",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-quizmaster",
+      "label":"Quizmaster",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-josh_blackhart",
+      "label":"Josh Blackhart",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-brad_alcerro",
+      "label":"Brad Alcerro",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-dreama",
+      "label":"Dreama",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-roxie_king",
+      "label":"Roxie King",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-morgan_cavanaugh",
+      "label":"Morgan Cavanaugh",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-miles_goodman",
+      "label":"Miles Goodman",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-annie_martos",
+      "label":"Annie Martos",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-cole_harper",
+      "label":"Cole Harper",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-leonard",
+      "label":"Leonard",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-james",
+      "label":"James",
+      "type": "character"
+    },
+    {
+      "id":"character-sabrina_the_teenage_witch-aaron_jacobs",
+      "label":"Aaron Jacobs",
+      "type": "character"
+    },
+    {
+      "id":"show-you_wish",
+      "label":"You Wish",
+      "type": "tv-show"
+    },
+    {
+      "id":"show-teen_angel",
+      "label":"Teen Angel",
+      "type": "tv-show"
+    },
+    {
+      "id":"show-clueless",
+      "label":"Clueless",
+      "type": "tv-show"
+    },
+    {
       "id":"show-family_matters",
       "label":"Family Matters",
       "type": "tv-show"
@@ -944,136 +1074,6 @@
       "id": "character-austin_and_ally-dez",
       "label": "Dez",
       "type": "character"
-    },
-    {
-      "id":"show-sabrina_the_teenage_witch",
-      "label":"Sabrina, the Teenage Witch",
-      "type": "tv-show"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-sabrina_spellman",
-      "label":"Sabrina Spellman",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-salem_saberhagen",
-      "label":"Salem Saberhagen",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-hilda_spellman",
-      "label":"Hilda Spellman",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-zelda_spellman",
-      "label":"Zelda Spellman",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-harvey_kinkle",
-      "label":"Harvey Kinkle",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-libby_chessler",
-      "label":"Libby Chessler",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-jenny_kelley",
-      "label":"Jenny Kelley",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-mr_pool",
-      "label":"Mr Pool",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-willard_kraft",
-      "label":"Willard Kraft",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-valerie_birkhead",
-      "label":"Valerie Birkhead",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-quizmaster",
-      "label":"Quizmaster",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-josh_blackhart",
-      "label":"Josh Blackhart",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-brad_alcerro",
-      "label":"Brad Alcerro",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-dreama",
-      "label":"Dreama",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-roxie_king",
-      "label":"Roxie King",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-morgan_cavanaugh",
-      "label":"Morgan Cavanaugh",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-miles_goodman",
-      "label":"Miles Goodman",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-annie_martos",
-      "label":"Annie Martos",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-cole_harper",
-      "label":"Cole Harper",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-leonard",
-      "label":"Leonard",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-james",
-      "label":"James",
-      "type": "character"
-    },
-    {
-      "id":"character-sabrina_the_teenage_witch-aaron_jacobs",
-      "label":"Aaron Jacobs",
-      "type": "character"
-    },
-    {
-      "id":"show-you_wish",
-      "label":"You Wish",
-      "type": "tv-show"
-    },
-    {
-      "id":"show-teen_angel",
-      "label":"Teen Angel",
-      "type": "tv-show"
-    },
-    {
-      "id":"show-clueless",
-      "label":"Clueless",
-      "type": "tv-show"
     },
     {
       "id":"show-thats_so_raven",
