@@ -7099,6 +7099,18 @@
       "target": "show-austin_and_ally",
       "id": "character-jessie-jessie_prescott+show-austin_and_ally",
       "label": "Guest"
+    },
+    {
+      "source": "show-jessie",
+      "target": "show-good_luck_charlie",
+      "id": "show-jessie+show-good_luck_charlie",
+      "label": "Crossover"
+    },
+    {
+      "source": "show-good_luck_charlie",
+      "target": "show-jessie",
+      "id": "show-good_luck_charlie+show-jessie",
+      "label": "Crossover"
     }
   ]
 }
