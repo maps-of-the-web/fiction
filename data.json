@@ -7069,6 +7069,36 @@
       "target": "show-jessie",
       "id": "character-austin_and_ally-ally_dawson+show-jessie",
       "label": "Guest"
+    },
+    {
+      "source": "character-jessie-emma_ross",
+      "target": "show-austin_and_ally",
+      "id": "character-jessie-emma_ross+show-austin_and_ally",
+      "label": "Guest"
+    },
+    {
+      "source": "character-jessie-luke_ross",
+      "target": "show-austin_and_ally",
+      "id": "character-jessie-luke_ross+show-austin_and_ally",
+      "label": "Guest"
+    },
+    {
+      "source": "character-jessie-ravi_ross",
+      "target": "show-austin_and_ally",
+      "id": "character-jessie-ravi_ross+show-austin_and_ally",
+      "label": "Guest"
+    },
+    {
+      "source": "character-jessie-zuri_ross",
+      "target": "show-austin_and_ally",
+      "id": "character-jessie-zuri_ross+show-austin_and_ally",
+      "label": "Guest"
+    },
+    {
+      "source": "character-jessie-jessie_prescott",
+      "target": "show-austin_and_ally",
+      "id": "character-jessie-jessie_prescott+show-austin_and_ally",
+      "label": "Guest"
     }
   ]
 }
