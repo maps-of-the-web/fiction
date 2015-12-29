@@ -7351,6 +7351,24 @@
       "target": "character-jessie-jessie_prescott",
       "id": "character-austin_and_ally-dez+character-jessie-jessie_prescott",
       "label": "Know"
+    },
+    {
+      "source": "show-austin_and_ally",
+      "target": "show-i_didnt_do_it",
+      "id": "show-austin_and_ally+show-i_didnt_do_it",
+      "label": "Crossover"
+    },
+    {
+      "source": "character-austin_and_ally-dez",
+      "target": "show-i_didnt_do_it",
+      "id": "character-austin_and_ally-dez+show-i_didnt_do_it",
+      "label": "Guest"
+    },
+    {
+      "source": "character-austin_and_ally-trish",
+      "target": "show-i_didnt_do_it",
+      "id": "character-austin_and_ally-trish+show-i_didnt_do_it",
+      "label": "Guest"
     }
   ]
 }
