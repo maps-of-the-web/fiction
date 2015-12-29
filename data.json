@@ -7766,6 +7766,258 @@
       "target": "character-jessie-jessie_prescott",
       "id": "character-good_luck_charlie-pj_duncan+character-jessie-jessie_prescott",
       "label": "Acquaintance"
+    },
+    {
+      "source": "character-good_luck_charlie-pj_duncan",
+      "target": "character-good_luck_charlie-amy_duncan",
+      "id": "character-good_luck_charlie-pj_duncan+character-good_luck_charlie-amy_duncan",
+      "label": "Son"
+    },
+    {
+      "source": "character-good_luck_charlie-pj_duncan",
+      "target": "character-good_luck_charlie-bob_duncan",
+      "id": "character-good_luck_charlie-pj_duncan+character-good_luck_charlie-bob_duncan",
+      "label": "Son"
+    },
+    {
+      "source": "character-good_luck_charlie-pj_duncan",
+      "target": "character-good_luck_charlie-gabe_duncan",
+      "id": "character-good_luck_charlie-pj_duncan+character-good_luck_charlie-gabe_duncan",
+      "label": "Brother"
+    },
+    {
+      "source": "character-good_luck_charlie-pj_duncan",
+      "target": "character-good_luck_charlie-toby_duncan",
+      "id": "character-good_luck_charlie-pj_duncan+character-good_luck_charlie-toby_duncan",
+      "label": "Brother"
+    },
+    {
+      "source": "character-good_luck_charlie-pj_duncan",
+      "target": "character-good_luck_charlie-teddy_duncan",
+      "id": "character-good_luck_charlie-pj_duncan+character-good_luck_charlie-teddy_duncan",
+      "label": "Brother"
+    },
+    {
+      "source": "character-good_luck_charlie-pj_duncan",
+      "target": "character-good_luck_charlie-charlie_duncan",
+      "id": "character-good_luck_charlie-pj_duncan+character-good_luck_charlie-charlie_duncan",
+      "label": "Brother"
+    },
+    {
+      "source": "character-good_luck_charlie-amy_duncan",
+      "target": "character-good_luck_charlie-pj_duncan",
+      "id": "character-good_luck_charlie-amy_duncan+character-good_luck_charlie-pj_duncan",
+      "label": "Mother"
+    },
+    {
+      "source": "character-good_luck_charlie-amy_duncan",
+      "target": "character-good_luck_charlie-bob_duncan",
+      "id": "character-good_luck_charlie-amy_duncan+character-good_luck_charlie-bob_duncan",
+      "label": "Wife"
+    },
+    {
+      "source": "character-good_luck_charlie-amy_duncan",
+      "target": "character-good_luck_charlie-gabe_duncan",
+      "id": "character-good_luck_charlie-amy_duncan+character-good_luck_charlie-gabe_duncan",
+      "label": "Mother"
+    },
+    {
+      "source": "character-good_luck_charlie-amy_duncan",
+      "target": "character-good_luck_charlie-toby_duncan",
+      "id": "character-good_luck_charlie-amy_duncan+character-good_luck_charlie-toby_duncan",
+      "label": "Mother"
+    },
+    {
+      "source": "character-good_luck_charlie-amy_duncan",
+      "target": "character-good_luck_charlie-teddy_duncan",
+      "id": "character-good_luck_charlie-amy_duncan+character-good_luck_charlie-teddy_duncan",
+      "label": "Mother"
+    },
+    {
+      "source": "character-good_luck_charlie-amy_duncan",
+      "target": "character-good_luck_charlie-charlie_duncan",
+      "id": "character-good_luck_charlie-amy_duncan+character-good_luck_charlie-charlie_duncan",
+      "label": "Mother"
+    },
+    {
+      "source": "character-good_luck_charlie-bob_duncan",
+      "target": "character-good_luck_charlie-pj_duncan",
+      "id": "character-good_luck_charlie-bob_duncan+character-good_luck_charlie-pj_duncan",
+      "label": "Father"
+    },
+    {
+      "source": "character-good_luck_charlie-bob_duncan",
+      "target": "character-good_luck_charlie-amy_duncan",
+      "id": "character-good_luck_charlie-bob_duncan+character-good_luck_charlie-amy_duncan",
+      "label": "Husband"
+    },
+    {
+      "source": "character-good_luck_charlie-bob_duncan",
+      "target": "character-good_luck_charlie-gabe_duncan",
+      "id": "character-good_luck_charlie-bob_duncan+character-good_luck_charlie-gabe_duncan",
+      "label": "Father"
+    },
+    {
+      "source": "character-good_luck_charlie-bob_duncan",
+      "target": "character-good_luck_charlie-toby_duncan",
+      "id": "character-good_luck_charlie-bob_duncan+character-good_luck_charlie-toby_duncan",
+      "label": "Father"
+    },
+    {
+      "source": "character-good_luck_charlie-bob_duncan",
+      "target": "character-good_luck_charlie-teddy_duncan",
+      "id": "character-good_luck_charlie-bob_duncan+character-good_luck_charlie-teddy_duncan",
+      "label": "Father"
+    },
+    {
+      "source": "character-good_luck_charlie-bob_duncan",
+      "target": "character-good_luck_charlie-charlie_duncan",
+      "id": "character-good_luck_charlie-bob_duncan+character-good_luck_charlie-charlie_duncan",
+      "label": "Father"
+    },
+    {
+      "source": "character-good_luck_charlie-gabe_duncan",
+      "target": "character-good_luck_charlie-pj_duncan",
+      "id": "character-good_luck_charlie-gabe_duncan+character-good_luck_charlie-pj_duncan",
+      "label": "Brother"
+    },
+    {
+      "source": "character-good_luck_charlie-gabe_duncan",
+      "target": "character-good_luck_charlie-amy_duncan",
+      "id": "character-good_luck_charlie-gabe_duncan+character-good_luck_charlie-amy_duncan",
+      "label": "Son"
+    },
+    {
+      "source": "character-good_luck_charlie-gabe_duncan",
+      "target": "character-good_luck_charlie-bob_duncan",
+      "id": "character-good_luck_charlie-gabe_duncan+character-good_luck_charlie-bob_duncan",
+      "label": "Son"
+    },
+    {
+      "source": "character-good_luck_charlie-gabe_duncan",
+      "target": "character-good_luck_charlie-toby_duncan",
+      "id": "character-good_luck_charlie-gabe_duncan+character-good_luck_charlie-toby_duncan",
+      "label": "Brother"
+    },
+    {
+      "source": "character-good_luck_charlie-gabe_duncan",
+      "target": "character-good_luck_charlie-teddy_duncan",
+      "id": "character-good_luck_charlie-gabe_duncan+character-good_luck_charlie-teddy_duncan",
+      "label": "Brother"
+    },
+    {
+      "source": "character-good_luck_charlie-gabe_duncan",
+      "target": "character-good_luck_charlie-charlie_duncan",
+      "id": "character-good_luck_charlie-gabe_duncan+character-good_luck_charlie-charlie_duncan",
+      "label": "Brother"
+    },
+    {
+      "source": "character-good_luck_charlie-toby_duncan",
+      "target": "character-good_luck_charlie-pj_duncan",
+      "id": "character-good_luck_charlie-toby_duncan+character-good_luck_charlie-pj_duncan",
+      "label": "Brother"
+    },
+    {
+      "source": "character-good_luck_charlie-toby_duncan",
+      "target": "character-good_luck_charlie-amy_duncan",
+      "id": "character-good_luck_charlie-toby_duncan+character-good_luck_charlie-amy_duncan",
+      "label": "Son"
+    },
+    {
+      "source": "character-good_luck_charlie-toby_duncan",
+      "target": "character-good_luck_charlie-bob_duncan",
+      "id": "character-good_luck_charlie-toby_duncan+character-good_luck_charlie-bob_duncan",
+      "label": "Son"
+    },
+    {
+      "source": "character-good_luck_charlie-toby_duncan",
+      "target": "character-good_luck_charlie-gabe_duncan",
+      "id": "character-good_luck_charlie-toby_duncan+character-good_luck_charlie-gabe_duncan",
+      "label": "Brother"
+    },
+    {
+      "source": "character-good_luck_charlie-toby_duncan",
+      "target": "character-good_luck_charlie-teddy_duncan",
+      "id": "character-good_luck_charlie-toby_duncan+character-good_luck_charlie-teddy_duncan",
+      "label": "Brother"
+    },
+    {
+      "source": "character-good_luck_charlie-toby_duncan",
+      "target": "character-good_luck_charlie-charlie_duncan",
+      "id": "character-good_luck_charlie-toby_duncan+character-good_luck_charlie-charlie_duncan",
+      "label": "Brother"
+    },
+    {
+      "source": "character-good_luck_charlie-teddy_duncan",
+      "target": "character-good_luck_charlie-pj_duncan",
+      "id": "character-good_luck_charlie-teddy_duncan+character-good_luck_charlie-pj_duncan",
+      "label": "Sister"
+    },
+    {
+      "source": "character-good_luck_charlie-teddy_duncan",
+      "target": "character-good_luck_charlie-amy_duncan",
+      "id": "character-good_luck_charlie-teddy_duncan+character-good_luck_charlie-amy_duncan",
+      "label": "Daughter"
+    },
+    {
+      "source": "character-good_luck_charlie-teddy_duncan",
+      "target": "character-good_luck_charlie-bob_duncan",
+      "id": "character-good_luck_charlie-teddy_duncan+character-good_luck_charlie-bob_duncan",
+      "label": "Daughter"
+    },
+    {
+      "source": "character-good_luck_charlie-teddy_duncan",
+      "target": "character-good_luck_charlie-gabe_duncan",
+      "id": "character-good_luck_charlie-teddy_duncan+character-good_luck_charlie-gabe_duncan",
+      "label": "Sister"
+    },
+    {
+      "source": "character-good_luck_charlie-teddy_duncan",
+      "target": "character-good_luck_charlie-toby_duncan",
+      "id": "character-good_luck_charlie-teddy_duncan+character-good_luck_charlie-toby_duncan",
+      "label": "Sister"
+    },
+    {
+      "source": "character-good_luck_charlie-teddy_duncan",
+      "target": "character-good_luck_charlie-charlie_duncan",
+      "id": "character-good_luck_charlie-teddy_duncan+character-good_luck_charlie-charlie_duncan",
+      "label": "Sister"
+    },
+    {
+      "source": "character-good_luck_charlie-charlie_duncan",
+      "target": "character-good_luck_charlie-pj_duncan",
+      "id": "character-good_luck_charlie-charlie_duncan+character-good_luck_charlie-pj_duncan",
+      "label": "Sister"
+    },
+    {
+      "source": "character-good_luck_charlie-charlie_duncan",
+      "target": "character-good_luck_charlie-amy_duncan",
+      "id": "character-good_luck_charlie-charlie_duncan+character-good_luck_charlie-amy_duncan",
+      "label": "Daughter"
+    },
+    {
+      "source": "character-good_luck_charlie-charlie_duncan",
+      "target": "character-good_luck_charlie-bob_duncan",
+      "id": "character-good_luck_charlie-charlie_duncan+character-good_luck_charlie-bob_duncan",
+      "label": "Daughter"
+    },
+    {
+      "source": "character-good_luck_charlie-charlie_duncan",
+      "target": "character-good_luck_charlie-gabe_duncan",
+      "id": "character-good_luck_charlie-charlie_duncan+character-good_luck_charlie-gabe_duncan",
+      "label": "Sister"
+    },
+    {
+      "source": "character-good_luck_charlie-charlie_duncan",
+      "target": "character-good_luck_charlie-toby_duncan",
+      "id": "character-good_luck_charlie-charlie_duncan+character-good_luck_charlie-toby_duncan",
+      "label": "Sister"
+    },
+    {
+      "source": "character-good_luck_charlie-charlie_duncan",
+      "target": "character-good_luck_charlie-teddy_duncan",
+      "id": "character-good_luck_charlie-charlie_duncan+character-good_luck_charlie-teddy_duncan",
+      "label": "Sister"
     }
   ]
 }
