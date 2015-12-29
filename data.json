@@ -7682,6 +7682,18 @@
       "target": "character-boy_meets_world-cory_matthews",
       "id": "character-girl_meets_world-lucas_friar+character-boy_meets_world-cory_matthews",
       "label": "Student"
+    },
+    {
+      "source": "character-good_luck_charlie-teddy_duncan",
+      "target": "show-jessie",
+      "id": "character-good_luck_charlie-teddy_duncan+show-jessie",
+      "label": "Guest"
+    },
+    {
+      "source": "character-good_luck_charlie-pj_duncan",
+      "target": "show-jessie",
+      "id": "character-good_luck_charlie-pj_duncan+show-jessie",
+      "label": "Guest"
     }
   ]
 }
