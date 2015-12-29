@@ -1331,11 +1331,6 @@
       "type": "tv-show"
     },
     {
-      "id":"show-peter_punk",
-      "label":"Peter Punk",
-      "type": "tv-show"
-    },
-    {
       "id":"show-ant_farm",
       "label":"A.N.T. Farm",
       "type": "tv-show"
@@ -1348,11 +1343,6 @@
     {
       "id":"show-lab_rats",
       "label":"Lab Rats",
-      "type": "tv-show"
-    },
-    {
-      "id":"show-violetta",
-      "label":"Violetta",
       "type": "tv-show"
     },
     {
