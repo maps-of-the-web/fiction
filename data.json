@@ -1086,6 +1086,11 @@
       "marvel_multiverse_reality_number": "Earth-12041"
     },
     {
+      "id": "show-phineas_and_ferb",
+      "label": "Phineas and Ferb",
+      "type": "tv-show"
+    },
+    {
       "id":"show-kc_undercover",
       "label":"KC Undercover",
       "type": "tv-show"
@@ -7552,6 +7557,18 @@
       "target": "show-guardians_of_the_galaxy",
       "id": "movie-super_hero_adventures_frost_fight+show-guardians_of_the_galaxy",
       "label": "Shared Marvel Universe (Earth-12041)"
+    },
+    {
+      "source": "show-ultimate_spider_man",
+      "target": "show-phineas_and_ferb",
+      "id": "show-ultimate_spider_man+show-phineas_and_ferb",
+      "label": "Crossover"
+    },
+    {
+      "source": "show-avengers_assemble",
+      "target": "show-phineas_and_ferb",
+      "id": "show-avengers_assemble+show-phineas_and_ferb",
+      "label": "Crossover"
     }
   ]
 }
