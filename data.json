@@ -1216,6 +1216,11 @@
       "type": "character"
     },
     {
+      "id":"show-ant_farm",
+      "label":"A.N.T. Farm",
+      "type": "tv-show"
+    },
+    {
       "id":"show-hannah_montana",
       "label":"Hannah Montana",
       "type": "tv-show"
@@ -1328,11 +1333,6 @@
     {
       "id":"show-pair_of_kings",
       "label":"Pair of Kings",
-      "type": "tv-show"
-    },
-    {
-      "id":"show-ant_farm",
-      "label":"A.N.T. Farm",
       "type": "tv-show"
     },
     {
