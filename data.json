@@ -1336,16 +1336,6 @@
       "type": "tv-show"
     },
     {
-      "id":"show-pair_of_kings",
-      "label":"Pair of Kings",
-      "type": "tv-show"
-    },
-    {
-      "id":"show-kickin_it",
-      "label":"Kickin' It",
-      "type": "tv-show"
-    },
-    {
       "id":"show-lab_rats",
       "label":"Lab Rats",
       "type": "tv-show"
@@ -1353,11 +1343,6 @@
     {
       "id":"show-mighty_med",
       "label":"Mighty Med",
-      "type": "tv-show"
-    },
-    {
-      "id":"show-kirby_buckets",
-      "label":"Kirby Buckets",
       "type": "tv-show"
     },
     {
