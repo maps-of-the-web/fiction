@@ -7646,6 +7646,42 @@
       "target": "show-good_luck_charlie",
       "id": "character-good_luck_charlie-toby_duncan+show-good_luck_charlie",
       "label": "Main Character"
+    },
+    {
+      "source": "character-boy_meets_world-cory_matthews",
+      "target": "character-girl_meets_world-maya_hart",
+      "id": "character-boy_meets_world-cory_matthews+character-girl_meets_world-maya_hart",
+      "label": "Teacher"
+    },
+    {
+      "source": "character-boy_meets_world-cory_matthews",
+      "target": "character-girl_meets_world-farkle_minkus",
+      "id": "character-boy_meets_world-cory_matthews+character-girl_meets_world-farkle_minkus",
+      "label": "Teacher"
+    },
+    {
+      "source": "character-boy_meets_world-cory_matthews",
+      "target": "character-girl_meets_world-lucas_friar",
+      "id": "character-boy_meets_world-cory_matthews+character-girl_meets_world-lucas_friar",
+      "label": "Teacher"
+    },
+    {
+      "source": "character-girl_meets_world-maya_hart",
+      "target": "character-boy_meets_world-cory_matthews",
+      "id": "character-girl_meets_world-maya_hart+character-boy_meets_world-cory_matthews",
+      "label": "Student"
+    },
+    {
+      "source": "character-girl_meets_world-farkle_minkus",
+      "target": "character-boy_meets_world-cory_matthews",
+      "id": "character-girl_meets_world-farkle_minkus+character-boy_meets_world-cory_matthews",
+      "label": "Student"
+    },
+    {
+      "source": "character-girl_meets_world-lucas_friar",
+      "target": "character-boy_meets_world-cory_matthews",
+      "id": "character-girl_meets_world-lucas_friar+character-boy_meets_world-cory_matthews",
+      "label": "Student"
     }
   ]
 }
