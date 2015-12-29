@@ -1051,6 +1051,11 @@
       "type": "tv-show"
     },
     {
+      "id": "show-ultimate_spider_man",
+      "label": "Ultimate Spider-Man",
+      "type": "tv-show"
+    },
+    {
       "id":"show-kc_undercover",
       "label":"KC Undercover",
       "type": "tv-show"
@@ -7361,6 +7366,42 @@
       "target": "show-ant_farm",
       "id": "character-suite_life_on_deck-hashimoto+show-ant_farm",
       "label": "Recurring Character"
+    },
+    {
+      "source": "show-jessie",
+      "target": "show-ultimate_spider_man",
+      "id": "show-jessie+show-ultimate_spider_man",
+      "label": "Crossover"
+    },
+    {
+      "source": "character-jessie-emma_ross",
+      "target": "show-ultimate_spider_man",
+      "id": "character-jessie-emma_ross+show-ultimate_spider_man",
+      "label": "Guest"
+    },
+    {
+      "source": "character-jessie-luke_ross",
+      "target": "show-ultimate_spider_man",
+      "id": "character-jessie-luke_ross+show-ultimate_spider_man",
+      "label": "Guest"
+    },
+    {
+      "source": "character-jessie-ravi_ross",
+      "target": "show-ultimate_spider_man",
+      "id": "character-jessie-ravi_ross+show-ultimate_spider_man",
+      "label": "Guest"
+    },
+    {
+      "source": "character-jessie-zuri_ross",
+      "target": "show-ultimate_spider_man",
+      "id": "character-jessie-zuri_ross+show-ultimate_spider_man",
+      "label": "Guest"
+    },
+    {
+      "source": "character-jessie-jessie_prescott",
+      "target": "show-ultimate_spider_man",
+      "id": "character-jessie-jessie_prescott+show-ultimate_spider_man",
+      "label": "Guest"
     }
   ]
 }
