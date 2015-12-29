@@ -1501,6 +1501,41 @@
       "type": "tv-show"
     },
     {
+      "id": "character-shake_it_up-cece_jones",
+      "label": "CeCe Jones",
+      "type": "character"
+    },
+    {
+      "id": "character-shake_it_up-rocky_blue",
+      "label": "Rocky Blue",
+      "type": "character"
+    },
+    {
+      "id": "character-shake_it_up-flynn_jones",
+      "label": "Flynn Jones",
+      "type": "character"
+    },
+    {
+      "id": "character-shake_it_up-ty_blue",
+      "label": "Ty Blue",
+      "type": "character"
+    },
+    {
+      "id": "character-shake_it_up-deuce_martinez",
+      "label": "Deuce Martinez",
+      "type": "character"
+    },
+    {
+      "id": "character-shake_it_up-gunther_hessenheffer",
+      "label": "Gunther Hessenheffer",
+      "type": "character"
+    },
+    {
+      "id": "character-shake_it_up-tinka_hessenheffer",
+      "label": "Tinka Hessenheffer",
+      "type": "character"
+    },
+    {
       "id":"show-dick_van_dyke_show",
       "label":"Dick Van Dyke Show",
       "type": "tv-show"
@@ -8018,6 +8053,48 @@
       "target": "character-good_luck_charlie-teddy_duncan",
       "id": "character-good_luck_charlie-charlie_duncan+character-good_luck_charlie-teddy_duncan",
       "label": "Sister"
+    },
+    {
+      "source": "character-shake_it_up-ty_blue",
+      "target": "show-shake_it_up",
+      "id": "character-shake_it_up-ty_blue+show-shake_it_up",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-shake_it_up-cece_jones",
+      "target": "show-shake_it_up",
+      "id": "character-shake_it_up-cece_jones+show-shake_it_up",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-shake_it_up-rocky_blue",
+      "target": "show-shake_it_up",
+      "id": "character-shake_it_up-rocky_blue+show-shake_it_up",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-shake_it_up-flynn_jones",
+      "target": "show-shake_it_up",
+      "id": "character-shake_it_up-flynn_jones+show-shake_it_up",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-shake_it_up-deuce_martinez",
+      "target": "show-shake_it_up",
+      "id": "character-shake_it_up-deuce_martinez+show-shake_it_up",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-shake_it_up-tinka_hessenheffer",
+      "target": "show-shake_it_up",
+      "id": "character-shake_it_up-tinka_hessenheffer+show-shake_it_up",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-shake_it_up-gunther_hessenheffer",
+      "target": "show-shake_it_up",
+      "id": "character-shake_it_up-gunther_hessenheffer+show-shake_it_up",
+      "label": "Main Character"
     }
   ]
 }
