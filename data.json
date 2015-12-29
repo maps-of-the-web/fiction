@@ -6973,6 +6973,78 @@
       "target": "show-jessie",
       "id": "show-austin_and_ally+show-jessie",
       "label": "Crossover"
+    },
+    {
+      "source": "character-jessie-emma_ross",
+      "target": "character-jessie-luke_ross",
+      "id": "character-jessie-emma_ross+character-jessie-luke_ross",
+      "label": "Sister"
+    },
+    {
+      "source": "character-jessie-emma_ross",
+      "target": "character-jessie-ravi_ross",
+      "id": "character-jessie-emma_ross+character-jessie-ravi_ross",
+      "label": "Sister"
+    },
+    {
+      "source": "character-jessie-emma_ross",
+      "target": "character-jessie-zuri_ross",
+      "id": "character-jessie-emma_ross+character-jessie-zuri_ross",
+      "label": "Sister"
+    },
+    {
+      "source": "character-jessie-luke_ross",
+      "target": "character-jessie-emma_ross",
+      "id": "character-jessie-luke_ross+character-jessie-emma_ross",
+      "label": "Brother"
+    },
+    {
+      "source": "character-jessie-luke_ross",
+      "target": "character-jessie-ravi_ross",
+      "id": "character-jessie-luke_ross+character-jessie-ravi_ross",
+      "label": "Brother"
+    },
+    {
+      "source": "character-jessie-luke_ross",
+      "target": "character-jessie-zuri_ross",
+      "id": "character-jessie-luke_ross+character-jessie-zuri_ross",
+      "label": "Brother"
+    },
+    {
+      "source": "character-jessie-ravi_ross",
+      "target": "character-jessie-emma_ross",
+      "id": "character-jessie-ravi_ross+character-jessie-emma_ross",
+      "label": "Brother"
+    },
+    {
+      "source": "character-jessie-ravi_ross",
+      "target": "character-jessie-luke_ross",
+      "id": "character-jessie-ravi_ross+character-jessie-luke_ross",
+      "label": "Brother"
+    },
+    {
+      "source": "character-jessie-ravi_ross",
+      "target": "character-jessie-zuri_ross",
+      "id": "character-jessie-ravi_ross+character-jessie-zuri_ross",
+      "label": "Brother"
+    },
+    {
+      "source": "character-jessie-zuri_ross",
+      "target": "character-jessie-emma_ross",
+      "id": "character-jessie-zuri_ross+character-jessie-emma_ross",
+      "label": "Sister"
+    },
+    {
+      "source": "character-jessie-zuri_ross",
+      "target": "character-jessie-luke_ross",
+      "id": "character-jessie-zuri_ross+character-jessie-luke_ross",
+      "label": "Sister"
+    },
+    {
+      "source": "character-jessie-zuri_ross",
+      "target": "character-jessie-ravi_ross",
+      "id": "character-jessie-zuri_ross+character-jessie-ravi_ross",
+      "label": "Sister"
     }
   ]
 }
