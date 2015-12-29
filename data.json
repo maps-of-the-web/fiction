@@ -916,6 +916,11 @@
       "type": "character"
     },
     {
+      "id":"show-bunkd",
+      "label":"Bunk'd",
+      "type": "tv-show"
+    },
+    {
       "id":"show-austin_and_ally",
       "label":"Austin & Ally",
       "type": "tv-show"
@@ -1353,11 +1358,6 @@
     {
       "id":"show-kirby_buckets",
       "label":"Kirby Buckets",
-      "type": "tv-show"
-    },
-    {
-      "id":"show-bunkd",
-      "label":"Bunk'd",
       "type": "tv-show"
     },
     {
