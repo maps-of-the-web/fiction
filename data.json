@@ -1018,27 +1018,32 @@
     {
       "id": "character-jessie-jessie_prescott",
       "label": "Jessie Prescott",
-      "type": "character"
+      "type": "character",
+      "marvel_multiverse_reality_number": "Earth-12041"
     },
     {
       "id": "character-jessie-emma_ross",
       "label": "Emma Ross",
-      "type": "character"
+      "type": "character",
+      "marvel_multiverse_reality_number": "Earth-12041"
     },
     {
       "id": "character-jessie-luke_ross",
       "label": "Luke Ross",
-      "type": "character"
+      "type": "character",
+      "marvel_multiverse_reality_number": "Earth-12041"
     },
     {
       "id": "character-jessie-ravi_ross",
       "label": "Ravi Ross",
-      "type": "character"
+      "type": "character",
+      "marvel_multiverse_reality_number": "Earth-12041"
     },
     {
       "id": "character-jessie-zuri_ross",
       "label": "Zuri Ross",
-      "type": "character"
+      "type": "character",
+      "marvel_multiverse_reality_number": "Earth-12041"
     },
     {
       "id": "character-jessie-bertram",
@@ -1053,7 +1058,8 @@
     {
       "id": "show-ultimate_spider_man",
       "label": "Ultimate Spider-Man",
-      "type": "tv-show"
+      "type": "tv-show",
+      "marvel_multiverse_reality_number": "Earth-12041"
     },
     {
       "id":"show-kc_undercover",
