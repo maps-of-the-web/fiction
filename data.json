@@ -1211,6 +1211,11 @@
       "type": "character"
     },
     {
+      "id": "character-suite_life_on_deck-hashimoto",
+      "label": "Mr. Hashimoto",
+      "type": "character"
+    },
+    {
       "id":"show-hannah_montana",
       "label":"Hannah Montana",
       "type": "tv-show"
@@ -7369,6 +7374,18 @@
       "target": "show-i_didnt_do_it",
       "id": "character-austin_and_ally-trish+show-i_didnt_do_it",
       "label": "Guest"
+    },
+    {
+      "source": "character-suite_life_on_deck-hashimoto",
+      "target": "show-suite_life_on_deck",
+      "id": "character-suite_life_on_deck-hashimoto+show-suite_life_on_deck",
+      "label": "Minor Character"
+    },
+    {
+      "source": "character-suite_life_on_deck-hashimoto",
+      "target": "show-ant_farm",
+      "id": "character-suite_life_on_deck-hashimoto+show-ant_farm",
+      "label": "Recurring Character"
     }
   ]
 }
