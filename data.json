@@ -1051,6 +1051,16 @@
       "type": "tv-show"
     },
     {
+      "id":"show-kc_undercover",
+      "label":"KC Undercover",
+      "type": "tv-show"
+    },
+    {
+      "id":"show-good_luck_charlie",
+      "label":"Good Luck Charlie",
+      "type": "tv-show"
+    },
+    {
       "id":"show-austin_and_ally",
       "label":"Austin & Ally",
       "type": "tv-show"
@@ -1074,6 +1084,11 @@
       "id": "character-austin_and_ally-dez",
       "label": "Dez",
       "type": "character"
+    },
+    {
+      "id":"show-i_didnt_do_it",
+      "label":"I Didn't Do It",
+      "type": "tv-show"
     },
     {
       "id":"show-thats_so_raven",
@@ -1331,11 +1346,6 @@
       "type": "character"
     },
     {
-      "id":"show-good_luck_charlie",
-      "label":"Good Luck Charlie",
-      "type": "tv-show"
-    },
-    {
       "id":"show-lab_rats",
       "label":"Lab Rats",
       "type": "tv-show"
@@ -1343,16 +1353,6 @@
     {
       "id":"show-mighty_med",
       "label":"Mighty Med",
-      "type": "tv-show"
-    },
-    {
-      "id":"show-i_didnt_do_it",
-      "label":"I Didn't Do It",
-      "type": "tv-show"
-    },
-    {
-      "id":"show-kc_undercover",
-      "label":"KC Undercover",
       "type": "tv-show"
     },
     {
