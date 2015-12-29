@@ -7694,6 +7694,78 @@
       "target": "show-jessie",
       "id": "character-good_luck_charlie-pj_duncan+show-jessie",
       "label": "Guest"
+    },
+    {
+      "source": "character-good_luck_charlie-teddy_duncan",
+      "target": "character-jessie-bertram",
+      "id": "character-good_luck_charlie-teddy_duncan+character-jessie-bertram",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-good_luck_charlie-teddy_duncan",
+      "target": "character-jessie-emma_ross",
+      "id": "character-good_luck_charlie-teddy_duncan+character-jessie-emma_ross",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-good_luck_charlie-teddy_duncan",
+      "target": "character-jessie-luke_ross",
+      "id": "character-good_luck_charlie-teddy_duncan+character-jessie-luke_ross",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-good_luck_charlie-teddy_duncan",
+      "target": "character-jessie-ravi_ross",
+      "id": "character-good_luck_charlie-teddy_duncan+character-jessie-ravi_ross",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-good_luck_charlie-teddy_duncan",
+      "target": "character-jessie-zuri_ross",
+      "id": "character-good_luck_charlie-teddy_duncan+character-jessie-zuri_ross",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-good_luck_charlie-teddy_duncan",
+      "target": "character-jessie-jessie_prescott",
+      "id": "character-good_luck_charlie-teddy_duncan+character-jessie-jessie_prescott",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-good_luck_charlie-pj_duncan",
+      "target": "character-jessie-bertram",
+      "id": "character-good_luck_charlie-pj_duncan+character-jessie-bertram",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-good_luck_charlie-pj_duncan",
+      "target": "character-jessie-emma_ross",
+      "id": "character-good_luck_charlie-pj_duncan+character-jessie-emma_ross",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-good_luck_charlie-pj_duncan",
+      "target": "character-jessie-luke_ross",
+      "id": "character-good_luck_charlie-pj_duncan+character-jessie-luke_ross",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-good_luck_charlie-pj_duncan",
+      "target": "character-jessie-ravi_ross",
+      "id": "character-good_luck_charlie-pj_duncan+character-jessie-ravi_ross",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-good_luck_charlie-pj_duncan",
+      "target": "character-jessie-zuri_ross",
+      "id": "character-good_luck_charlie-pj_duncan+character-jessie-zuri_ross",
+      "label": "Acquaintance"
+    },
+    {
+      "source": "character-good_luck_charlie-pj_duncan",
+      "target": "character-jessie-jessie_prescott",
+      "id": "character-good_luck_charlie-pj_duncan+character-jessie-jessie_prescott",
+      "label": "Acquaintance"
     }
   ]
 }
