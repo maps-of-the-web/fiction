@@ -34,6 +34,10 @@ function colorNode(node) {
     case "movie":
       node.color = styleBySelector["#graph.movie-node"].color || '#388E3C';
       break;
+    case "book":
+      node.color = styleBySelector["#graph.book-node"].color || '#FBC100';
+    case "comic":
+      node.color = styleBySelector["#graph.comic-node"].color || '#F57D00';
     default:
       node.color = styleBySelector["#graph.unknown-node"].color || '#C21F5D';
       break;
