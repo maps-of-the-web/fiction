@@ -1101,6 +1101,41 @@
       "type": "tv-show"
     },
     {
+      "id": "character-good_luck_charlie-teddy_duncan",
+      "label": "Teddy Duncan",
+      "type": "character"
+    },
+    {
+      "id": "character-good_luck_charlie-amy_duncan",
+      "label": "Amy Duncan",
+      "type": "character"
+    },
+    {
+      "id": "character-good_luck_charlie-charlie_duncan",
+      "label": "Charlie Duncan",
+      "type": "character"
+    },
+    {
+      "id": "character-good_luck_charlie-bob_duncan",
+      "label": "Bob Duncan",
+      "type": "character"
+    },
+    {
+      "id": "character-good_luck_charlie-pj_duncan",
+      "label": "PJ Duncan",
+      "type": "character"
+    },
+    {
+      "id": "character-good_luck_charlie-gabe_duncan",
+      "label": "Gabe Duncan",
+      "type": "character"
+    },
+    {
+      "id": "character-good_luck_charlie-toby_duncan",
+      "label": "Toby Duncan",
+      "type": "character"
+    },
+    {
       "id":"show-austin_and_ally",
       "label":"Austin & Ally",
       "type": "tv-show"
@@ -7569,6 +7604,48 @@
       "target": "show-phineas_and_ferb",
       "id": "show-avengers_assemble+show-phineas_and_ferb",
       "label": "Crossover"
+    },
+    {
+      "source": "character-good_luck_charlie-teddy_duncan",
+      "target": "show-good_luck_charlie",
+      "id": "character-good_luck_charlie-teddy_duncan+show-good_luck_charlie",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-good_luck_charlie-amy_duncan",
+      "target": "show-good_luck_charlie",
+      "id": "character-good_luck_charlie-amy_duncan+show-good_luck_charlie",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-good_luck_charlie-gabe_duncan",
+      "target": "show-good_luck_charlie",
+      "id": "character-good_luck_charlie-gabe_duncan+show-good_luck_charlie",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-good_luck_charlie-charlie_duncan",
+      "target": "show-good_luck_charlie",
+      "id": "character-good_luck_charlie-charlie_duncan+show-good_luck_charlie",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-good_luck_charlie-bob_duncan",
+      "target": "show-good_luck_charlie",
+      "id": "character-good_luck_charlie-bob_duncan+show-good_luck_charlie",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-good_luck_charlie-pj_duncan",
+      "target": "show-good_luck_charlie",
+      "id": "character-good_luck_charlie-pj_duncan+show-good_luck_charlie",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-good_luck_charlie-toby_duncan",
+      "target": "show-good_luck_charlie",
+      "id": "character-good_luck_charlie-toby_duncan+show-good_luck_charlie",
+      "label": "Main Character"
     }
   ]
 }
