@@ -2064,6 +2064,231 @@
       "id": "show-flashforward",
       "label": "FlashForward",
       "type": "tv-show"
+    },
+    {
+      "id": "show-24",
+      "label": "24",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-90210",
+      "label": "90210",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-704_hauser",
+      "label": "704 Hauser",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-addams_family",
+      "label": "The Addams Family",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-adventures_of_superman",
+      "label": "The Adventures of Superman",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-aftermash",
+      "label": "AfterM*A*S*H",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-alf",
+      "label": "ALF",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-alias",
+      "label": "Alias",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-all_in_the_family",
+      "label": "All in the Family",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-ally",
+      "label": "Ally",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-alphas",
+      "label": "Alphas",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-american_horror_story_murder_house",
+      "label": "American Horror Story: Murder House",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-americans",
+      "label": "The Americans",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-amos_burke_secret_agent",
+      "label": "Amos Burke - Secret Agent",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-andy_barker_pi",
+      "label": "Andy Barker, P.I.",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-andy_griffith_show",
+      "label": "The Andy Griffith Show",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-angel",
+      "label": "Angel",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-anne_sothern_show",
+      "label": "The Anne Sothern Show",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-archie_bunkers_place",
+      "label": "Archie Bunker's Place",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-arrow",
+      "label": "Arrow",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-art_of_being_nick",
+      "label": "The Art of Being Nick",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-batman",
+      "label": "Batman",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-battlestar_galactica_2003",
+      "label": "Battlestar Galactica (2003)",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-benson",
+      "label": "Benson",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-better_call_saul",
+      "label": "Better Call Saul",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-beverly_hillbillies",
+      "label": "The Beverly Hillbillies",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-beverly_hills_90210",
+      "label": "Beverly Hills 90210",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-beverly_hills_buntz",
+      "label": "Beverly Hills Buntz",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-bewitched",
+      "label": "Bewitched",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-bill_dana_show",
+      "label": "The Bill Dana Show",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-blanskys_beauties",
+      "label": "Blansky's Beauties",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-blossom",
+      "label": "Blossom",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-blue_bloods",
+      "label": "Blue Bloods",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-blue_skies",
+      "label": "Blue Skies",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-bob",
+      "label": "Bob",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-bob_cummings_show",
+      "label": "The Bob Cummings Show",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-bold_and_the_beautiful",
+      "label": "The Bold and the Beautiful",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-boston_legal",
+      "label": "Boston Legal",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-brady_brides",
+      "label": "The Brady Brides",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-brady_bunch_variety_hour",
+      "label": "The Brady Bunch Variety Hour",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-brady_bunch",
+      "label": "The Brady Bunch",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-bradys",
+      "label": "The Bradys",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-breaking_bad",
+      "label": "Breaking Bad",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-buddies",
+      "label": "Buddies",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-buffy_the_vampire_slayer",
+      "label": "Buffy the Vampire Slayer",
+      "type": "tv-show"
     }
   ],
   "edges": [
