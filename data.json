@@ -2951,7 +2951,7 @@
       "type": "tv-show"
     },
     {
-      "id": "show-mary_tyler_moorie_show",
+      "id": "show-mary_tyler_moore_show",
       "label": "The Mary Tyler Moore Show",
       "type": "tv-show"
     },
@@ -9887,6 +9887,72 @@
       "target": "show-degrassi_next_class",
       "id": "show-degrassi_the_next_generation+show-degrassi_next_class",
       "label": "Spin-Off"
+    },
+    {
+      "source": "show-heroes",
+      "target": "show-heroes_reborn",
+      "id": "show-heroes+show-heroes_reborn",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-lucy",
+      "target": "show-hi_honey_im_home",
+      "id": "show-lucy+show-hi_honey_im_home",
+      "label": "Crossover"
+    },
+    {
+      "source": "show-leave_it_to_beaver",
+      "target": "show-hi_honey_im_home",
+      "id": "show-leave_it_to_beaver+show-hi_honey_im_home",
+      "label": "Crossover"
+    },
+    {
+      "source": "show-honeymooners",
+      "target": "show-hi_honey_im_home",
+      "id": "show-honeymooners+show-hi_honey_im_home",
+      "label": "Crossover"
+    },
+    {
+      "source": "show-gomer_pyle_usmc",
+      "target": "show-hi_honey_im_home",
+      "id": "show-gomer_pyle_usmc+show-hi_honey_im_home",
+      "label": "Crossover"
+    },
+    {
+      "source": "show-munsters",
+      "target": "show-hi_honey_im_home",
+      "id": "show-munsters+show-hi_honey_im_home",
+      "label": "Crossover"
+    },
+    {
+      "source": "show-brady_bunch",
+      "target": "show-hi_honey_im_home",
+      "id": "show-brady_bunch+show-hi_honey_im_home",
+      "label": "Crossover"
+    },
+    {
+      "source": "show-green_acres",
+      "target": "show-hi_honey_im_home",
+      "id": "show-green_acres+show-hi_honey_im_home",
+      "label": "Crossover"
+    },
+    {
+      "source": "show-mary_tyler_moore_show",
+      "target": "show-hi_honey_im_home",
+      "id": "show-mary_tyler_moore_show+show-hi_honey_im_home",
+      "label": "Crossover"
+    },
+    {
+      "source": "show-dick_van_dyke_show",
+      "target": "show-hi_honey_im_home",
+      "id": "show-dick_van_dyke_show+show-hi_honey_im_home",
+      "label": "Crossover"
+    },
+    {
+      "source": "show-many_loves_of_dobie_gillis",
+      "target": "show-hi_honey_im_home",
+      "id": "show-many_loves_of_dobie_gillis+show-hi_honey_im_home",
+      "label": "Crossover"
     }
   ]
 }
