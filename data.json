@@ -2531,11 +2531,6 @@
       "type": "tv-show"
     },
     {
-      "id": "show-first_monday",
-      "label": "First Monday",
-      "type": "tv-show"
-    },
-    {
       "id": "show-flying_nun",
       "label": "The Flying Nun",
       "type": "tv-show"
