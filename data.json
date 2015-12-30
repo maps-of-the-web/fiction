@@ -2391,8 +2391,8 @@
       "type": "tv-show"
     },
     {
-      "id": "show-degrassi_high",
-      "label": "Degrassi High",
+      "id": "show-kids_of_degrassi_st",
+      "label": "Kids of Degrassi St",
       "type": "tv-show"
     },
     {
@@ -2401,8 +2401,18 @@
       "type": "tv-show"
     },
     {
-      "id": "show-degrasso_the_next_generation",
+      "id": "show-degrassi_high",
+      "label": "Degrassi High",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-degrassi_the_next_generation",
       "label": "Degrassi: The Next Generation",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-degrassi_next_class",
+      "label": "Degrassi: Next Class",
       "type": "tv-show"
     },
     {
@@ -2808,11 +2818,6 @@
     {
       "id": "show-karen-sisco",
       "label": "Karen Sisco",
-      "type": "tv-show"
-    },
-    {
-      "id": "show-kids_of_degrassi_st",
-      "label": "Kids of Degrassi St",
       "type": "tv-show"
     },
     {
@@ -9857,6 +9862,30 @@
       "source": "show-k9_and_company",
       "target": "show-sarah_jane_adventures",
       "id": "show-k9_and_company+show-sarah_jane_adventures",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-kids_of_degrassi_st",
+      "target": "show-degrassi_junior_high",
+      "id": "show-kids_of_degrassi_st+show-degrassi_junior_high",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-degrassi_junior_high",
+      "target": "show-degrassi_high",
+      "id": "show-degrassi_junior_high+show-degrassi_high",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-degrassi_high",
+      "target": "show-degrassi_the_next_generation",
+      "id": "show-degrassi_high+show-degrassi_the_next_generation",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-degrassi_the_next_generation",
+      "target": "show-degrassi_next_class",
+      "id": "show-degrassi_the_next_generation+show-degrassi_next_class",
       "label": "Spin-Off"
     }
   ]
