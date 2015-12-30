@@ -1706,13 +1706,43 @@
       "type": "tv-show"
     },
     {
+      "id": "show-ncis",
+      "label": "NCIS",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-ncis_new_orleans",
+      "label": "NCIS: New Orleans",
+      "type": "tv-show"
+    },
+    {
       "id":"show-ncis_los_angeles",
       "label":"NCIS: Los Angeles",
       "type": "tv-show"
     },
     {
+      "id": "show-scorpion",
+      "label": "Scorpion",
+      "type": "tv-show"
+    },
+    {
       "id":"show-hawaii_five_0",
       "label":"Hawaii Five-0",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-arrow",
+      "label": "Arrow",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-flash",
+      "label": "The Flash",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-legends_of_tomorrow",
+      "label": "DC's Legends of Tomorrow",
       "type": "tv-show"
     },
     {
@@ -1726,8 +1756,33 @@
       "type": "tv-show"
     },
     {
+      "id": "show-chicago_med",
+      "label": "Chicago Med",
+      "type": "tv-show"
+    },
+    {
       "id":"show-law_and_order_special_victims_unit",
       "label":"Law & Order: Special Victims Unit",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-paris_section_criminelles",
+      "label": "Paris enquêtes criminelles",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-law_and_order_criminal_intent",
+      "label": "Law & Order: Criminal Intent",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-in_plain_sight",
+      "label": "In Plain Sight",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-jo",
+      "label": "Jo",
       "type": "tv-show"
     },
     {
@@ -1876,6 +1931,31 @@
       "type": "character"
     },
     {
+      "id": "show-castle",
+      "label": "Castle",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-cosby_show",
+      "label": "The Cosby Show",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-tru_calling",
+      "label": "Tru Calling",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-law_and_order_uk",
+      "label": "Law & Order U.K.",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-law_and_order_la",
+      "label": "Law & Order L.A.",
+      "type": "tv-show"
+    },
+    {
       "id":"show-chicago_hope",
       "label":"Chicago Hope",
       "type": "tv-show"
@@ -1908,6 +1988,81 @@
     {
       "id":"show-x_files",
       "label":"The X-Files",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-doctor_who",
+      "label": "Doctor Who",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-k9_and_company",
+      "label": "K9 and Company",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-sarah_jane_adventures",
+      "label": "Sarah Jane Adventures",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-torchwood",
+      "label": "Torchwood",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-chelmsford_123",
+      "label": "Chelmsford 123",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-luther",
+      "label": "Luther",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-jag",
+      "label": "JAG",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-first_monday",
+      "label": "First Monday",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-lax",
+      "label": "LAX",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-lost",
+      "label": "Lost",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-kingdom_hospital",
+      "label": "Kingdom Hospital",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-chuck",
+      "label": "Chuck",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-glee",
+      "label": "Glee",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-war_at_home",
+      "label": "War at Home",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-flashforward",
+      "label": "FlashForward",
       "type": "tv-show"
     }
   ],
