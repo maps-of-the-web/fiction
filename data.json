@@ -2704,6 +2704,321 @@
       "id": "show-hogans_heroes",
       "label": "Hogan’s Heroes",
       "type": "tv-show"
+    },
+    {
+      "id": "show-home_improvement",
+      "label": "Home Improvement",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-honey_west",
+      "label": "Honey West",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-honeymooners",
+      "label": "The Honeymooners",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-huff",
+      "label": "Huff",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-i_dream_of_jeannie",
+      "label": "I Dream Of Jeannie",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-i_love_lucy",
+      "label": "I Love Lucy",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-in_plain_sight",
+      "label": "In Plain Sight",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-in_the_house",
+      "label": "In the House",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-ink",
+      "label": "Ink",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-its_alwasys_sunny_in_philadelphia",
+      "label": "It’s Always Sunny in Philadelphia",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-its_gary_shandlings_show",
+      "label": "It’s Gary Shandling’s Show",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-jackie_gleason_show",
+      "label": "The Jackie Gleason Show",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-jake_20",
+      "label": "Jake 2.0",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-jake_and_the_fatman",
+      "label": "Jake and the Fatman",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-jeffersons",
+      "label": "The Jeffersons",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-joanie_loves-chachi",
+      "label": "Joanie Loves Chachi",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-joey_bishop_show",
+      "label": "The Joey Bishop Show",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-journeyman",
+      "label": "Journeyman",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-judging_amy",
+      "label": "Judging Amy",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-julia",
+      "label": "Julia",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-justified",
+      "label": "Justified",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-karen-sisco",
+      "label": "Karen Sisco",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-kids_of_degrassi_st",
+      "label": "Kids of Degrassi St",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-kiler_instict",
+      "label": "Killer Instinct",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-kingdom",
+      "label": "Kingdom",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-knight_rider",
+      "label": "Knight Rider",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-knight_rider_2008",
+      "label": "Knight Rider (2008)",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-l_word",
+      "label": "The L Word",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-la_law",
+      "label": "L.A. Law",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-las_vegas",
+      "label": "Las Vegas",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-laverne_and_shirley",
+      "label": "Laverne & Shirley",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-law_and_harry_mcgraw",
+      "label": "The Law & Harry McGraw",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-leave_it_to_beaver",
+      "label": "Leave it to Beaver",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-lone_gunmen",
+      "label": "The Lone Gunmen",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-lou_grant",
+      "label": "Lou Grant",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-love_and_war",
+      "label": "Love And War",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-love_that_bob",
+      "label": "Love That Bob",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-loving",
+      "label": "Loving",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-lucy_show",
+      "label": "The Lucy Show",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-lucy_desi_comedy_hour",
+      "label": "The Lucy-Desi Comedy Hour",
+      "type": "tv-show"
+    },
+    {
+      "id": "show_mash",
+      "label": "M*A*S*H",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-madman_of_the_people",
+      "label": "Madman of the People",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-magnum_pi",
+      "label": "Magnum P.I.",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-make_room_for_daddy",
+      "label": "Make Room For Daddy",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-make_room_for_grandaddy",
+      "label": "Make Room For Granddaddy",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-malcolm_in_the_middle",
+      "label": "Malcolm in the Middle",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-mannix",
+      "label": "Mannix",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-many_loves_of_dobie_gillis",
+      "label": "The Many Loves of Dobie Gillis",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-married_with_children",
+      "label": "Married… with Children",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-mary_tyler_moorie_show",
+      "label": "The Mary Tyler Moore Show",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-matlock",
+      "label": "Matlock",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-maude",
+      "label": "Maude",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-mayberry_rfd",
+      "label": "Mayberry R.F.D.",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-medium",
+      "label": "Medium",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-meego",
+      "label": "Meego",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-melrose_place",
+      "label": "Melrose Place",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-melrose_place_2009",
+      "label": "Melrose Place (2009)",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-method_and_red",
+      "label": "Method & Red",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-miami_vice",
+      "label": "Miami Vice",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-middle",
+      "label": "The Middle",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-might_morphin_power_rangers",
+      "label": "Mighty Morphin Power Rangers",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-millennium",
+      "label": "Millennium",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-miss_match",
+      "label": "Miss Match",
+      "type": "tv-show"
     }
   ],
   "edges": [
