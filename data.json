@@ -9834,6 +9834,30 @@
       "target": "show-good_luck_charlie",
       "id": "character-shake_it_up-flynn_jones+show-good_luck_charlie",
       "label": "Guest"
+    },
+    {
+      "source": "show-doctor_who",
+      "target": "show-sarah_jane_adventures",
+      "id": "show-doctor_who+show-sarah_jane_adventures",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-doctor_who",
+      "target": "show-torchwood",
+      "id": "show-doctor_who+show-torchwood",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-doctor_who",
+      "target": "show-k9_and_company",
+      "id": "show-doctor_who+show-k9_and_company",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-k9_and_company",
+      "target": "show-sarah_jane_adventures",
+      "id": "show-k9_and_company+show-sarah_jane_adventures",
+      "label": "Spin-Off"
     }
   ]
 }
