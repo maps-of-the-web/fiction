@@ -1726,7 +1726,7 @@
       "type": "tv-show"
     },
     {
-      "id":"show-hawaii_five_0",
+      "id":"show-hawaii_five_0_2010",
       "label":"Hawaii Five-0",
       "type": "tv-show"
     },
@@ -2284,6 +2284,431 @@
       "id": "show-buffy_the_vampire_slayer",
       "label": "Buffy the Vampire Slayer",
       "type": "tv-show"
+    },
+    {
+      "id": "show-city_of_angels",
+      "label": "City of Angels",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-city",
+      "label": "The City",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-civil_wars",
+      "label": "Civil Wars",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-code_of_vengeance",
+      "label": "Code of Vengeance",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-cold_case",
+      "label": "Cold Case",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-columbo",
+      "label": "Columbo",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-community",
+      "label": "Community",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-conviction",
+      "label": "Conviction",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-cop_rock",
+      "label": "Cop Rock",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-criminal_minds",
+      "label": "Criminal Minds",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-crimial_minds_suspect_behavior",
+      "label": "Criminal Minds: Suspect Behavior",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-crossing_jordan",
+      "label": "Crossing Jordan",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-csi_crime_scene_investigators",
+      "label": "CSI: Crime Scene Investigators",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-csi_cyber",
+      "label": "CSI: Cyber",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-csi_miami",
+      "label": "CSI: Miami",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-csi_new_york",
+      "label": "CSI: New York",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-da",
+      "label": "The D.A.",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-danny_thomas_show",
+      "label": "The Danny Thomas Show",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-day_by_day",
+      "label": "Day by Day",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-dead_like_me",
+      "label": "Dead Like Me",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-deadline",
+      "label": "Deadline",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-degrassi_high",
+      "label": "Degrassi High",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-degrassi_junior_high",
+      "label": "Degrassi Junior High",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-degrasso_the_next_generation",
+      "label": "Degrassi: The Next Generation",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-dennis_the_menace",
+      "label": "Dennis the Menace",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-dexter",
+      "label": "Dexter",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-dharma_and_greg",
+      "label": "Dharma & Greg",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-diagnosis_murder",
+      "label": "Diagnosis: Murder",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-diffrent_strokes",
+      "label": "Diff’rent Strokes",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-differnt_world",
+      "label": "A Different World",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-donna_reed_show",
+      "label": "The Donna Reed Show",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-double_rush",
+      "label": "Double Rush",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-dragnet",
+      "label": "Dragnet",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-dragnet_67",
+      "label": "Dragnet 67",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-er_1984",
+      "label": "E/R (1984)",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-eerie_indiana",
+      "label": "Eerie, Indiana",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-eerie_the_other_dimension",
+      "label": "Eerie: The Other Dimension",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-eli_stone",
+      "label": "Eli Stone",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-ellen",
+      "label": "Ellen",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-emergency",
+      "label": "Emergency!",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-eureka",
+      "label": "Eureka",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-everybody_hates_chris",
+      "label": "Everybody Hates Chris",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-facts_of_life",
+      "label": "The Facts of Life",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-family_ties",
+      "label": "Family Ties",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-famous_teddy_z",
+      "label": "The Famous Teddy Z",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-fear_the_walking_dead",
+      "label": "Fear the Walking Dead",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-fighting-nightingales",
+      "label": "Fighting Nightingales",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-finder",
+      "label": "The Finder",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-firefly",
+      "label": "Firefly",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-first_monday",
+      "label": "First Monday",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-flying_nun",
+      "label": "The Flying Nun",
+      "type": "tv-show"
+    },
+    {
+      "id": "show_fresh_prince_of_bel_air",
+      "label": "The Fresh Prince of Bel Air",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-fringe",
+      "label": "Fringe",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-fuller_house",
+      "label": "Fuller House",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-game",
+      "label": "The Game",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-geena_davis_show",
+      "label": "The Geena Davis Show",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-general_hospital",
+      "label": "General Hospital",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-george_and_leo",
+      "label": "George & Leo",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-get_smart",
+      "label": "Get Smart",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-get_smart_1995",
+      "label": "Get Smart (1995)",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-gidget",
+      "label": "Gidget",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-gilligans_island",
+      "label": "Gilligan’s Island",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-girlfriends",
+      "label": "Girlfriends",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-gloria",
+      "label": "Gloria",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-gomer_pyle_usmc",
+      "label": "Gomer Pyle, U.S.M.C.",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-goober_and_the_truckers_paradise",
+      "label": "Goober and the Trucker’s Paradise",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-good_times",
+      "label": "Good Times",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-grace_under_fire",
+      "label": "Grace Under Fire",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-green_acres",
+      "label": "Green Acres",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-green_hornet",
+      "label": "The Green Hornet",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-hanging_in",
+      "label": "Hanging In",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-happy_days",
+      "label": "Happy Days",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-harrys_law",
+      "label": "Harry’s Law",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-hart_to_hart",
+      "label": "Hart to Hart",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-haven",
+      "label": "Haven",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-hawaii_five_0",
+      "label": "Hawaii Five-O",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-hazel",
+      "label": "Hazel",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-hello_larry",
+      "label": "Hello, Larry",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-heres_lucy",
+      "label": "Here’s Lucy",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-heroes",
+      "label": "Heroes",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-heroes_reborn",
+      "label": "Heroes Reborn",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-hi_honey_im_home",
+      "label": "Hi Honey, I’m Home!",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-high_society",
+      "label": "High Society",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-hill_street_blues",
+      "label": "Hill Street Blues",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-hogans_heroes",
+      "label": "Hogan’s Heroes",
+      "type": "tv-show"
     }
   ],
   "edges": [
@@ -2838,8 +3263,8 @@
     },
     {
       "source": "show-ncis_los_angeles",
-      "target": "show-hawaii_five_0",
-      "id": "show-ncis_los_angeles+show-hawaii_five_0",
+      "target": "show-hawaii_five_0_2010",
+      "id": "show-ncis_los_angeles+show-hawaii_five_0_2010",
       "label":"Crossover"
     },
     {
