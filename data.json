@@ -2736,11 +2736,6 @@
       "type": "tv-show"
     },
     {
-      "id": "show-in_plain_sight",
-      "label": "In Plain Sight",
-      "type": "tv-show"
-    },
-    {
       "id": "show-in_the_house",
       "label": "In the House",
       "type": "tv-show"
