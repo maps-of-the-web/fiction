@@ -10164,6 +10164,24 @@
       "source": "entity-morley_brand_cigarettes",
       "target": "show-weeds",
       "id": "entity-morley_brand_cigarettes+show-weeds"
+    },
+    {
+      "source": "show-walking_dead",
+      "target": "show-fear_the_walking_dead",
+      "id": "show-walking_dead+show-fear_the_walking_dead",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-x-files",
+      "target": "show-lone_gunmen",
+      "id": "show-x-files+show-lone_gunmen",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-breaking_bad",
+      "target": "show-better_call_saul",
+      "id": "show-breaking_bad+show-better_call_saul",
+      "label": "Spin-Off"
     }
   ]
 }
