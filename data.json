@@ -3629,6 +3629,21 @@
       "id": "show-young_marrieds",
       "label": "The Young Marrieds",
       "type": "tv-show"
+    },
+    {
+      "id": "show-burn_notice",
+      "label": "Burn Notics",
+      "type": "tv-show"
+    },
+    {
+      "id": "show-californication",
+      "label": "Californication",
+      "type": "tv-show"
+    },
+    {
+      "id": "entity-morley_brand_cigarettes",
+      "label": "Morley Cigarettes",
+      "type": "entity"
     }
   ],
   "edges": [
@@ -9957,8 +9972,198 @@
     {
       "source": "show-columbo",
       "target": "show-mrs_columbo",
-      "id": "",
+      "id": "show-columbo+show-mrs_columbo",
       "label": "Spin-Off"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-24",
+      "id": "entity-morley_brand_cigarettes+show-24"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-american_horror_story_murder_house",
+      "id": "entity-morley_brand_cigarettes+show-american_horror_story_murder_house"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-americans",
+      "id": "entity-morley_brand_cigarettes+show-americans"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-becker",
+      "id": "entity-morley_brand_cigarettes+show-becker"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-breaking_bad",
+      "id": "entity-morley_brand_cigarettes+show-breaking_bad"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-burn_notice",
+      "id": "entity-morley_brand_cigarettes+show-burn_notice"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-californication",
+      "id": "entity-morley_brand_cigarettes+show-californication"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-cold_case",
+      "id": "entity-morley_brand_cigarettes+show-cold_case"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-dick_van_dyke_show",
+      "id": "entity-morley_brand_cigarettes+show-dick_van_dyke_show"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-everybody_hates_chris",
+      "id": "entity-morley_brand_cigarettes+show-everybody_hates_chris"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-fraiser",
+      "id": "entity-morley_brand_cigarettes+show-fraiser"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-friends",
+      "id": "entity-morley_brand_cigarettes+show-friends"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-heroes",
+      "id": "entity-morley_brand_cigarettes+show-heroes"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-huff",
+      "id": "entity-morley_brand_cigarettes+show-huff"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-jake_20",
+      "id": "entity-morley_brand_cigarettes+show-jake_20"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-judging_amy",
+      "id": "entity-morley_brand_cigarettes+show-judging_amy"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-kingdom",
+      "id": "entity-morley_brand_cigarettes+show-kingdom"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-l_word",
+      "id": "entity-morley_brand_cigarettes+show-l_word"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-malcolm_in_the_middle",
+      "id": "entity-morley_brand_cigarettes+show-malcolm_in_the_middle"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-mannix",
+      "id": "entity-morley_brand_cigarettes+show-mannix"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-middle",
+      "id": "entity-morley_brand_cigarettes+show-middle"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-mission_impossible_1966",
+      "id": "entity-morley_brand_cigarettes+show-mission_impossible_1966"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-nash_bridges",
+      "id": "entity-morley_brand_cigarettes+show-nash_bridges"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-orange_in_the_new_black",
+      "id": "entity-morley_brand_cigarettes+show-orange_in_the_new_black"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-prison_break",
+      "id": "entity-morley_brand_cigarettes+show-prison_break"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-reaper",
+      "id": "entity-morley_brand_cigarettes+show-reaper"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-saving_grace",
+      "id": "entity-morley_brand_cigarettes+show-saving_grace"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-shameless_us",
+      "id": "entity-morley_brand_cigarettes+show-shameless_us"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-seinfeld",
+      "id": "entity-morley_brand_cigarettes+show-seinfeld"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-sordid_lives_the_series",
+      "id": "entity-morley_brand_cigarettes+show-sordid_lives_the_series"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-space_above_and_beyond",
+      "id": "entity-morley_brand_cigarettes+show-space_above_and_beyond"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-special_unit_2",
+      "id": "entity-morley_brand_cigarettes+show-special_unit_2"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-strain",
+      "id": "entity-morley_brand_cigarettes+show-strain"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-that_70s_show",
+      "id": "entity-morley_brand_cigarettes+show-that_70s_show"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-walking_dead",
+      "id": "entity-morley_brand_cigarettes+show-walking_dead"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-up_all_night",
+      "id": "entity-morley_brand_cigarettes+show-up_all_night"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-united_states_of_tara",
+      "id": "entity-morley_brand_cigarettes+show-united_states_of_tara"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-weeds",
+      "id": "entity-morley_brand_cigarettes+show-weeds"
     }
   ]
 }
