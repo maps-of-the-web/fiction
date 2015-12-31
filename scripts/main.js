@@ -30,6 +30,7 @@ function colorNode(node) {
       break;
     case "entity":
       node.color = styleBySelector["#graph.entity-node"].color || '#1371D2';
+      break;
     case "tv-show":
       node.color = styleBySelector["#graph.show-node"].color || '#D32F2F';
       break;
