@@ -3649,6 +3649,16 @@
       "id": "entity-oceanic_airlines",
       "label": "Oceanic Airlines",
       "type": "entity"
+    },
+    {
+      "id": "entity-buddy_page",
+      "label": "Buddy Page",
+      "type": "Entity"
+    },
+    {
+      "id": "entity-mytab",
+      "label": "myTab",
+      "type": "Entity"
     }
   ],
   "edges": [
@@ -10269,6 +10279,26 @@
       "source": "show-buffy_the_vampire_slayer",
       "target": "show-angel",
       "id": "show-buffy_the_vampire_slayer+show-angel"
+    },
+    {
+      "source": "entity-buddy_page",
+      "target": "show-good_luck_charlie",
+      "id": ""
+    },
+    {
+      "source": "entity-buddy_page",
+      "target": "show-jessie",
+      "id": ""
+    },
+    {
+      "source": "entity-mytab",
+      "target": "show-good_luck_charlie",
+      "id": ""
+    },
+    {
+      "source": "entity-mytab",
+      "target": "show-austin_and_ally",
+      "id": ""
     }
   ]
 }
