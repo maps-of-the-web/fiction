@@ -3644,6 +3644,11 @@
       "id": "entity-morley_brand_cigarettes",
       "label": "Morley Cigarettes",
       "type": "entity"
+    },
+    {
+      "id": "entity-oceanic_airlines",
+      "label": "Oceanic Airlines",
+      "type": "entity"
     }
   ],
   "edges": [
@@ -10169,6 +10174,76 @@
       "source": "entity-morley_brand_cigarettes",
       "target": "show-x_files",
       "id": "entity-morley_brand_cigarettes+show-x_files"
+    },
+    {
+      "source": "entity-morley_brand_cigarettes",
+      "target": "show-lost",
+      "id": "entity-morley_brand_cigarettes+show-lost"
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-lost",
+      "id": "entity-oceanic_airlines+show-lost"
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-alias",
+      "id": "entity-oceanic_airlines+show-alias"
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-castle",
+      "id": "entity-oceanic_airlines+show-castle"
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-chuck",
+      "id": "entity-oceanic_airlines+show-chuck"
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-crossing_jordan",
+      "id": "entity-oceanic_airlines+show-crossing_jordan"
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-flashforward",
+      "id": "entity-oceanic_airlines+show-flashforward"
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-fringe",
+      "id": "entity-oceanic_airlines+show-fringe"
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-lax",
+      "id": "entity-oceanic_airlines+show-lax"
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-pretender",
+      "id": "entity-oceanic_airlines+show-pretender"
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-once_upon_a_time",
+      "id": "entity-oceanic_airlines+show-once_upon_a_time"
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-pushing_daisies",
+      "id": "entity-oceanic_airlines+show-pushing_daisies"
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-up_all_night",
+      "id": "entity-oceanic_airlines+show-up_all_night"
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-x_files",
+      "id": "entity-oceanic_airlines+show-x_files"
     }
   ]
 }
