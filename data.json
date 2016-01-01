@@ -10244,6 +10244,16 @@
       "source": "entity-oceanic_airlines",
       "target": "show-x_files",
       "id": "entity-oceanic_airlines+show-x_files"
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-jag",
+      "id": ""
+    },
+    {
+      "source": "entity-oceanic_airlines",
+      "target": "show-diagnosis_murder",
+      "id": ""
     }
   ]
 }
