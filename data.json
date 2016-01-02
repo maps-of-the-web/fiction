@@ -3799,6 +3799,11 @@
       "id": "entity-yoyodyne",
       "label": "Yoyodyne",
       "type": "entity"
+    },
+    {
+      "id": "entity-klingon_bird_of_prey",
+      "label": "Klingon Bird-of-Prey",
+      "type": "entity"
     }
   ],
   "edges": [
@@ -10880,6 +10885,22 @@
       "source": "entity-tardis",
       "target": "show-chelmsford_123",
       "id": "entity-tardis+show-chelmsford_123"
+    },
+    {
+      "source": "entity-klingon_bird_of_prey",
+      "target": "show-star_trek",
+      "id": "entity-klingon_bird_of_prey+show-star_trek"
+    },
+    {
+      "source": "show-star_trek",
+      "target": "entity-klingon_bird_of_prey",
+      "id": "show-star_trek+entity-klingon_bird_of_prey",
+      "label": "Origin"
+    },
+    {
+      "source": "entity-klingon_bird_of_prey",
+      "target": "show-red_dwarf",
+      "id": "entity-klingon_bird_of_prey+show-red_dwarf"
     }
   ]
 }
