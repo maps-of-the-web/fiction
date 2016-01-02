@@ -3794,6 +3794,11 @@
       "id": "entity-hudson_university",
       "label": "Hudson University",
       "type": "entity"
+    },
+    {
+      "id": "entity-yoyodyne",
+      "label": "Yoyodyne",
+      "type": "entity"
     }
   ],
   "edges": [
@@ -10850,6 +10855,26 @@
       "target": "show-star_trek_enterprise",
       "id": "show-star_trek_voyager+show-star_trek_enterprise",
       "label": "Spin-Off"
+    },
+    {
+      "source": "entity-yoyodyne",
+      "target": "show-john_larroquette",
+      "id": "entity-yoyodyne+show-john_larroquette"
+    },
+    {
+      "source": "entity-yoyodyne",
+      "target": "show-star_trek",
+      "id": "entity-yoyodyne+show-star_trek"
+    },
+    {
+      "source": "entity-yoyodyne",
+      "target": "show-star_trek_the_next_generation",
+      "id": "entity-yoyodyne+show-star_trek_the_next_generation"
+    },
+    {
+      "source": "entity-yoyodyne",
+      "target": "show-angel",
+      "id": "entity-yoyodyne+show-angel"
     }
   ]
 }
