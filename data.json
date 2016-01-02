@@ -10826,6 +10826,30 @@
       "source": "entity-tardis",
       "target": "show-red_dwarf",
       "id": "entity-tardis+show-red_dwarf"
+    },
+    {
+      "source": "show-star_trek",
+      "target": "show-star_trek_the_next_generation",
+      "id": "show-star_trek+show-star_trek_the_next_generation",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-star_trek_the_next_generation",
+      "target": "show-star_trek_deep_space_nine",
+      "id": "show-star_trek_the_next_generation+show-star_trek_deep_space_nine",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-star_trek_deep_space_nine",
+      "target": "show-star_trek_voyager",
+      "id": "show-star_trek_deep_space_nine+show-star_trek_voyager",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-star_trek_voyager",
+      "target": "show-star_trek_enterprise",
+      "id": "show-star_trek_voyager+show-star_trek_enterprise",
+      "label": "Spin-Off"
     }
   ]
 }
