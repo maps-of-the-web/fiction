@@ -10554,6 +10554,12 @@
       "target": "movie-homicide",
       "id": "character-homicide_life_on_the_street-ed_danvers+movie-homicide",
       "label": "Main Character"
+    },
+    {
+      "source": "show-full_house",
+      "target": "show-fuller_house",
+      "id": "show-full_house+show-fuller_house",
+      "label": "Spin-Off"
     }
   ]
 }
