@@ -3659,6 +3659,16 @@
       "id": "entity-mytab",
       "label": "myTab",
       "type": "entity"
+    },
+    {
+      "id": "entity-hero_rising",
+      "label": "Hero Rising",
+      "type": "entity"
+    },
+    {
+      "id": "show-aaron_stone",
+      "label": "Aaron Stone",
+      "type": "tv-show"
     }
   ],
   "edges": [
@@ -10299,6 +10309,16 @@
       "source": "entity-mytab",
       "target": "show-austin_and_ally",
       "id": "entity-mytab+show-austin_and_ally"
+    },
+    {
+      "source": "entity-hero_rising",
+      "target": "show-aaron_stone",
+      "id": "entity-hero_rising+show-aaron_stone"
+    },
+    {
+      "source": "entity-hero_rising",
+      "target": "show-good_luck_charlie",
+      "id": "entity-hero_rising+show-good_luck_charlie"
     }
   ]
 }
