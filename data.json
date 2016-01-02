@@ -846,6 +846,61 @@
       "type": "tv-show"
     },
     {
+      "id": "character-family_matters-carl_winslow",
+      "label": "Carl Winslow",
+      "type": "character"
+    },
+    {
+      "id": "character-family_matters-harriette_baines_winslow",
+      "label": "Harriette Baines-Winslow",
+      "type": "character"
+    },
+    {
+      "id": "character-family_matters-edward_winslow",
+      "label": "Edward Winslow",
+      "type": "character"
+    },
+    {
+      "id": "character-family_matters-laura_lee_winslow",
+      "label": "Laura Lee Winslow",
+      "type": "character"
+    },
+    {
+      "id": "character-family_matters-judith_winslow",
+      "label": "Jusith Winslow",
+      "type": "character"
+    },
+    {
+      "id": "character-family_matters-estelle_winslow",
+      "label": "Estelle Winslow",
+      "type": "character"
+    },
+    {
+      "id": "character-family_matters-richard_crawford",
+      "label": "Richard Crawford",
+      "type": "character"
+    },
+    {
+      "id": "character-family_matters-rachel_baines_crawford",
+      "label": "Rachel Baines-Crawford",
+      "type": "character"
+    },
+    {
+      "id": "character-family_matters-steven_urkel",
+      "label": "Steven Urkel",
+      "type": "character"
+    },
+    {
+      "id": "character-family_matters-waldo_geraldo_faldo",
+      "label": "Waldo Geraldo Faldo",
+      "type": "character"
+    },
+    {
+      "id": "character-family_matters-myra_monkhouse",
+      "label": "Myra Monkhouse",
+      "type": "character"
+    },
+    {
       "id":"show-full_house",
       "label":"Full House",
       "type": "tv-show"
@@ -10319,6 +10374,66 @@
       "source": "entity-hero_rising",
       "target": "show-good_luck_charlie",
       "id": "entity-hero_rising+show-good_luck_charlie"
+    },
+    {
+      "source": "character-family_matters-carl_winslow",
+      "target": "show-family_matters",
+      "id": "character-family_matters-carl_winslow+show-family_matters",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-family_matters-harriette_baines_winslow",
+      "target": "show-family_matters",
+      "id": "character-family_matters-harriette_baines_winslow+show-family_matters",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-family_matters-edward_winslow",
+      "target": "show-family_matters",
+      "id": "character-family_matters-edward_winslow+show-family_matters",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-family_matters-laura_lee_winslow",
+      "target": "show-family_matters",
+      "id": "character-family_matters-laura_lee_winslow+show-family_matters",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-family_matters-judith_winslow",
+      "target": "show-family_matters",
+      "id": "character-family_matters-judith_winslow+show-family_matters",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-family_matters-estelle_winslow",
+      "target": "show-family_matters",
+      "id": "character-family_matters-estelle_winslow+show-family_matters",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-family_matters-richard_crawford",
+      "target": "show-family_matters",
+      "id": "character-family_matters-richard_crawford+show-family_matters",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-family_matters-rachel_baines_crawford",
+      "target": "show-family_matters",
+      "id": "character-family_matters-rachel_baines_crawford+show-family_matters",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-family_matters-steven_urkel",
+      "target": "show-family_matters",
+      "id": "character-family_matters-steven_urkel+show-family_matters",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-family_matters-waldo_geraldo_faldo",
+      "target": "show-family_matters",
+      "id": "character-family_matters-waldo_geraldo_faldo+show-family_matters",
+      "label": "Main Character"
     }
   ]
 }
