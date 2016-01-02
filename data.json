@@ -906,6 +906,61 @@
       "type": "tv-show"
     },
     {
+      "id": "character-full_house-jesse_katsopolis",
+      "label": "Jesse Katsopolis",
+      "type": "character"
+    },
+    {
+      "id": "character-full_house-danny_tanner",
+      "label": "Danny Tanner",
+      "type": "character"
+    },
+    {
+      "id": "character-full_house-joey_gladstone",
+      "label": "Joey Gladstone",
+      "type": "character"
+    },
+    {
+      "id": "character-full_house-dj_tanner",
+      "label": "D.J. Tanner",
+      "type": "character"
+    },
+    {
+      "id": "character-full_house-stephanie_tanner",
+      "label": "Stephanie Tanner",
+      "type": "character"
+    },
+    {
+      "id": "character-full_house-michelle_tanner",
+      "label": "Michelle Tanner",
+      "type": "character"
+    },
+    {
+      "id": "character-full_house-rebecca_donaldson_katsopolis",
+      "label": "Rebecca Donaldson Katsopolis",
+      "type": "character"
+    },
+    {
+      "id": "character-full_house-kimmy_gibbler",
+      "label": "Kimmy Gibbler",
+      "type": "character"
+    },
+    {
+      "id": "character-full_house-steve_hale",
+      "label": "Steve Hale",
+      "type": "character"
+    },
+    {
+      "id": "character-full_house-nicky_katsopolis",
+      "label": "Nicky Katsopolis",
+      "type": "character"
+    },
+    {
+      "id": "character-full_house-alex_katsopolis",
+      "label": "Alex Katsopolis",
+      "type": "character"
+    },
+    {
       "id":"show-step_by_step",
       "label":"Step by Step",
       "type": "tv-show"
@@ -10560,6 +10615,72 @@
       "target": "show-fuller_house",
       "id": "show-full_house+show-fuller_house",
       "label": "Spin-Off"
+    },
+    {
+      "source": "character-full_house-jesse_katsopolis",
+      "target": "show-full_house",
+      "id": "character-full_house-jesse_katsopolis+show-full_house",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-full_house-danny_tanner",
+      "target": "show-full_house",
+      "id": "character-full_house-danny_tanner+show-full_house",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-full_house-joey_gladstone",
+      "target": "show-full_house",
+      "id": "character-full_house-joey_gladstone+show-full_house",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-full_house-dj_tanner",
+      "target": "show-full_house",
+      "id": "character-full_house-dj_tanner+show-full_house",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-full_house-stephanie_tanner",
+      "target": "show-full_house",
+      "id": "character-full_house-stephanie_tanner+show-full_house",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-full_house-michelle_tanner",
+      "target": "show-full_house",
+      "id": "character-full_house-michelle_tanner+show-full_house",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-full_house-rebecca_donaldson_katsopolis",
+      "target": "show-full_house",
+      "id": "character-full_house-rebecca_donaldson_katsopolis+show-full_house",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-full_house-kimmy_gibbler",
+      "target": "show-full_house",
+      "id": "character-full_house-kimmy_gibbler+show-full_house",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-full_house-steve_hale",
+      "target": "show-full_house",
+      "id": "character-full_house-steve_hale+show-full_house",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-full_house-nicky_katsopolis",
+      "target": "show-full_house",
+      "id": "character-full_house-nicky_katsopolis+show-full_house",
+      "label": "Main Character"
+    },
+    {
+      "source": "character-full_house-alex_katsopolis",
+      "target": "show-full_house",
+      "id": "character-full_house-alex_katsopolis+show-full_house",
+      "label": "Main Character"
     }
   ]
 }
