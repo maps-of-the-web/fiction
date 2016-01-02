@@ -10821,6 +10821,11 @@
       "source": "entity-gallifrey",
       "target": "show-might_morphin_power_rangers",
       "id": "entity-gallifrey+show-might_morphin_power_rangers"
+    },
+    {
+      "source": "entity-tardis",
+      "target": "show-red_dwarf",
+      "id": "entity-tardis+show-red_dwarf"
     }
   ]
 }
