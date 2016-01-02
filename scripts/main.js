@@ -113,13 +113,12 @@ sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/d
 
   s.startForceAtlas2({
     outboundAttractionDistribution: true,
-    adjustSizes: true,
-    barnesHutOptimize: false
+    adjustSizes: true
   });
 
   setTimeout(function() {
     s.stopForceAtlas2();
-  }, 60 * 1000);
+  }, 120 * 1000);
 
   // We first need to save the original colors of our
   // nodes and edges, like this:
