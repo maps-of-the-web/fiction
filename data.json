@@ -2106,6 +2106,16 @@
       "type": "tv-show"
     },
     {
+      "id": "entity-tardis",
+      "label": "TARDIS",
+      "type": "entity"
+    },
+    {
+      "id": "entity-gallifrey",
+      "label": "Gallifrey",
+      "type": "entity"
+    },
+    {
       "id": "show-k9_and_company",
       "label": "K9 and Company",
       "type": "tv-show"
@@ -10754,6 +10764,58 @@
       "source": "entity-hudson_university",
       "target": "show-murder_she_wrote",
       "id": "entity-hudson_university+show-murder_she_wrote"
+    },
+    {
+      "source": "entity-tardis",
+      "target": "show-doctor_who",
+      "id": "entity-tardis+show-doctor_who"
+    },
+    {
+      "source": "entity-tardis",
+      "target": "show-k9_and_company",
+      "id": "entity-tardis+show-k9_and_company"
+    },
+    {
+      "source": "entity-tardis",
+      "target": "show-sarah_jane_adventures",
+      "id": "entity-tardis+show-sarah_jane_adventures"
+    },
+    {
+      "source": "entity-tardis",
+      "target": "show-torchwood",
+      "id": "entity-tardis+show-torchwood"
+    },
+    {
+      "source": "entity-gallifrey",
+      "target": "show-doctor_who",
+      "id": "entity-gallifrey+show-doctor_who"
+    },
+    {
+      "source": "entity-gallifrey",
+      "target": "show-k9_and_company",
+      "id": "entity-gallifrey+show-k9_and_company"
+    },
+    {
+      "source": "entity-gallifrey",
+      "target": "show-sarah_jane_adventures",
+      "id": "entity-gallifrey+show-sarah_jane_adventures"
+    },
+    {
+      "source": "entity-gallifrey",
+      "target": "show-torchwood",
+      "id": "entity-gallifrey+show-torchwood"
+    },
+    {
+      "source": "show-doctor_who",
+      "target": "entity-tardis",
+      "id": "show-doctor_who+entity-tardis",
+      "label": "Origin"
+    },
+    {
+      "source": "show-doctor_who",
+      "target": "entity-gallifrey",
+      "id": "show-doctor_who+entity-gallifrey",
+      "label": "Origin"
     }
   ]
 }
