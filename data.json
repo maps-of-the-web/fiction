@@ -3779,6 +3779,11 @@
       "id": "show-aaron_stone",
       "label": "Aaron Stone",
       "type": "tv-show"
+    },
+    {
+      "id": "entity-hudson_university",
+      "label": "Hudson University",
+      "type": "entity"
     }
   ],
   "edges": [
@@ -10699,6 +10704,56 @@
       "target": "show-legends_of_tomorrow",
       "id": "show-flash+show-legends_of_tomorrow",
       "label": "Spin-Off"
+    },
+    {
+      "source": "entity-hudson_university",
+      "target": "show-blue_bloods",
+      "id": "entity-hudson_university+show-blue_bloods"
+    },
+    {
+      "source": "entity-hudson_university",
+      "target": "show-castle",
+      "id": "entity-hudson_university+show-castle"
+    },
+    {
+      "source": "entity-hudson_university",
+      "target": "show-cosby_show",
+      "id": "entity-hudson_university+show-cosby_show"
+    },
+    {
+      "source": "entity-hudson_university",
+      "target": "show-degrassi_the_next_generation",
+      "id": "entity-hudson_university+show-degrassi_the_next_generation"
+    },
+    {
+      "source": "entity-hudson_university",
+      "target": "show-law_and_order",
+      "id": "entity-hudson_university+show-law_and_order"
+    },
+    {
+      "source": "entity-hudson_university",
+      "target": "show-law_and_order_special_victims_unit",
+      "id": "entity-hudson_university+show-law_and_order_special_victims_unit"
+    },
+    {
+      "source": "entity-hudson_university",
+      "target": "show-secret_life_of_the_american_teenager",
+      "id": "entity-hudson_university+show-secret_life_of_the_american_teenager"
+    },
+    {
+      "source": "entity-hudson_university",
+      "target": "show-unforgettable",
+      "id": "entity-hudson_university+show-unforgettable"
+    },
+    {
+      "source": "entity-hudson_university",
+      "target": "show-flash",
+      "id": "entity-hudson_university+show-flash"
+    },
+    {
+      "source": "entity-hudson_university",
+      "target": "show-murder_she_wrote",
+      "id": "entity-hudson_university+show-murder_she_wrote"
     }
   ]
 }
