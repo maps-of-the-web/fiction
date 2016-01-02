@@ -3653,12 +3653,12 @@
     {
       "id": "entity-buddy_page",
       "label": "Buddy Page",
-      "type": "Entity"
+      "type": "entity"
     },
     {
       "id": "entity-mytab",
       "label": "myTab",
-      "type": "Entity"
+      "type": "entity"
     }
   ],
   "edges": [
