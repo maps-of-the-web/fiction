@@ -10681,6 +10681,24 @@
       "target": "show-full_house",
       "id": "character-full_house-alex_katsopolis+show-full_house",
       "label": "Main Character"
+    },
+    {
+      "source": "show-arrow",
+      "target": "show-flash",
+      "id": "show-arrow+show-flash",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-arrow",
+      "target": "show-legends_of_tomorrow",
+      "id": "show-arrow+show-legends_of_tomorrow",
+      "label": "Spin-Off"
+    },
+    {
+      "source": "show-flash",
+      "target": "show-legends_of_tomorrow",
+      "id": "show-flash+show-legends_of_tomorrow",
+      "label": "Spin-Off"
     }
   ]
 }
