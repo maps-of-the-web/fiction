@@ -160,6 +160,9 @@ sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/d
     // call the refresh method to make the colors
     // update effective.
     s.refresh();
+    
+    // Send Google Analytics event when interacting with node.
+    ga('send', 'event', 'Node', 'select', e.data.node.label + '(' + e.data.node.id + ')');
   });
 
   // When the stage is clicked, we just color each
@@ -175,5 +178,8 @@ sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/d
 
     // Same as in the previous event:
     s.refresh();
+    
+    // Send Google Analytics event when the stage is interacted with.
+    ga('send', 'event', 'Stage', 'click')
   });
 });
