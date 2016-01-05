@@ -162,7 +162,7 @@ sigma.parsers.json('//raw.githubusercontent.com/maps-of-the-web/fiction/master/d
     s.refresh();
     
     // Send Google Analytics event when interacting with node.
-    ga('send', 'event', 'Node', 'select', e.data.node.label + '(' + e.data.node.id + ')');
+    ga('send', 'event', 'Node', 'select', e.data.node.label + ' (' + e.data.node.id + ')');
   });
 
   // When the stage is clicked, we just color each
