@@ -101,6 +101,8 @@
       "type": "movie"
     },
     {
+      "x": 0,
+      "y": 0,
       "id":"show-st_elsewhere",
       "label":"St. Elsewhere",
       "type": "tv-show"
